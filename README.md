@@ -2,12 +2,17 @@
 
 > A curated list of awesome open-source Acoustic packages and resources.
 
+```javascript
+const ACCEPTING_CONTRIBUTIONS = true;
+```
+
 - [General Tools](#general-tools)
 - [Room Acoustics](#room-acoustics)
 - [Soundscape](#soundscape)
 - [Environment](#environment)
 - [Bioacoustics](#bioacoustics)
 - [Signal Processing](#signal-processing)
+
  
 ## General Tools
 
