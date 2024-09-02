@@ -36,6 +36,7 @@ const ACCEPTING_CONTRIBUTIONS = true;
 | Package | Description | Techs |
 |---------|-------------|-------|
 | [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | The best way to compute noise map, implements the CNOSSOS-EU model | [![Techs](https://skillicons.dev/icons?i=java)](#) |
+| [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Smartphone App for measuring environmental noise and contribute to community driven noise maps | [![Techs](https://skillicons.dev/icons?i=java)](#) |
 
 
 ## Soundscape
