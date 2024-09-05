@@ -10,6 +10,7 @@ Contributions are more than welcome
 - [Environment](#environment)
 - [Soundscape](#soundscape)
 - [Bioacoustics](#bioacoustics)
+- [Databases](#databases)
 
  
 ## General Tools
@@ -57,7 +58,7 @@ Contributions are more than welcome
 | [BirdNET](https://github.com/kahst/BirdNET-Analyzer) | Automated bird recognition from audio recordings | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 | [BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) | A full BirdNET-based detection system on the RaspberryPi | [![Techs](https://skillicons.dev/icons?i=raspberrypi)](#) |
 
-# Databases
+## Databases
 
 | Package | Description | Techs |
 |---------|-------------|-------|
