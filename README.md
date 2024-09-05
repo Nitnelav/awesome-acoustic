@@ -2,16 +2,14 @@
 
 > A curated list of awesome open-source Acoustic packages and resources.
 
-```javascript
-const ACCEPTING_CONTRIBUTIONS = true;
-```
+Contributions are more than welcome
 
 - [General Tools](#general-tools)
-- [Room Acoustics](#room-acoustics)
-- [Soundscape](#soundscape)
-- [Environment](#environment)
-- [Bioacoustics](#bioacoustics)
 - [Signal Processing](#signal-processing)
+- [Room Acoustics](#room-acoustics)
+- [Environment](#environment)
+- [Soundscape](#soundscape)
+- [Bioacoustics](#bioacoustics)
 
  
 ## General Tools
@@ -22,6 +20,13 @@ const ACCEPTING_CONTRIBUTIONS = true;
 | [MoSQITo](https://github.com/Eomys/MoSQITo) | Compute sound quality metrics from audio files | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 | [Pyfar](https://github.com/pyfar/pyfar) | A mature python package for acoustics research | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 | [PyTTA](https://github.com/PyTTaMaster/PyTTa) | Another acoustic package with a measurements | [![Techs](https://skillicons.dev/icons?i=py)](#) |
+
+## Signal Processing
+
+| Package | Description | Techs |
+|---------|-------------|-------|
+| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | A small package dedicated to time domain octave bands | [![Techs](https://skillicons.dev/icons?i=py)](#) |
+| [Acoular](https://github.com/acoular/acoular) | Python module for acoustic beamforming |[![Techs](https://skillicons.dev/icons?i=py)](#) |
 
 ## Room Acoustics
 
@@ -51,10 +56,3 @@ const ACCEPTING_CONTRIBUTIONS = true;
 |---------|-------------|-------|
 | [BirdNET](https://github.com/kahst/BirdNET-Analyzer) | Automated bird recognition from audio recordings | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 | [BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) | A full BirdNET-based detection system on the RaspberryPi | [![Techs](https://skillicons.dev/icons?i=raspberrypi)](#) |
-
-## Signal Processing
-
-| Package | Description | Techs |
-|---------|-------------|-------|
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | A small package dedicated to time domain octave bands | [![Techs](https://skillicons.dev/icons?i=py)](#) |
-| [Acoular](https://github.com/acoular/acoular) | Python module for acoustic beamforming |[![Techs](https://skillicons.dev/icons?i=py)](#) |
