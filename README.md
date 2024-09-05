@@ -56,3 +56,9 @@ Contributions are more than welcome
 |---------|-------------|-------|
 | [BirdNET](https://github.com/kahst/BirdNET-Analyzer) | Automated bird recognition from audio recordings | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 | [BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) | A full BirdNET-based detection system on the RaspberryPi | [![Techs](https://skillicons.dev/icons?i=raspberrypi)](#) |
+
+# Databases
+
+| Package | Description | Techs |
+|---------|-------------|-------|
+| [Soundata](https://github.com/soundata/soundata) | Python library for downloading, loading & working with sound datasets | [![Techs](https://skillicons.dev/icons?i=py)](#) |
