@@ -44,7 +44,6 @@ Contributions are more than welcome
 | [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | The best way to compute noise map, implements the CNOSSOS-EU model | [![Techs](https://skillicons.dev/icons?i=java)](#) |
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Smartphone App for measuring environmental noise and contribute to community driven noise maps | [![Techs](https://skillicons.dev/icons?i=java)](#) |
 
-
 ## Soundscape
 
 | Package | Description | Techs |
@@ -58,6 +57,7 @@ Contributions are more than welcome
 |---------|-------------|-------|
 | [BirdNET](https://github.com/kahst/BirdNET-Analyzer) | Automated bird recognition from audio recordings | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 | [BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) | A full BirdNET-based detection system on the RaspberryPi | [![Techs](https://skillicons.dev/icons?i=raspberrypi)](#) |
+| [PAMGuard](https://github.com/PAMGuard/PAMGuard) | Detection, Classification, and Localisation of marine mammal and other bioacoustic signals | [![Techs](https://skillicons.dev/icons?i=java)](#) |
 
 ## Databases
 
