@@ -1,8 +1,10 @@
 # Awesome Acoustic ![Awesome](https://awesome.re/badge.svg)
 
+> [!NOTE]
 > A curated list of awesome open-source Acoustic packages and resources.
 
-Contributions are more than welcome
+> [!IMPORTANT]
+> Contributions are more than welcome
 
 - [General Tools](#general-tools)
 - [Signal Processing](#signal-processing)
