@@ -1,7 +1,6 @@
 # Awesome Acoustic ![Awesome](https://awesome.re/badge.svg)
 
-> [!NOTE]
-> A curated list of awesome open-source Acoustic packages and resources.
+A curated list of awesome open-source Acoustic packages and resources.
 
 > [!IMPORTANT]
 > Contributions are more than welcome
