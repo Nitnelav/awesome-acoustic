@@ -50,6 +50,7 @@ Contributions are more than welcome
 | Package | Description | Techs |
 |---------|-------------|-------|
 | [Soundscapy](https://github.com/MitchellAcoustics/Soundscapy) | A python library for soundscape assessments | [![Techs](https://skillicons.dev/icons?i=py)](#) |
+| [scikit-maad](https://github.com/scikit-maad/scikit-maad) | Python package dedicated to the quantitative analysis of environmental audio recordings | [![Techs](https://skillicons.dev/icons?i=py)](#) |
 
 ## Bioacoustics
 
