@@ -1,9 +1,9 @@
 import json
 from pathlib import Path
 
-README_HEADER = '''# Awesome Acoustic ![Awesome](https://awesome.re/badge.svg)
+README_HEADER = '''# Awesome Acoustic !
 
-A curated list of awesome open-source Acoustic packages and resources.
+A list of awesome open-source Acoustic packages and resources.
 
 > [!IMPORTANT]
 > Contributions are more than welcome
