@@ -1,0 +1,139 @@
+[
+  {
+    "category": "General Tools",
+    "projects": [
+      {
+        "name": "Acoustic Toolbox",
+        "url": "https://github.com/Universite-Gustave-Eiffel/acoustic-toolbox",
+        "description": "A generalist acoustic toolbox built arround numpy and scipy",
+        "techs": ["py"]
+      },
+      {
+        "name": "MoSQITo",
+        "url": "https://github.com/Eomys/MoSQITo",
+        "description": "Compute sound quality metrics from audio files",
+        "techs": ["py"]
+      },
+      {
+        "name": "Pyfar",
+        "url": "https://github.com/pyfar/pyfar",
+        "description": "A mature python package for acoustics research",
+        "techs": ["py"]
+      },
+      {
+        "name": "PyTTA",
+        "url": "https://github.com/PyTTaMaster/PyTTa",
+        "description": "Another acoustic package with a measurements",
+        "techs": ["py"]
+      }
+    ]
+  },
+  {
+    "category": "Signal Processing",
+    "projects": [
+      {
+        "name": "PyOctaveBand",
+        "url": "https://github.com/jmrplens/PyOctaveBand",
+        "description": "A small package dedicated to time domain octave bands",
+        "techs": ["py"]
+      },
+      {
+        "name": "Acoular",
+        "url": "https://github.com/acoular/acoular",
+        "description": "Python module for acoustic beamforming",
+        "techs": ["py"]
+      }
+    ]
+  },
+  {
+    "category": "Room Acoustics",
+    "projects": [
+      {
+        "name": "Pyroomacoustics",
+        "url": "https://github.com/LCAV/pyroomacoustics",
+        "description": "package for audio signal processing for indoor applications",
+        "techs": ["py"]
+      },
+      {
+        "name": "Virtual Acoustics",
+        "url": "https://www.virtualacoustics.org/",
+        "description": "creates audible sound from a purely virtual situation",
+        "techs": ["windows", "cpp"]
+      },
+      {
+        "name": "I-Simpa",
+        "url": "https://github.com/Universite-Gustave-Eiffel/I-Simpa",
+        "description": "An open-source software for 3D sound propagation modelling",
+        "techs": ["py", "cpp"]
+      }
+    ]
+  },
+  {
+    "category": "Environment",
+    "projects": [
+      {
+        "name": "NoiseModelling",
+        "url": "https://github.com/Universite-Gustave-Eiffel/NoiseModelling",
+        "description": "The best way to compute noise map, implements the CNOSSOS-EU model",
+        "techs": ["java"]
+      },
+      {
+        "name": "NoiseCapture",
+        "url": "https://github.com/Universite-Gustave-Eiffel/NoiseCapture",
+        "description": "Smartphone App for measuring environmental noise and contribute to community driven noise maps",
+        "techs": ["java"]
+      }
+    ]
+  },
+  {
+    "category": "Soundscape",
+    "projects": [
+      {
+        "name": "Soundscapy",
+        "url": "https://github.com/MitchellAcoustics/Soundscapy",
+        "description": "A python library for soundscape assessments",
+        "techs": ["py"]
+      },
+      {
+        "name": "scikit-maad",
+        "url": "https://github.com/scikit-maad/scikit-maad",
+        "description": "Python package dedicated to the quantitative analysis of environmental audio recordings",
+        "techs": ["py"]
+      }
+    ]
+  },
+  {
+    "category": "Bioacoustics",
+    "projects": [
+      {
+        "name": "BirdNET",
+        "url": "https://github.com/kahst/BirdNET-Analyzer",
+        "description": "Automated bird recognition from audio recordings",
+        "techs": ["py"]
+      },
+      {
+        "name": "BirdNET-Pi",
+        "url": "https://github.com/mcguirepr89/BirdNET-Pi",
+        "description": "A full BirdNET-based detection system on the RaspberryPi",
+        "techs": ["raspberrypi"]
+      },
+      {
+        "name": "PAMGuard",
+        "url": "https://github.com/PAMGuard/PAMGuard",
+        "description": "Detection, Classification, and Localisation of marine mammal and other bioacoustic signals",
+        "techs": ["java"]
+      }
+    ]
+  },
+  {
+    "category": "Databases",
+    "projects": [
+      {
+        "name": "Soundata",
+        "url": "https://github.com/soundata/soundata",
+        "description": "Python library for downloading, loading & working with sound datasets",
+        "techs": ["py"]
+      }
+    ]
+  }
+]
