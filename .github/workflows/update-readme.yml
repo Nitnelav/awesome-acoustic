@@ -22,12 +22,15 @@ jobs:
         run: |
           python .github/scripts/generate_readme.py
 
-      - name: Commit and push if README changed
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Commit changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'Nitnelav'
+          git config --global user.email 'Nitnelav@users.noreply.github.com'
           git add README.md
-          git diff --cached --quiet || git commit -m "Update README.md from projects.json [auto]"
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
+          git commit -m "Update README.md from projects.json [auto]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
