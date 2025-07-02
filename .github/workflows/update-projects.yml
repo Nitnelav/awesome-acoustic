@@ -1,4 +1,4 @@
-name: Update README from JSON
+name: Update JSON from Github
 
 on:
   push:
@@ -19,6 +19,8 @@ jobs:
           python-version: '3.x'
 
       - name: Update projects.json from github
+        env:
+          GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
         run: |
           python scripts/update_projects.py
 
