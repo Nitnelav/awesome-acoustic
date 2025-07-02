@@ -1,0 +1,9 @@
+[project]
+name = "awesome-acoustic"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "requests",
+    "python-dotenv",
+]

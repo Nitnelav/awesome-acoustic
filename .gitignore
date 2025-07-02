@@ -1,0 +1,6 @@
+**.env
+
+.vscode
+.venv
+
+uv.lock

@@ -3,35 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Awesome Acoustic Projects | Open Source Acoustic Software</title>
-  <meta name="description" content="A curated list of open source acoustic software, tools, and resources. Discover, search, and filter the best open-source acoustic projects for research, signal processing, room acoustics, environment, soundscape, bioacoustics, and more.">
-  <meta name="keywords" content="open source acoustic, acoustic software, open source, sound, signal processing, room acoustics, bioacoustics, soundscape, environment, acoustic tools, acoustic research, acoustic projects">
-  <link rel="stylesheet" href="style.css">
-  <link rel="canonical" href="https://yourdomain.example/" />
-  <meta property="og:title" content="Awesome Acoustic Projects | Open Source Acoustic Software">
-  <meta property="og:description" content="A curated list of open source acoustic software, tools, and resources. Search and filter the best open-source acoustic projects.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://yourdomain.example/">
-  <meta property="og:image" content="https://awesome.re/badge.svg">
+  <title>Awesome Acoustic Projects</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
 </head>
 <body>
-  <header>
-    <h1>Awesome Acoustic</h1>
-    <nav class="main-nav">
-      <ul>
-        <li><a href="index.html" class="active">Project List</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="add.html">Add a project</a></li>
-      </ul>
-    </nav>
-    <input type="text" id="search" placeholder="Filter projects...">
-  </header>
-  <main>
-    <div id="projects"></div>
-  </main>
-  <footer>
-    <p>Curated list of open-source acoustic projects.</p>
+  <nav class="navbar navbar-dark bg-dark mb-4">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+      <a href="#" class="navbar-brand brand-logo d-flex align-items-center mb-0">
+        <img src="images/logo_1280x640.svg" alt="Logo" style="filter: invert(1) brightness(2);">
+      </a>
+      <form class="d-flex ms-3 flex-grow-1" role="search" style="max-width: 500px;">
+        <input id="search" class="form-control form-control-sm" style="line-height: 2.5; font-size: 1rem;" type="search" placeholder="Filter by name or description" aria-label="Filter">
+      </form>
+      <button class="btn btn-outline-light ms-3" type="button" data-bs-toggle="modal" data-bs-target="#aboutModal">
+        <i class="fa-solid fa-circle-info"></i>
+      </button>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row" id="projects-list">
+      <!-- Project cards will be injected here -->
+    </div>
+  </div>
+  <!-- About Modal -->
+  <div class="modal fade" id="aboutModal" tabindex="-1" aria-labelledby="aboutModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="aboutModalLabel">About</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id="aboutModalBody">
+          <!-- about.html content will be loaded here -->
+          <div class="text-center text-muted">Loading...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="footer bg-dark text-white mt-4 py-3">
+    <div class="container text-center">
+      <span>&copy; 2025 Awesome Acoustic</span>
+    </div>
   </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js"></script>
   <script src="main.js"></script>
+  <script>
+    // Load about.html into modal when opened
+    const aboutModal = document.getElementById('aboutModal');
+    if (aboutModal) {
+      aboutModal.addEventListener('show.bs.modal', function () {
+        fetch('about.html')
+          .then(response => response.text())
+          .then(html => {
+            document.getElementById('aboutModalBody').innerHTML = html;
+          })
+          .catch(() => {
+            document.getElementById('aboutModalBody').innerHTML = '<div class="text-danger">Failed to load about.html</div>';
+          });
+      });
+    }
+  </script>
 </body>
 </html>

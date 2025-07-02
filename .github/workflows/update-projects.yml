@@ -2,8 +2,6 @@ name: Update README from JSON
 
 on:
   push:
-    paths:
-      - 'projects.json'
   workflow_dispatch:
 
 jobs:
@@ -20,19 +18,19 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generate README.md from projects.json
+      - name: Update projects.json from github
         run: |
-          python scripts/update_readme.py
+          python scripts/update_projects.py
 
       - name: Commit changes
         run: |
           git config --global user.name 'Nitnelav'
           git config --global user.email 'Nitnelav@users.noreply.github.com'
-          git add README.md
+          git add projects.json
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update README.md from projects.json [auto]"
+          git commit -m "Update projects.json from github [auto]"
           git remote set-url origin https://nitnelav:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push origin main

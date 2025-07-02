@@ -1,101 +1,59 @@
+/* --- Custom Styles for Awesome Acoustic Projects (Bootstrap) --- */
 body {
-  font-family: system-ui, sans-serif;
-  margin: 0;
-  background: #f7f7fa;
-  color: #222;
+  background: linear-gradient(135deg, #f5f6fa 0%, #e0e0e0 100%);
+  min-height: 100vh;
 }
-header {
-  background: #2d3a4a;
-  color: #fff;
-  padding: 2rem 1rem 1rem 1rem;
-  text-align: center;
+
+.container {
+  background: none;
 }
-header h1 {
-  margin: 0 0 1rem 0;
-  font-size: 2.2rem;
+
+.brand-logo img {
+  height: 48px;
+  margin-right: 10px;
+  vertical-align: middle;
 }
-#search {
-  padding: 0.5rem;
-  width: 90%;
-  max-width: 400px;
-  font-size: 1rem;
-  border-radius: 4px;
-  border: 1px solid #ccc;
+.project-card {
+  margin-bottom: 0.5rem;
 }
-main {
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+.project-card .card-body {
+  min-height: unset;
+  padding: 0.75rem 1rem 0.5rem 1rem;
 }
-.category {
-  margin-top: 2rem;
-}
-.category h2 {
-  color: #2d3a4a;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.3rem;
-}
-.project-list {
-  list-style: none;
-  padding: 0;
-}
-.project-item {
-  background: #fff;
-  margin-bottom: 1rem;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px #0001;
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-}
-.project-title {
+.project-card .card-title {
   font-size: 1.1rem;
-  font-weight: bold;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.25rem;
 }
-.project-title a {
-  color: #1a5fb4;
-  text-decoration: none;
+.project-card .card-text,
+.project-card .mb-1 {
+  font-size: 0.97rem;
+  margin-bottom: 0.25rem;
 }
-.project-title a:hover {
-  text-decoration: underline;
+.project-card .card-footer {
+  padding: 0.5rem 1rem;
 }
-.project-desc {
-  margin-bottom: 0.3rem;
-}
-.techs {
-  font-size: 0.95em;
-  color: #555;
-}
-footer {
-  text-align: center;
-  color: #888;
-  padding: 2rem 0 1rem 0;
-  font-size: 0.95em;
-}
-.main-nav {
-  margin-bottom: 1.2rem;
-}
-.main-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.project-card .card-footer .dates {
   display: flex;
-  justify-content: center;
-  gap: 2rem;
+  gap: 1.25rem;
+  align-items: center;
+  font-size: 0.85em;
+  color: #757575;
 }
-.main-nav li {
+.project-card .card-footer .dates span {
+  margin-bottom: 0;
   display: inline;
 }
-.main-nav a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 1.08rem;
-  padding: 0.2rem 0.5rem;
-  border-radius: 3px;
-  transition: background 0.2s;
+.search-bar {
+  margin: 2rem 0 1rem 0;
 }
-.main-nav a.active, .main-nav a:hover {
-  background: #1a5fb4;
+.project-card .badge {
+  font-size: 0.75em;
+  padding: 0.3em 0.6em;
+  border-radius: 0.5em;
+  vertical-align: middle;
+}
+@media (max-width: 600px) {
+  .brand-logo img {
+    height: 32px;
+  }
 }
