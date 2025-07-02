@@ -256,7 +256,7 @@
     "category": "Environment",
     "stars": 174,
     "forks": 80,
-    "issues": 94,
+    "issues": 93,
     "language": "Java",
     "language_list": {
       "Java": 0.6335354411314974,
@@ -265,7 +265,7 @@
     },
     "homepage": "https://noisemodelling.readthedocs.io/",
     "created_at": "2012-07-12T11:21:06Z",
-    "updated_at": "2025-07-01T12:59:58Z"
+    "updated_at": "2025-07-02T13:10:11Z"
   },
   {
     "name": "NoiseCapture",
