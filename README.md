@@ -4,14 +4,13 @@ A list of awesome open-source Acoustic packages and resources.
 
 > [!IMPORTANT]
 > Contributions are more than welcome
-- [Awesome Acoustic !](#awesome-acoustic-)
-  - [General Tools](#general-tools)
-  - [Signal Processing](#signal-processing)
-  - [Room Acoustics](#room-acoustics)
-  - [Environment](#environment)
-  - [Soundscape](#soundscape)
-  - [Bioacoustics](#bioacoustics)
-  - [Databases](#databases)
+- [General Tools](#general-tools)
+- [Signal Processing](#signal-processing)
+- [Room Acoustics](#room-acoustics)
+- [Environment](#environment)
+- [Soundscape](#soundscape)
+- [Bioacoustics](#bioacoustics)
+- [Databases](#databases)
 
 
 ## General Tools
@@ -37,7 +36,7 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
-| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation |  |
+| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | C++ |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 
 
