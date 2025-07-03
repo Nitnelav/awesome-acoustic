@@ -80,7 +80,7 @@
     "name": "OURS",
     "url": "https://github.com/rivm-syso/OURS",
     "description": "Dutch calculation method for railway vibrations",
-    "category": "Environment",
+    "category": "FEM, Materials, Vibrations",
     "language": "Pascal"
   },
   {
@@ -176,11 +176,13 @@
   {
     "name": "Code_Aster",
     "url": "https://gitlab.com/codeaster/src",
+    "description": "Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics.",
     "category": "FEM, Materials, Vibrations"
   },
   {
     "name": "Code_Tympan",
     "url": "https://gitlab.com/tympan/code_tympan",
+    "description": "Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites.",
     "category": "Environment"
   },
   {
