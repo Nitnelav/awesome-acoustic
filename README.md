@@ -1,4 +1,4 @@
-# Awesome Acoustic !
+[![Awesome Acoustics](images/logo_1280x640.png)](#)
 
 A list of awesome open-source Acoustic packages and resources.
 
@@ -11,6 +11,9 @@ A list of awesome open-source Acoustic packages and resources.
 - [Soundscape](#soundscape)
 - [Bioacoustics](#bioacoustics)
 - [Databases](#databases)
+- [Health](#health)
+- [FEM, Materials, Vibrations](#fem,-materials,-vibrations)
+- [Music](#music)
 
 
 ## General Tools
@@ -21,6 +24,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [MoSQITo](https://github.com/Eomys/MoSQITo) | MoSQITo is a unified and modular development framework of key sound quality metrics favoring reproducible science and efficient shared scripting among engineers, teachers and researchers community. | Python |
 | [Pyfar](https://github.com/pyfar/pyfar) | python package for acoustics research | Python |
 | [PyTTA](https://github.com/PyTTaMaster/PyTTa) | Python in Technical Acoustics and Vibration | Python |
+| [friture](https://github.com/tlecomte/friture) | Real-time audio visualizations (spectrum, spectrogram, etc.) | Python |
 
 
 ## Signal Processing
@@ -29,6 +33,8 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
 | [Acoular](https://github.com/acoular/acoular) | Acoular - Acoustic testing and source mapping software | Python |
+| [librosa](https://github.com/librosa/librosa) | Python library for audio and music analysis | Python |
+| [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 
 
 ## Room Acoustics
@@ -47,6 +53,8 @@ A list of awesome open-source Acoustic packages and resources.
 | [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | A open-source model to compute noise maps. | Java |
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Android App dedicated to the measurement of environmental noise. | Java |
 | [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
+| [Code_Tympan](https://gitlab.com/tympan/code_tympan) |  |  |
+| [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. |  |
 
 
 ## Soundscape
@@ -64,6 +72,9 @@ A list of awesome open-source Acoustic packages and resources.
 | [BirdNET](https://github.com/kahst/BirdNET-Analyzer) | BirdNET analyzer for scientific audio data processing. | Python |
 | [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) | A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET. | PHP |
 | [PAMGuard](https://github.com/PAMGuard/PAMGuard) | Detection, Classification, and Localisation of marine mammal and other bioacoustic signals | Java |
+| [AudioMoth](https://github.com/OpenAcousticDevices/AudioMoth-Project) | A minimal project on which all AudioMoth firmware can be built. | C |
+| [vak](https://github.com/vocalpy/vak) | A neural network framework for researchers studying acoustic communication | Python |
+| [warbleR](https://github.com/maRce10/warbleR) | streamline acoustic analysis in R | R |
 
 
 ## Databases
@@ -71,3 +82,33 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [Soundata](https://github.com/soundata/soundata) | Python library for downloading, loading & working with sound datasets | Python |
+| [DCASE](https://github.com/DCASE-REPO/dcase_datalist) | Collection of DCASE related datasets | HTML |
+| [xeno-canto](https://xeno-canto.org/) | A community-driven site for sharing and discovering bird sounds |  |
+| [The International Soundscape Database](https://zenodo.org/records/10672568) | The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China. |  |
+| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them.  | Shell |
+| [BirdSet](https://github.com/DBD-research-group/BirdSet) | A benchmark dataset collection for bird sound classification | Jupyter Notebook |
+
+
+## Health
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [tascar](https://github.com/gisogrimm/tascar/) | toolbox for acoustic scene creation and rendering | C++ |
+| [openMHA](https://github.com/HoerTech-gGmbH/openMHA) | The open Master Hearing Aid (openMHA) | C |
+| [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black | None |
+
+
+## FEM, Materials, Vibrations
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [Code_Aster](https://gitlab.com/codeaster/src) |  |  |
+
+
+## Music
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications | Python |
+| [madmom](https://github.com/CPJKU/madmom) | Python audio and music signal processing library | Python |
+| [audioFlux](https://github.com/libAudioFlux/audioFlux) | A library for audio and music analysis, feature extraction. | C |
