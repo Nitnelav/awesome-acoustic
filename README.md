@@ -12,7 +12,7 @@ A list of awesome open-source Acoustic packages and resources.
 - [Bioacoustics](#bioacoustics)
 - [Databases](#databases)
 - [Health](#health)
-- [FEM, Materials, Vibrations](#fem,-materials,-vibrations)
+- [FEM, Materials, Vibrations](#fem-materials-vibrations)
 - [Music](#music)
 
 
@@ -31,7 +31,7 @@ A list of awesome open-source Acoustic packages and resources.
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
+| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain. | Python |
 | [Acoular](https://github.com/acoular/acoular) | Acoular - Acoustic testing and source mapping software | Python |
 | [librosa](https://github.com/librosa/librosa) | Python library for audio and music analysis | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
@@ -85,7 +85,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [DCASE](https://github.com/DCASE-REPO/dcase_datalist) | Collection of DCASE related datasets | HTML |
 | [xeno-canto](https://xeno-canto.org/) | A community-driven site for sharing and discovering bird sounds |  |
 | [The International Soundscape Database](https://zenodo.org/records/10672568) | The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China. |  |
-| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them.  | Shell |
+| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them. | Shell |
 | [BirdSet](https://github.com/DBD-research-group/BirdSet) | A benchmark dataset collection for bird sound classification | Jupyter Notebook |
 
 
@@ -95,7 +95,7 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [tascar](https://github.com/gisogrimm/tascar/) | toolbox for acoustic scene creation and rendering | C++ |
 | [openMHA](https://github.com/HoerTech-gGmbH/openMHA) | The open Master Hearing Aid (openMHA) | C |
-| [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black | None |
+| [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black |  |
 
 
 ## FEM, Materials, Vibrations
