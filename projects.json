@@ -474,5 +474,109 @@
     "homepage": "https://soundata.readthedocs.io/en/stable",
     "created_at": "2021-03-02T00:42:25Z",
     "updated_at": "2025-06-13T14:33:35Z"
+  },
+  {
+    "name": "librosa",
+    "url": "https://github.com/librosa/librosa",
+    "category": "Signal Processing"
+  },
+  {
+    "name": "friture",
+    "url": "https://github.com/tlecomte/friture",
+    "category": "General Tools"
+  },
+  {
+    "name": "tascar",
+    "url": "https://github.com/gisogrimm/tascar/",
+    "category": "Health"
+  },
+  {
+    "name": "CleanTiPy",
+    "url": "https://github.com/Universite-Gustave-Eiffel/CleanTiPy",
+    "category": "Signal Processing"
+  },
+  {
+    "name": "openMHA",
+    "url": "https://github.com/HoerTech-gGmbH/openMHA",
+    "category": "Health"
+  },
+  {
+    "name": "Cape4all",
+    "url": "https://github.com/HoerTech-gGmbH/Cape4all",
+    "category": "Health"
+  },
+  {
+    "name": "AudioMoth",
+    "url": "https://github.com/OpenAcousticDevices/AudioMoth-Project",
+    "category": "Bioacoustics"
+  },
+  {
+    "name": "Code_Aster",
+    "url": "https://gitlab.com/codeaster/src",
+    "category": "FEM, Materials, Vibrations"
+  },
+  {
+    "name": "Code_Tympan",
+    "url": "https://gitlab.com/tympan/code_tympan",
+    "category": "Environment"
+  },
+  {
+    "name": "pyAudioAnalysis",
+    "url": "https://github.com/tyiannak/pyAudioAnalysis",
+    "category": "Music"
+  },
+  {
+    "name": "madmom",
+    "url": "https://github.com/CPJKU/madmom",
+    "category": "Music"
+  },
+  {
+    "name": "audioFlux",
+    "url": "https://github.com/libAudioFlux/audioFlux",
+    "category": "Music"
+  },
+  {
+    "name": "DCASE",
+    "url": "https://github.com/DCASE-REPO/dcase_datalist",
+    "category": "Databases"
+  },
+  {
+    "name": "vak",
+    "url": "https://github.com/vocalpy/vak",
+    "category": "Bioacoustics"
+  },
+  {
+    "name": "warbleR",
+    "url": "https://github.com/maRce10/warbleR",
+    "category": "Bioacoustics"
+  },
+  {
+    "name": "xeno-canto",
+    "url": "https://xeno-canto.org/",
+    "category": "Databases",
+    "description": "A community-driven site for sharing and discovering bird sounds"
+  },
+  {
+    "name": "The International Soundscape Database",
+    "url": "https://zenodo.org/records/10672568",
+    "category": "Databases",
+    "description": "The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China."
+  },
+  {
+    "name": "room-impulse-responses",
+    "url": "https://github.com/RoyJames/room-impulse-responses",
+    "description": "A collection of room impulse responses (RIRs) for acoustic research",
+    "category": "Databases"
+  },
+  {
+    "name": "BirdSet",
+    "url": "https://github.com/DBD-research-group/BirdSet",
+    "category": "Databases"
+  },
+  {
+    "name": "HRISK",
+    "url": "https://gitlab.com/jtagusari/hrisk-noisemodelling",
+    "description": "This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise.",
+    "category": "Environment"
   }
 ]
