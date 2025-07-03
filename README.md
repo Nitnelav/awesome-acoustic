@@ -8,11 +8,11 @@ A list of awesome open-source Acoustic packages and resources.
 - [Signal Processing](#signal-processing)
 - [Room Acoustics](#room-acoustics)
 - [Environment](#environment)
+- [FEM, Materials, Vibrations](#fem-materials-vibrations)
 - [Soundscape](#soundscape)
 - [Bioacoustics](#bioacoustics)
 - [Databases](#databases)
 - [Health](#health)
-- [FEM, Materials, Vibrations](#fem-materials-vibrations)
 - [Music](#music)
 
 
@@ -52,9 +52,16 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | A open-source model to compute noise maps. | Java |
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Android App dedicated to the measurement of environmental noise. | Java |
-| [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
-| [Code_Tympan](https://gitlab.com/tympan/code_tympan) |  |  |
+| [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. |  |
 | [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. |  |
+
+
+## FEM, Materials, Vibrations
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
+| [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. |  |
 
 
 ## Soundscape
@@ -96,13 +103,6 @@ A list of awesome open-source Acoustic packages and resources.
 | [tascar](https://github.com/gisogrimm/tascar/) | toolbox for acoustic scene creation and rendering | C++ |
 | [openMHA](https://github.com/HoerTech-gGmbH/openMHA) | The open Master Hearing Aid (openMHA) | C |
 | [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black |  |
-
-
-## FEM, Materials, Vibrations
-
-| Package | Description | Language |
-|---------|-------------|----------|
-| [Code_Aster](https://gitlab.com/codeaster/src) |  |  |
 
 
 ## Music
