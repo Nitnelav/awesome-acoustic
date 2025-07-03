@@ -66,7 +66,7 @@
       "plotting"
     ],
     "category": "General Tools",
-    "stars": 101,
+    "stars": 102,
     "forks": 16,
     "issues": 49,
     "language": "Python",
@@ -75,7 +75,7 @@
     },
     "homepage": "https://pyfar.org",
     "created_at": "2020-10-27T19:13:03Z",
-    "updated_at": "2025-07-02T06:11:05Z"
+    "updated_at": "2025-07-02T14:02:08Z"
   },
   {
     "name": "PyTTA",
@@ -155,7 +155,7 @@
     },
     "homepage": "https://www.acoular.org",
     "created_at": "2015-01-23T11:02:57Z",
-    "updated_at": "2025-06-30T12:26:29Z"
+    "updated_at": "2025-07-02T17:24:40Z"
   },
   {
     "name": "Pyroomacoustics",
@@ -256,7 +256,7 @@
     "category": "Environment",
     "stars": 174,
     "forks": 80,
-    "issues": 93,
+    "issues": 94,
     "language": "Java",
     "language_list": {
       "Java": 0.6335354411314974,
@@ -265,7 +265,7 @@
     },
     "homepage": "https://noisemodelling.readthedocs.io/",
     "created_at": "2012-07-12T11:21:06Z",
-    "updated_at": "2025-07-02T13:10:11Z"
+    "updated_at": "2025-07-02T15:14:03Z"
   },
   {
     "name": "NoiseCapture",
@@ -283,7 +283,7 @@
     "category": "Environment",
     "stars": 105,
     "forks": 46,
-    "issues": 74,
+    "issues": 75,
     "language": "Java",
     "language_list": {
       "Java": 0.5995709048813429,
@@ -478,37 +478,150 @@
   {
     "name": "librosa",
     "url": "https://github.com/librosa/librosa",
-    "category": "Signal Processing"
+    "category": "Signal Processing",
+    "description": "Python library for audio and music analysis",
+    "tags": [
+      "audio",
+      "dsp",
+      "librosa",
+      "music",
+      "python",
+      "scipy"
+    ],
+    "stars": 7728,
+    "forks": 992,
+    "issues": 62,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.9817831234989817,
+      "MATLAB": 0.012870450800413963
+    },
+    "homepage": "https://librosa.org/",
+    "created_at": "2012-10-20T14:21:01Z",
+    "updated_at": "2025-07-02T23:32:48Z"
   },
   {
     "name": "friture",
     "url": "https://github.com/tlecomte/friture",
-    "category": "General Tools"
+    "category": "General Tools",
+    "description": "Real-time audio visualizations (spectrum, spectrogram, etc.)",
+    "tags": [
+      "audio",
+      "audio-analysis",
+      "python",
+      "spectrogram",
+      "spectrum",
+      "spectrum-analyzer"
+    ],
+    "stars": 992,
+    "forks": 172,
+    "issues": 86,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.9376484281243027,
+      "QML": 0.02563064991768232,
+      "Rich Text Format": 0.02433829249612534
+    },
+    "homepage": "http://friture.org",
+    "created_at": "2009-01-07T11:27:41Z",
+    "updated_at": "2025-06-29T17:34:38Z"
   },
   {
     "name": "tascar",
     "url": "https://github.com/gisogrimm/tascar/",
-    "category": "Health"
+    "category": "Health",
+    "description": "toolbox for acoustic scene creation and rendering",
+    "tags": [],
+    "stars": 32,
+    "forks": 10,
+    "issues": 2,
+    "language": "C++",
+    "language_list": {
+      "C++": 0.9059992848952588,
+      "C": 0.028010377073071403,
+      "TeX": 0.024014477261476982,
+      "MATLAB": 0.021830442616185577
+    },
+    "homepage": "http://www.tascar.org/",
+    "created_at": "2013-01-07T12:55:39Z",
+    "updated_at": "2025-07-03T08:23:46Z"
   },
   {
     "name": "CleanTiPy",
     "url": "https://github.com/Universite-Gustave-Eiffel/CleanTiPy",
-    "category": "Signal Processing"
+    "category": "Signal Processing",
+    "description": "An open-source implementation of CLEAN-T acoustic imaging technique",
+    "tags": [],
+    "stars": 2,
+    "forks": 0,
+    "issues": 0,
+    "language": "Python",
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": null,
+    "created_at": "2025-01-07T14:31:01Z",
+    "updated_at": "2025-07-03T08:24:00Z"
   },
   {
     "name": "openMHA",
     "url": "https://github.com/HoerTech-gGmbH/openMHA",
-    "category": "Health"
+    "category": "Health",
+    "description": "The open Master Hearing Aid (openMHA)",
+    "tags": [],
+    "stars": 273,
+    "forks": 83,
+    "issues": 0,
+    "language": "C",
+    "language_list": {
+      "C": 0.32848657531877373,
+      "C++": 0.2540331812443605,
+      "MATLAB": 0.13425319163564992,
+      "PostScript": 0.12203181960267849,
+      "TeX": 0.03771777583876348,
+      "Makefile": 0.029494409897384246,
+      "M": 0.023559200933940178,
+      "HTML": 0.022373700823009973,
+      "Shell": 0.018303749582682695,
+      "OCaml": 0.01231378433608804
+    },
+    "homepage": "http://www.openmha.org",
+    "created_at": "2017-02-01T15:26:03Z",
+    "updated_at": "2025-07-03T08:26:02Z"
   },
   {
     "name": "Cape4all",
     "url": "https://github.com/HoerTech-gGmbH/Cape4all",
-    "category": "Health"
+    "category": "Health",
+    "description": "Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black",
+    "tags": [],
+    "stars": 28,
+    "forks": 10,
+    "issues": 0,
+    "language": null,
+    "language_list": {},
+    "homepage": null,
+    "created_at": "2018-03-13T11:12:18Z",
+    "updated_at": "2025-07-03T08:26:07Z"
   },
   {
     "name": "AudioMoth",
     "url": "https://github.com/OpenAcousticDevices/AudioMoth-Project",
-    "category": "Bioacoustics"
+    "category": "Bioacoustics",
+    "description": "A minimal project on which all AudioMoth firmware can be built.",
+    "tags": [
+      "audiomoth"
+    ],
+    "stars": 56,
+    "forks": 19,
+    "issues": 1,
+    "language": "C",
+    "language_list": {
+      "C": 0.999413716695582
+    },
+    "homepage": "",
+    "created_at": "2017-08-01T09:03:50Z",
+    "updated_at": "2025-05-25T20:02:08Z"
   },
   {
     "name": "Code_Aster",
@@ -523,32 +636,169 @@
   {
     "name": "pyAudioAnalysis",
     "url": "https://github.com/tyiannak/pyAudioAnalysis",
-    "category": "Music"
+    "category": "Music",
+    "description": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
+    "tags": [
+      "audio",
+      "audio-analysis-tasks",
+      "audio-data",
+      "machine-learning",
+      "pyaudioanalysis",
+      "python",
+      "signal-processing"
+    ],
+    "stars": 6078,
+    "forks": 1217,
+    "issues": 205,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.9251199871657182,
+      "Shell": 0.03919803564187006,
+      "HTML": 0.018190811902013822
+    },
+    "homepage": "",
+    "created_at": "2014-08-27T12:43:13Z",
+    "updated_at": "2025-07-02T06:37:11Z"
   },
   {
     "name": "madmom",
     "url": "https://github.com/CPJKU/madmom",
-    "category": "Music"
+    "category": "Music",
+    "description": "Python audio and music signal processing library",
+    "tags": [
+      "audio-analysis",
+      "cython",
+      "machine-learning",
+      "music-information-retrieval",
+      "numpy",
+      "python",
+      "scipy",
+      "signal-processing"
+    ],
+    "stars": 1453,
+    "forks": 245,
+    "issues": 77,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.9721178665601481,
+      "Cython": 0.027882133439851953
+    },
+    "homepage": "https://madmom.readthedocs.io",
+    "created_at": "2015-09-08T08:19:06Z",
+    "updated_at": "2025-07-03T07:58:16Z"
   },
   {
     "name": "audioFlux",
     "url": "https://github.com/libAudioFlux/audioFlux",
-    "category": "Music"
+    "category": "Music",
+    "description": "A library for audio and music analysis, feature extraction.",
+    "tags": [
+      "audio",
+      "audio-analysis",
+      "audio-features",
+      "audio-processing",
+      "deep-learning",
+      "machine-learning",
+      "mfcc",
+      "mir",
+      "music",
+      "music-analysis",
+      "music-information-retrieval",
+      "pitch",
+      "python",
+      "signal-processing",
+      "spectral-analysis",
+      "spectrogram",
+      "time-frequency-analysis",
+      "wavelet-analysis",
+      "wavelet-transform"
+    ],
+    "stars": 3104,
+    "forks": 139,
+    "issues": 15,
+    "language": "C",
+    "language_list": {
+      "C": 0.626851890276798,
+      "Python": 0.3687561383851378
+    },
+    "homepage": "https://audioflux.top",
+    "created_at": "2023-01-16T09:53:04Z",
+    "updated_at": "2025-07-02T15:25:31Z"
   },
   {
     "name": "DCASE",
     "url": "https://github.com/DCASE-REPO/dcase_datalist",
-    "category": "Databases"
+    "category": "Databases",
+    "description": "Collection of DCASE related datasets",
+    "tags": [
+      "dcase"
+    ],
+    "stars": 15,
+    "forks": 6,
+    "issues": 0,
+    "language": "HTML",
+    "language_list": {
+      "HTML": 0.7118184350579853,
+      "Python": 0.22921401029219876,
+      "Jinja": 0.058967554649816
+    },
+    "homepage": "https://dcase-repo.github.io/dcase_datalist/",
+    "created_at": "2020-11-13T12:15:52Z",
+    "updated_at": "2025-06-27T03:21:26Z"
   },
   {
     "name": "vak",
     "url": "https://github.com/vocalpy/vak",
-    "category": "Bioacoustics"
+    "category": "Bioacoustics",
+    "description": "A neural network framework for researchers studying acoustic communication",
+    "tags": [
+      "animal-communication",
+      "animal-vocalizations",
+      "bioacoustic-analysis",
+      "bioacoustics",
+      "birdsong",
+      "python",
+      "python3",
+      "pytorch",
+      "spectrograms",
+      "speech-processing",
+      "torch",
+      "torchvision",
+      "vocalizations"
+    ],
+    "stars": 85,
+    "forks": 17,
+    "issues": 131,
+    "language": "Python",
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "https://vak.readthedocs.io",
+    "created_at": "2019-03-03T11:34:38Z",
+    "updated_at": "2025-07-03T08:42:04Z"
   },
   {
     "name": "warbleR",
     "url": "https://github.com/maRce10/warbleR",
-    "category": "Bioacoustics"
+    "category": "Bioacoustics",
+    "description": "streamline acoustic analysis in R",
+    "tags": [
+      "animal-acoustic-signals",
+      "audio-processing",
+      "bioacoustics",
+      "spectrogram",
+      "streamline-analysis"
+    ],
+    "stars": 56,
+    "forks": 21,
+    "issues": 22,
+    "language": "R",
+    "language_list": {
+      "R": 0.9945131398235996
+    },
+    "homepage": "https://marce10.github.io/warbleR/",
+    "created_at": "2015-07-09T16:49:10Z",
+    "updated_at": "2025-07-03T08:44:03Z"
   },
   {
     "name": "xeno-canto",
@@ -565,13 +815,46 @@
   {
     "name": "room-impulse-responses",
     "url": "https://github.com/RoyJames/room-impulse-responses",
-    "description": "A collection of room impulse responses (RIRs) for acoustic research",
-    "category": "Databases"
+    "description": "A list of publicly available room impulse response datasets and scripts to download them. ",
+    "category": "Databases",
+    "tags": [
+      "acoustics",
+      "room-impulse-response",
+      "speech"
+    ],
+    "stars": 479,
+    "forks": 40,
+    "issues": 0,
+    "language": "Shell",
+    "language_list": {
+      "Shell": 1.0
+    },
+    "homepage": "",
+    "created_at": "2021-03-19T20:04:10Z",
+    "updated_at": "2025-07-01T07:23:02Z"
   },
   {
     "name": "BirdSet",
     "url": "https://github.com/DBD-research-group/BirdSet",
-    "category": "Databases"
+    "category": "Databases",
+    "description": "A benchmark dataset collection for bird sound classification",
+    "tags": [
+      "avian",
+      "benchmark",
+      "bioacoustics",
+      "deeplearning"
+    ],
+    "stars": 51,
+    "forks": 16,
+    "issues": 15,
+    "language": "Jupyter Notebook",
+    "language_list": {
+      "Jupyter Notebook": 0.9604995704147736,
+      "Python": 0.03936060589320191
+    },
+    "homepage": "https://huggingface.co/datasets/DBD-research-group/BirdSet",
+    "created_at": "2023-08-21T07:34:55Z",
+    "updated_at": "2025-06-04T07:06:02Z"
   },
   {
     "name": "HRISK",
