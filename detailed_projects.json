@@ -130,7 +130,7 @@
     ],
     "stars": 554,
     "forks": 139,
-    "issues": 56,
+    "issues": 58,
     "language_list": {
       "Python": 0.9883818130895878,
       "Cython": 0.011510879374525836
@@ -155,7 +155,7 @@
       "room-impulse-response",
       "stft"
     ],
-    "stars": 1607,
+    "stars": 1608,
     "forks": 452,
     "issues": 84,
     "language_list": {
@@ -164,7 +164,7 @@
     },
     "homepage": "https://pyroomacoustics.readthedocs.io",
     "created_at": "2015-12-24T13:41:25Z",
-    "updated_at": "2025-07-01T14:15:34Z"
+    "updated_at": "2025-07-03T10:09:24Z"
   },
   {
     "name": "Virtual Acoustics",
@@ -267,7 +267,7 @@
     "name": "OURS",
     "url": "https://github.com/rivm-syso/OURS",
     "description": "Dutch calculation method for railway vibrations",
-    "category": "Environment",
+    "category": "FEM, Materials, Vibrations",
     "language": "Pascal",
     "tags": [],
     "stars": 4,
@@ -335,7 +335,7 @@
       "birdsong",
       "deep-learning"
     ],
-    "stars": 1135,
+    "stars": 1136,
     "forks": 196,
     "issues": 61,
     "language_list": {
@@ -343,7 +343,7 @@
     },
     "homepage": "https://birdnet-team.github.io/BirdNET-Analyzer/",
     "created_at": "2021-09-22T13:29:56Z",
-    "updated_at": "2025-07-01T17:27:38Z"
+    "updated_at": "2025-07-03T10:30:15Z"
   },
   {
     "name": "BirdNET-Pi",
@@ -569,11 +569,13 @@
   {
     "name": "Code_Aster",
     "url": "https://gitlab.com/codeaster/src",
+    "description": "Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics.",
     "category": "FEM, Materials, Vibrations"
   },
   {
     "name": "Code_Tympan",
     "url": "https://gitlab.com/tympan/code_tympan",
+    "description": "Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites.",
     "category": "Environment"
   },
   {
@@ -766,7 +768,7 @@
       "room-impulse-response",
       "speech"
     ],
-    "stars": 479,
+    "stars": 480,
     "forks": 40,
     "issues": 0,
     "language_list": {
@@ -774,7 +776,7 @@
     },
     "homepage": "",
     "created_at": "2021-03-19T20:04:10Z",
-    "updated_at": "2025-07-01T07:23:02Z"
+    "updated_at": "2025-07-03T11:22:41Z"
   },
   {
     "name": "BirdSet",
