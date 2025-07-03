@@ -15,7 +15,7 @@ def category_table(projects):
         '|---------|-------------|----------|'
     ]
     for p in projects:
-        lines.append(f"| [{p['name']}]({p['url']}) | {p['description']} | {p.get('language', '')} |")
+        lines.append(f"| [{p['name']}]({p['url']}) | {p.get('description', '')} | {p.get('language', '')} |")
     return '\n'.join(lines)
 
 def main():
