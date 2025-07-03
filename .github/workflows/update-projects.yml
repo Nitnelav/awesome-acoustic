@@ -1,4 +1,4 @@
-name: Update JSON from Github
+name: Update JSON from GitHub
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
           cache: 'pip'
       - run: pip install requests python-dotenv
 
-      - name: Update projects.json from github
+      - name: Update detailed_projects.json from github
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
         run: |
@@ -30,11 +30,11 @@ jobs:
         run: |
           git config --global user.name 'Nitnelav'
           git config --global user.email 'Nitnelav@users.noreply.github.com'
-          git add projects.json
+          git add detailed_projects.json
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update projects.json from github [auto]"
+          git commit -m "Update detailed_projects.json from github [auto]"
           git remote set-url origin https://nitnelav:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push origin main

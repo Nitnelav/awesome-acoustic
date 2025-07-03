@@ -46,7 +46,7 @@ def main():
     with open("projects.json", "r", encoding="utf-8") as f:
         projects = json.load(f)
 
-    enriched_projects = []
+    detailed_projects = []
     for project in projects:
         repo_full_name = None
         url = project.get("url")
@@ -60,16 +60,16 @@ def main():
                 pass
         if not repo_full_name:
             print(f"Skipping project without github repo: {project.get('name')}")
-            enriched_projects.append(project)
+            detailed_projects.append(project)
             continue
 
         data = get_github_repo_data(repo_full_name, GITHUB_API_TOKEN)
         if data:
             project.update(data)
-        enriched_projects.append(project)
+        detailed_projects.append(project)
 
-    with open("projects.json", "w", encoding="utf-8") as f:
-        json.dump(enriched_projects, f, indent=2, ensure_ascii=False)
+    with open("detailed_projects.json", "w", encoding="utf-8") as f:
+        json.dump(detailed_projects, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
     main()

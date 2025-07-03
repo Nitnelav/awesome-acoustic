@@ -1,12 +1,12 @@
 // Fetch and render projects
 let projects = [];
-fetch('projects.json')
+fetch('detailed_projects.json')
   .then(response => response.json())
   .then(data => {
     // Shuffle projects randomly
-    // projects = data.sort(() => Math.random() - 0.5);
+    projects = data.sort(() => Math.random() - 0.5);
     // projects = data.sort((a, b) => a.name.localeCompare(b.name));
-    projects = data;
+    // projects = data;
     renderProjectsByCategory(projects);
   });
 

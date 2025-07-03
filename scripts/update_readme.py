@@ -27,7 +27,7 @@ def main():
         if cat and cat not in categories:
             categories.append(cat)
     # Build dynamic categories list for header
-    cat_links = [f"- [{cat}](#{cat.lower().replace(' ', '-')})" for cat in categories]
+    cat_links = [f"- [{cat}](#{cat.lower().replace(' ', '-').replace(',', '')})" for cat in categories]
     header = README_HEADER.strip() + '\n' + '\n'.join(cat_links) + '\n'
     out = [header]
     for cat in categories:
