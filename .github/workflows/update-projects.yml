@@ -37,4 +37,4 @@ jobs:
           fi
           git commit -m "Update detailed_projects.json from github [auto]"
           git remote set-url origin https://nitnelav:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main
+          git push origin HEAD:${GITHUB_REF_NAME}

@@ -35,4 +35,4 @@ jobs:
           fi
           git commit -m "Update README.md from projects.json [auto]"
           git remote set-url origin https://nitnelav:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main
+          git push origin HEAD:${GITHUB_REF_NAME}
