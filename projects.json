@@ -261,7 +261,7 @@
   },
   {
     "name": "Acoupi",
-    "url": "https://gitlab.com/acoupi/acoupi",
+    "url": "https://github.com/acoupi/acoupi",
     "description": "Python toolkit to implement bioacoustics classifier on embedded systems.",
     "category": "Bioacoustics"
   }
