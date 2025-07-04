@@ -19,7 +19,7 @@ def category_table(projects):
     return '\n'.join(lines)
 
 def main():
-    data = json.loads(Path('projects.json').read_text(encoding='utf-8'))
+    data = json.loads(Path('detailed_projects.json').read_text(encoding='utf-8'))
     # Get unique categories in order of appearance
     categories = []
     for p in data:

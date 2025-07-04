@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generate README.md from projects.json
+      - name: Generate README.md from detailed_projects.json
         run: |
           python scripts/update_readme.py
 
@@ -33,6 +33,6 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update README.md from projects.json [auto]"
+          git commit -m "Update README.md from detailed_projects.json [auto]"
           git remote set-url origin https://nitnelav:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push origin HEAD:${GITHUB_REF_NAME}
