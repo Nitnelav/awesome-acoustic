@@ -58,7 +58,7 @@
       "digital-signal-processing",
       "plotting"
     ],
-    "stars": 102,
+    "stars": 103,
     "forks": 16,
     "issues": 49,
     "language_list": {
@@ -66,7 +66,7 @@
     },
     "homepage": "https://pyfar.org",
     "created_at": "2020-10-27T19:13:03Z",
-    "updated_at": "2025-07-02T14:02:08Z"
+    "updated_at": "2025-07-03T12:21:32Z"
   },
   {
     "name": "PyTTA",
@@ -130,7 +130,7 @@
     ],
     "stars": 554,
     "forks": 139,
-    "issues": 58,
+    "issues": 60,
     "language_list": {
       "Python": 0.9883818130895878,
       "Cython": 0.011510879374525836
@@ -221,7 +221,7 @@
       "research",
       "sound-propagation"
     ],
-    "stars": 174,
+    "stars": 175,
     "forks": 80,
     "issues": 94,
     "language_list": {
@@ -231,7 +231,7 @@
     },
     "homepage": "https://noisemodelling.readthedocs.io/",
     "created_at": "2012-07-12T11:21:06Z",
-    "updated_at": "2025-07-02T15:14:03Z"
+    "updated_at": "2025-07-04T08:25:15Z"
   },
   {
     "name": "NoiseCapture",
@@ -312,7 +312,7 @@
       "signal-processing",
       "sound-pressure-level"
     ],
-    "stars": 119,
+    "stars": 120,
     "forks": 23,
     "issues": 9,
     "language_list": {
@@ -320,7 +320,7 @@
     },
     "homepage": "https://scikit-maad.github.io/",
     "created_at": "2018-09-10T11:04:27Z",
-    "updated_at": "2025-06-17T21:23:43Z"
+    "updated_at": "2025-07-04T02:50:16Z"
   },
   {
     "name": "BirdNET",
@@ -337,7 +337,7 @@
     ],
     "stars": 1136,
     "forks": 196,
-    "issues": 61,
+    "issues": 62,
     "language_list": {
       "Python": 0.9937716006917703
     },
@@ -352,8 +352,8 @@
     "category": "Bioacoustics",
     "language": "PHP",
     "tags": [],
-    "stars": 343,
-    "forks": 46,
+    "stars": 344,
+    "forks": 47,
     "issues": 28,
     "language_list": {
       "PHP": 0.5974237042433823,
@@ -365,7 +365,7 @@
     },
     "homepage": "https://birdnetpi.com",
     "created_at": "2022-04-21T17:25:55Z",
-    "updated_at": "2025-07-02T01:37:52Z"
+    "updated_at": "2025-07-04T07:48:19Z"
   },
   {
     "name": "PAMGuard",
@@ -432,16 +432,16 @@
       "python",
       "scipy"
     ],
-    "stars": 7728,
-    "forks": 992,
-    "issues": 62,
+    "stars": 7730,
+    "forks": 991,
+    "issues": 60,
     "language_list": {
       "Python": 0.9817831234989817,
       "MATLAB": 0.012870450800413963
     },
     "homepage": "https://librosa.org/",
     "created_at": "2012-10-20T14:21:01Z",
-    "updated_at": "2025-07-02T23:32:48Z"
+    "updated_at": "2025-07-03T19:48:36Z"
   },
   {
     "name": "friture",
@@ -513,7 +513,7 @@
     "category": "Health",
     "language": "C",
     "tags": [],
-    "stars": 273,
+    "stars": 274,
     "forks": 83,
     "issues": 0,
     "language_list": {
@@ -530,7 +530,7 @@
     },
     "homepage": "http://www.openmha.org",
     "created_at": "2017-02-01T15:26:03Z",
-    "updated_at": "2025-07-03T08:26:02Z"
+    "updated_at": "2025-07-04T03:07:35Z"
   },
   {
     "name": "Cape4all",
@@ -593,7 +593,7 @@
       "python",
       "signal-processing"
     ],
-    "stars": 6078,
+    "stars": 6079,
     "forks": 1217,
     "issues": 205,
     "language_list": {
@@ -603,7 +603,7 @@
     },
     "homepage": "",
     "created_at": "2014-08-27T12:43:13Z",
-    "updated_at": "2025-07-02T06:37:11Z"
+    "updated_at": "2025-07-04T07:01:43Z"
   },
   {
     "name": "madmom",
@@ -806,5 +806,11 @@
     "url": "https://gitlab.com/jtagusari/hrisk-noisemodelling",
     "description": "This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise.",
     "category": "Environment"
+  },
+  {
+    "name": "Acoupi",
+    "url": "https://gitlab.com/acoupi/acoupi",
+    "description": "Python toolkit to implement bioacoustics classifier on embedded systems.",
+    "category": "Bioacoustics"
   }
 ]
