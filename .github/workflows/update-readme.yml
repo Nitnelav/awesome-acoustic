@@ -3,7 +3,7 @@ name: Update README from JSON
 on:
   push:
     paths:
-      - 'projects.json'
+      - 'detailed_projects.json'
   workflow_dispatch:
 
 jobs:
