@@ -22,7 +22,7 @@ def get_github_repo_data(repo_full_name, github_token=None):
     langs_resp = requests.get(repo_url + "/languages", headers=headers)
     languages = langs_resp.json() if langs_resp.status_code == 200 else {}
     sum_languages = sum(languages.values())
-    lang_threshold = 0.01
+    lang_threshold = 0.10  # Only keep languages that are more than 10% of the codebase
     languages = {lang: languages[lang] / sum_languages for lang in languages if languages[lang] / sum_languages > lang_threshold}  # Keep languages that are more than 1% of the codebase
 
     return {
@@ -50,6 +50,11 @@ def main():
     for project in projects:
         repo_full_name = None
         url = project.get("url")
+
+        project["techs"] = project.get("techs", [])
+        if isinstance(project["techs"], str):
+            project["techs"] = [project["techs"]]
+
         if url and "github.com" in url:
             try:
                 # Extract owner/repo from URL
@@ -66,6 +71,9 @@ def main():
         data = get_github_repo_data(repo_full_name, GITHUB_API_TOKEN)
         if data:
             project.update(data)
+            language_list = data.get("language_list", {})
+            language_list = [lang for lang, _ in sorted(language_list.items(), key=lambda item: item[1], reverse=True)]
+            project["techs"] = list(set(project["techs"]) | set(language_list))
         detailed_projects.append(project)
 
     with open("detailed_projects.json", "w", encoding="utf-8") as f:
