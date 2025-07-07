@@ -20,7 +20,7 @@ jobs:
           cache: 'pip'
       - run: pip install requests python-dotenv
 
-      - name: Update detailed_projects.json from github
+      - name: Update projects from github
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
         run: |
@@ -37,4 +37,5 @@ jobs:
           fi
           git commit -m "Update detailed_projects.json from github [auto]"
           git remote set-url origin https://nitnelav:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase origin ${GITHUB_REF_NAME}
           git push origin HEAD:${GITHUB_REF_NAME}
