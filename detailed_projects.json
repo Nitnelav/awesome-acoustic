@@ -201,9 +201,9 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "C++",
       "C",
-      "Python"
+      "Python",
+      "C++"
     ],
     "tags": [
       "acoustic",
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Groovy",
       "Kotlin",
-      "Android",
-      "Java"
+      "Groovy",
+      "Java",
+      "Android"
     ],
     "tags": [
       "android",
@@ -391,9 +391,9 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "PHP",
+      "RaspberryPi",
       "JavaScript",
-      "RaspberryPi"
+      "PHP"
     ],
     "tags": [],
     "stars": 347,
@@ -562,9 +562,9 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "PostScript",
       "C",
       "C++",
+      "PostScript",
       "MATLAB"
     ],
     "tags": [],
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Python",
-      "Pytorch"
+      "Pytorch",
+      "Python"
     ],
     "tags": [
       "animal-communication",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "tags": [
       "avian",
