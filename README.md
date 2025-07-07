@@ -12,8 +12,8 @@ A list of awesome open-source Acoustic packages and resources.
 - [Soundscape](#soundscape)
 - [Bioacoustics](#bioacoustics)
 - [Databases](#databases)
-- [Health](#health)
 - [Music](#music)
+- [Health](#health)
 
 
 ## General Tools
@@ -31,9 +31,8 @@ A list of awesome open-source Acoustic packages and resources.
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain. | Python |
+| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
 | [Acoular](https://github.com/acoular/acoular) | Acoular - Acoustic testing and source mapping software | Python |
-| [librosa](https://github.com/librosa/librosa) | Python library for audio and music analysis | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 
 
@@ -42,7 +41,7 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
-| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | C++ |
+| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation |  |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 
 
@@ -82,7 +81,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [AudioMoth](https://github.com/OpenAcousticDevices/AudioMoth-Project) | A minimal project on which all AudioMoth firmware can be built. | C |
 | [vak](https://github.com/vocalpy/vak) | A neural network framework for researchers studying acoustic communication | Python |
 | [warbleR](https://github.com/maRce10/warbleR) | streamline acoustic analysis in R | R |
-| [Acoupi](https://github.com/acoupi/acoupi) | Python toolkit to implement bioacoustics classifier on embedded systems. |  |
+| [Acoupi](https://github.com/acoupi/acoupi) | Python toolkit to implement bioacoustics classifier on embedded systems. | Python |
 
 
 ## Databases
@@ -93,8 +92,18 @@ A list of awesome open-source Acoustic packages and resources.
 | [DCASE](https://github.com/DCASE-REPO/dcase_datalist) | Collection of DCASE related datasets | HTML |
 | [xeno-canto](https://xeno-canto.org/) | A community-driven site for sharing and discovering bird sounds |  |
 | [The International Soundscape Database](https://zenodo.org/records/10672568) | The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China. |  |
-| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them. | Shell |
+| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them.  | Shell |
 | [BirdSet](https://github.com/DBD-research-group/BirdSet) | A benchmark dataset collection for bird sound classification | Jupyter Notebook |
+
+
+## Music
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [librosa](https://github.com/librosa/librosa) | Python library for audio and music analysis | Python |
+| [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications | Python |
+| [madmom](https://github.com/CPJKU/madmom) | Python audio and music signal processing library | Python |
+| [audioFlux](https://github.com/libAudioFlux/audioFlux) | A library for audio and music analysis, feature extraction. | C |
 
 
 ## Health
@@ -103,13 +112,4 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [tascar](https://github.com/gisogrimm/tascar/) | toolbox for acoustic scene creation and rendering | C++ |
 | [openMHA](https://github.com/HoerTech-gGmbH/openMHA) | The open Master Hearing Aid (openMHA) | C |
-| [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black |  |
-
-
-## Music
-
-| Package | Description | Language |
-|---------|-------------|----------|
-| [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications | Python |
-| [madmom](https://github.com/CPJKU/madmom) | Python audio and music signal processing library | Python |
-| [audioFlux](https://github.com/libAudioFlux/audioFlux) | A library for audio and music analysis, feature extraction. | C |
+| [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black | None |
