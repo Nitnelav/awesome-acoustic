@@ -29,10 +29,11 @@ function renderProjectsByCategory(list) {
         <span title='Forks'><i class='fa-solid fa-code-fork' style='color:#424242;'></i> ${project.forks !== undefined ? project.forks : '-'}</span>
         <span title='Issues'><i class='fa-regular fa-circle-dot' style='color:#424242;'></i> ${project.issues !== undefined ? project.issues : '-'}</span>
       </div>`;
-      const lang = `<div class='lang text-start'>${getLanguageIcon(project.language) || ''}</div>`;
+      const techs = `<div class='techs text-start'>${getTechIconList(project.techs) || ''}</div>`;
       const createdAt = project.created_at ? `<span>Created: ${project.created_at.substring(0,4)}</span>` : '';
       const updatedAt = project.updated_at ? `<span>Updated: ${project.updated_at.substring(0,4)}</span>` : '';
-      const dates = `<div class='dates text-center flex-grow-2'>${createdAt}${updatedAt}</div>`;
+      // const dates = `<div class='dates text-center flex-grow-2'>${createdAt}${updatedAt}</div>`;
+      const dates = `<div class='dates text-center flex-grow-2'>${updatedAt}</div>`;
       const tags = Array.isArray(project.tags) && project.tags.length
         ? `<div class='mb-1'>${project.tags.map(tag => `<span class='badge bg-secondary me-1 mb-1'>${tag}</span>`).join('')}</div>`
         : '';
@@ -45,7 +46,7 @@ function renderProjectsByCategory(list) {
               ${tags}
             </div>
             <div class=\"card-footer d-flex align-items-center justify-content-between bg-white\">
-              ${lang}
+              ${techs}
               ${dates}
               ${stats}
             </div>
@@ -57,21 +58,40 @@ function renderProjectsByCategory(list) {
   });
 }
 
-function getLanguageIcon(lang) {
-  switch ((lang || '').toLowerCase()) {
-    case 'python':
-      return "<i class='fa-brands fa-python' style='color:#3776ab;' title='Python'></i> ";
-    case 'java':
-      return "<i class='fa-brands fa-java' style='color:#b07219;' title='Java'></i> ";
-    case 'c++':
-        return "<img height='16' width='16' src='https://cdn.simpleicons.org/cplusplus/00599c' alt='C++' title='C++' />";
-    case 'php':
-      return "<i class='fa-brands fa-php' style='color:#777bb4;' title='PHP'></i> ";
-    case 'javascript':
-      return "<i class='fa-brands fa-js' style='color:#f7df1e;' title='JavaScript'></i> ";
-    default:
-      return lang;
+function getTechIcon(tech) {
+  let size = 24; // Default size
+
+  if (!tech) return '';
+
+  if (tech === 'C++') {
+    tech_lower = 'cplusplus';
+  } else if (tech === 'Jupyter Notebook') {
+    tech_lower = 'jupyter';
+  } else if (tech === 'HTML') {
+    tech_lower = 'html5';
+  } else if (tech === 'CSS') {
+    tech_lower = 'css3';
+  } else if (tech === 'Dockerfile') {
+    tech_lower = 'docker';
+  } else if (tech === 'Shell') {
+    tech_lower = 'bash';
+  } else  {
+    tech_lower = tech.toLowerCase();
   }
+  // Instead of checking if the image exists, use onerror fallback in the <img> tag
+  const deviconUrl = `https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/${tech_lower}/${tech_lower}-original.svg`;
+  // If the image fails to load, it will show the tech text instead
+  return `<span style="position:relative;">
+    <img height='${size}' width='${size}' src="${deviconUrl}" alt="${tech}" title="${tech}" 
+      onerror="this.style.display='none'; this.parentNode.querySelector('span.fallback').style.display='inline';" />
+    <span class="fallback" style="display:none;background:#e0e0e0; padding:2px 6px; border-radius:4px; font-size:0.95em;">${tech}</span>
+  </span>`;
+}
+
+function getTechIconList(techs) {
+  console.log(techs);
+  if (!techs || !Array.isArray(techs) || !techs.length) return '';
+  return techs.map(getTechIcon).join(' ');
 }
 
 function getRepoIcon(url) {
