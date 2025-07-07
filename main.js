@@ -35,7 +35,7 @@ function renderProjectsByCategory(list) {
       // const dates = `<div class='dates text-center flex-grow-2'>${createdAt}${updatedAt}</div>`;
       const dates = `<div class='dates text-center flex-grow-2'>${updatedAt}</div>`;
       const tags = Array.isArray(project.tags) && project.tags.length
-        ? `<div class='mb-1'>${project.tags.map(tag => `<span class='badge bg-secondary me-1 mb-1'>${tag}</span>`).join('')}</div>`
+        ? `<div class='mb-1'>${project.tags.map(tag => `<span class='tag badge bg-secondary me-1 mb-1' style='cursor:pointer;'>${tag}</span>`).join('')}</div>`
         : '';
       const card = `
         <div class=\"col-12 mb-4\">
@@ -54,6 +54,17 @@ function renderProjectsByCategory(list) {
         </div>
       `;
       container.innerHTML += card;
+    });
+  });
+  // Add click event to tags to set search filter
+  const searchInput = document.getElementById('search');
+  container.querySelectorAll('.tag').forEach(tagEl => {
+    tagEl.addEventListener('click', function() {
+      if (searchInput) {
+        searchInput.value = this.textContent;
+        // Trigger input event to filter
+        searchInput.dispatchEvent(new Event('input'));
+      }
     });
   });
 }
@@ -111,8 +122,12 @@ if (searchInput) {
   searchInput.addEventListener('input', function() {
     const value = this.value.trim().toLowerCase();
     // Filter and re-render by category
-    renderProjectsByCategory(
-      projects.filter(p => p.name.toLowerCase().includes(value))
+    renderProjectsByCategory(projects.filter(p => {
+        const nameMatch = p.name && p.name.toLowerCase().includes(value);
+        const descMatch = p.description && p.description.toLowerCase().includes(value);
+        const tagsMatch = Array.isArray(p.tags) && p.tags.some(tag => tag.toLowerCase().includes(value));
+        return nameMatch || descMatch || tagsMatch;
+      })
     );
   });
 }
