@@ -286,5 +286,20 @@
     "name": "Ono Sensor",
     "url": "https://github.com/Universite-Gustave-Eiffel/Rail4Earth",
     "category": "Environment"
+  },
+  {
+    "name": "Acoucou",
+    "url": "https://acoucou.org/",
+    "category": "Education"
+  },
+  {
+    "name": "SoftwareProfesionalAcustica",
+    "url": "https://github.com/maprieto/SoftwareProfesionalAcustica",
+    "category": "Education"
+  },
+  {
+    "name": "FEniCS",
+    "url": "https://github.com/FEniCS/dolfinx",
+    "category": "FEM, Materials, Vibrations"
   }
 ]
