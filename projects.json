@@ -266,5 +266,25 @@
     "url": "https://github.com/acoupi/acoupi",
     "description": "Python toolkit to implement bioacoustics classifier on embedded systems.",
     "category": "Bioacoustics"
+  },
+  {
+    "name": "edg-acoustics",
+    "url": "https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics",
+    "category": "Room Acoustics"
+  },
+  {
+    "name": "CHORAS",
+    "url": "https://github.com/Building-acoustics-TU-Eindhoven/CHORAS",
+    "category": "Room Acoustics"
+  },
+  {
+    "name": "Diffusion",
+    "url": "https://github.com/Building-acoustics-TU-Eindhoven/Diffusion",
+    "category": "Room Acoustics"
+  },
+  {
+    "name": "Ono Sensor",
+    "url": "https://github.com/Universite-Gustave-Eiffel/Rail4Earth",
+    "category": "Environment"
   }
 ]
