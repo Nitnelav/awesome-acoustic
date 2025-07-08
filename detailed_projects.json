@@ -267,9 +267,9 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
+      "Java",
       "Groovy",
       "Kotlin",
-      "Java",
       "Android"
     ],
     "tags": [
@@ -296,8 +296,8 @@
     "description": "Dutch calculation method for railway vibrations",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Pascal",
-      "Python"
+      "Python",
+      "Pascal"
     ],
     "tags": [],
     "stars": 4,
@@ -391,9 +391,9 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
+      "PHP",
       "RaspberryPi",
-      "JavaScript",
-      "PHP"
+      "JavaScript"
     ],
     "tags": [],
     "stars": 348,
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "C++",
-      "MATLAB",
       "C",
-      "PostScript"
+      "C++",
+      "PostScript",
+      "MATLAB"
     ],
     "tags": [],
     "stars": 274,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "Python",
-      "C"
+      "C",
+      "Python"
     ],
     "tags": [
       "audio",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "tags": [
       "avian",
@@ -1005,5 +1005,58 @@
     "homepage": "",
     "created_at": "2024-02-27T14:24:11Z",
     "updated_at": "2025-04-09T12:22:12Z"
+  },
+  {
+    "name": "Acoucou",
+    "url": "https://acoucou.org/",
+    "category": "Education",
+    "techs": []
+  },
+  {
+    "name": "SoftwareProfesionalAcustica",
+    "url": "https://github.com/maprieto/SoftwareProfesionalAcustica",
+    "category": "Education",
+    "techs": [
+      "Jupyter Notebook"
+    ],
+    "description": "Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i)",
+    "tags": [],
+    "stars": 2,
+    "forks": 0,
+    "issues": 0,
+    "language": "Jupyter Notebook",
+    "language_list": {
+      "Jupyter Notebook": 1.0
+    },
+    "homepage": "",
+    "created_at": "2021-04-04T22:59:27Z",
+    "updated_at": "2025-07-08T13:37:49Z"
+  },
+  {
+    "name": "FEniCS",
+    "url": "https://github.com/FEniCS/dolfinx",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "C++",
+      "Python"
+    ],
+    "description": "Next generation FEniCS problem solving environment",
+    "tags": [
+      "fenicsx",
+      "finite-element-methods",
+      "parallel-computing",
+      "partial-differential-equations"
+    ],
+    "stars": 920,
+    "forks": 208,
+    "issues": 141,
+    "language": "C++",
+    "language_list": {
+      "C++": 0.583844729171727,
+      "Python": 0.3916796210833131
+    },
+    "homepage": "https://fenicsproject.org",
+    "created_at": "2018-04-05T14:02:41Z",
+    "updated_at": "2025-07-07T08:31:41Z"
   }
 ]
