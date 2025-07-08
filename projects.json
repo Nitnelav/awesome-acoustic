@@ -301,5 +301,15 @@
     "name": "FEniCS",
     "url": "https://github.com/FEniCS/dolfinx",
     "category": "FEM, Materials, Vibrations"
+  },
+  {
+    "name": "pyOMA2",
+    "url": "https://github.com/dagghe/pyOMA2",
+    "category": "FEM, Materials, Vibrations"
+  },
+  {
+    "name": "AeroAcoustics.jl",
+    "url": "https://github.com/1oly/AeroAcoustics.jl",
+    "category": "AeroAcoustics"
   }
 ]
