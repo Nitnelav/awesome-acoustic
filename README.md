@@ -14,6 +14,8 @@ A list of awesome open-source Acoustic packages and resources.
 - [Databases](#databases)
 - [Music](#music)
 - [Health](#health)
+- [Education](#education)
+- [AeroAcoustics](#aeroacoustics)
 
 
 ## General Tools
@@ -43,6 +45,9 @@ A list of awesome open-source Acoustic packages and resources.
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
 | [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation |  |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
+| [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
+| [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | None |
+| [Diffusion](https://github.com/Building-acoustics-TU-Eindhoven/Diffusion) | This is a diffusion equation model for room acoustics predictions, developed in Python. | Python |
 
 
 ## Environment
@@ -53,6 +58,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Android App dedicated to the measurement of environmental noise. | Java |
 | [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. |  |
 | [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. |  |
+| [Ono Sensor](https://github.com/Universite-Gustave-Eiffel/Rail4Earth) | OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization. | JavaScript |
 
 
 ## FEM, Materials, Vibrations
@@ -61,6 +67,8 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
 | [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. |  |
+| [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment | C++ |
+| [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 
 
 ## Soundscape
@@ -113,3 +121,18 @@ A list of awesome open-source Acoustic packages and resources.
 | [tascar](https://github.com/gisogrimm/tascar/) | toolbox for acoustic scene creation and rendering | C++ |
 | [openMHA](https://github.com/HoerTech-gGmbH/openMHA) | The open Master Hearing Aid (openMHA) | C |
 | [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black | None |
+
+
+## Education
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [Acoucou](https://acoucou.org/) |  |  |
+| [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i) | Jupyter Notebook |
+
+
+## AeroAcoustics
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl) | A Julia package for Aeroacoustics | Julia |
