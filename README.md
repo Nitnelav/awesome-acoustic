@@ -16,6 +16,7 @@ A list of awesome open-source Acoustic packages and resources.
 - [Health](#health)
 - [Education](#education)
 - [AeroAcoustics](#aeroacoustics)
+- [AI, Machine Learning](#ai-machine-learning)
 
 
 ## General Tools
@@ -136,3 +137,14 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl) | A Julia package for Aeroacoustics | Julia |
+
+
+## AI, Machine Learning
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [PANN](https://github.com/qiuqiangkong/audioset_tagging_cnn) | None | Python |
+| [YamNet](https://github.com/antonyharfield/tflite-models-audioset-yamnet) | A TFLite-compatible fork of YAMNet from tensorflow/models | Jupyter Notebook |
+| [CLAP](https://github.com/microsoft/CLAP) | Learning audio concepts from natural language supervision | Python |
+| [PANN with 1/3 octaves](https://github.com/modantailleur/paperSoundscapeSourceClassification) | None | HTML |
+| [BEATs](https://github.com/microsoft/unilm/tree/master/beats) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python |
