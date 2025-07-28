@@ -52,6 +52,15 @@ body {
   border-radius: 0.5em;
   vertical-align: middle;
 }
+#category-menu .nav-link {
+  padding: 0.2rem 0.5rem;
+  font-size: 1rem;
+}
+
+#category-list {
+  max-height: 70vh;
+  overflow-y: auto;
+}
 @media (max-width: 600px) {
   .brand-logo img {
     height: 32px;
