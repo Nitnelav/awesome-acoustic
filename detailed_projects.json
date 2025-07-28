@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Android",
-      "Java",
       "Kotlin",
-      "Groovy"
+      "Java",
+      "Groovy",
+      "Android"
     ],
     "tags": [
       "android",
@@ -296,8 +296,8 @@
     "description": "Dutch calculation method for railway vibrations",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Python",
-      "Pascal"
+      "Pascal",
+      "Python"
     ],
     "tags": [],
     "stars": 4,
@@ -514,7 +514,7 @@
     },
     "homepage": "http://friture.org",
     "created_at": "2009-01-07T11:27:41Z",
-    "updated_at": "2025-07-28T08:21:59Z"
+    "updated_at": "2025-07-28T15:01:21Z"
   },
   {
     "name": "tascar",
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
+      "PostScript",
       "C++",
       "MATLAB",
-      "C",
-      "PostScript"
+      "C"
     ],
     "tags": [],
     "stars": 281,
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Pytorch",
-      "Python"
+      "Python",
+      "Pytorch"
     ],
     "tags": [
       "animal-communication",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "tags": [
       "avian",
@@ -1127,8 +1127,8 @@
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
@@ -1170,8 +1170,8 @@
     "category": "AI, Machine Learning",
     "techs": [
       "HTML",
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": null,
     "tags": [],
