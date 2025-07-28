@@ -311,5 +311,25 @@
     "name": "AeroAcoustics.jl",
     "url": "https://github.com/1oly/AeroAcoustics.jl",
     "category": "AeroAcoustics"
+  },
+  {
+    "name": "PANN",
+    "url": "https://github.com/qiuqiangkong/audioset_tagging_cnn",
+    "category": "AI, Machine Learning"
+  },
+  {
+    "name": "YamNet",
+    "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
+    "category": "AI, Machine Learning"
+  },
+  {
+    "name": "CLAP",
+    "url": "https://github.com/microsoft/CLAP",
+    "category": "AI, Machine Learning"
+  },
+  {
+    "name": "PANN with 1/3 octaves",
+    "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
+    "category": "AI, Machine Learning"
   }
 ]
