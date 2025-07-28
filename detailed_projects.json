@@ -202,8 +202,8 @@
     "category": "Room Acoustics",
     "techs": [
       "C",
-      "Python",
-      "C++"
+      "C++",
+      "Python"
     ],
     "tags": [
       "acoustic",
@@ -268,9 +268,9 @@
     "category": "Environment",
     "techs": [
       "Java",
-      "Groovy",
       "Android",
-      "Kotlin"
+      "Kotlin",
+      "Groovy"
     ],
     "tags": [
       "android",
@@ -296,8 +296,8 @@
     "description": "Dutch calculation method for railway vibrations",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Pascal",
-      "Python"
+      "Python",
+      "Pascal"
     ],
     "tags": [],
     "stars": 4,
@@ -391,9 +391,9 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "PHP",
       "JavaScript",
-      "RaspberryPi"
+      "RaspberryPi",
+      "PHP"
     ],
     "tags": [],
     "stars": 383,
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "MATLAB",
       "C++",
-      "PostScript",
-      "C"
+      "MATLAB",
+      "C",
+      "PostScript"
     ],
     "tags": [],
     "stars": 281,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "Python",
-      "C"
+      "C",
+      "Python"
     ],
     "tags": [
       "audio",
@@ -747,8 +747,8 @@
     "description": "Collection of DCASE related datasets",
     "category": "Databases",
     "techs": [
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "tags": [
       "dcase"
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "tags": [
       "avian",
@@ -1037,8 +1037,8 @@
     "url": "https://github.com/FEniCS/dolfinx",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Python",
-      "C++"
+      "C++",
+      "Python"
     ],
     "description": "Next generation FEniCS problem solving environment",
     "tags": [
@@ -1127,8 +1127,8 @@
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
@@ -1170,8 +1170,8 @@
     "category": "AI, Machine Learning",
     "techs": [
       "Jupyter Notebook",
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "description": null,
     "tags": [],
@@ -1193,8 +1193,8 @@
     "url": "https://github.com/microsoft/unilm/tree/master/beats",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "tags": [
