@@ -268,8 +268,8 @@
     "category": "Environment",
     "techs": [
       "Kotlin",
-      "Java",
       "Groovy",
+      "Java",
       "Android"
     ],
     "tags": [
@@ -296,8 +296,8 @@
     "description": "Dutch calculation method for railway vibrations",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Pascal",
-      "Python"
+      "Python",
+      "Pascal"
     ],
     "tags": [],
     "stars": 4,
@@ -392,8 +392,8 @@
     "category": "Bioacoustics",
     "techs": [
       "RaspberryPi",
-      "PHP",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ],
     "tags": [],
     "stars": 383,
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "PostScript",
       "C++",
-      "MATLAB",
-      "C"
+      "PostScript",
+      "C",
+      "MATLAB"
     ],
     "tags": [],
     "stars": 281,
@@ -747,8 +747,8 @@
     "description": "Collection of DCASE related datasets",
     "category": "Databases",
     "techs": [
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "tags": [
       "dcase"
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "tags": [
       "avian",
@@ -1127,8 +1127,8 @@
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
@@ -1169,9 +1169,9 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
+      "Python",
       "HTML",
-      "Jupyter Notebook",
-      "Python"
+      "Jupyter Notebook"
     ],
     "description": null,
     "tags": [],
@@ -1187,5 +1187,48 @@
     "homepage": null,
     "created_at": "2023-12-01T10:51:50Z",
     "updated_at": "2025-07-09T10:48:52Z"
+  },
+  {
+    "name": "BEATs",
+    "url": "https://github.com/microsoft/unilm/tree/master/beats",
+    "category": "AI, Machine Learning",
+    "techs": [
+      "Python",
+      "Jupyter Notebook"
+    ],
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "tags": [
+      "beit",
+      "beit-3",
+      "bitnet",
+      "deepnet",
+      "document-ai",
+      "foundation-models",
+      "kosmos",
+      "kosmos-1",
+      "layoutlm",
+      "layoutxlm",
+      "llm",
+      "minilm",
+      "mllm",
+      "multimodal",
+      "nlp",
+      "pre-trained-model",
+      "textdiffuser",
+      "trocr",
+      "unilm",
+      "xlm-e"
+    ],
+    "stars": 21576,
+    "forks": 2643,
+    "issues": 670,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.839885030061837,
+      "Jupyter Notebook": 0.12550284039909396
+    },
+    "homepage": "https://aka.ms/GeneralAI",
+    "created_at": "2019-07-23T04:15:28Z",
+    "updated_at": "2025-07-28T12:10:51Z"
   }
 ]
