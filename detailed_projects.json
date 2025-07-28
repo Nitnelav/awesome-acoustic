@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Android",
-      "Java",
       "Kotlin",
-      "Groovy"
+      "Groovy",
+      "Java",
+      "Android"
     ],
     "tags": [
       "android",
@@ -392,8 +392,8 @@
     "category": "Bioacoustics",
     "techs": [
       "RaspberryPi",
-      "PHP",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ],
     "tags": [],
     "stars": 383,
@@ -514,7 +514,7 @@
     },
     "homepage": "http://friture.org",
     "created_at": "2009-01-07T11:27:41Z",
-    "updated_at": "2025-07-28T08:21:59Z"
+    "updated_at": "2025-07-28T15:01:21Z"
   },
   {
     "name": "tascar",
@@ -563,9 +563,9 @@
     "category": "Health",
     "techs": [
       "C++",
-      "MATLAB",
+      "PostScript",
       "C",
-      "PostScript"
+      "MATLAB"
     ],
     "tags": [],
     "stars": 281,
@@ -747,8 +747,8 @@
     "description": "Collection of DCASE related datasets",
     "category": "Databases",
     "techs": [
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "tags": [
       "dcase"
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Pytorch",
-      "Python"
+      "Python",
+      "Pytorch"
     ],
     "tags": [
       "animal-communication",
@@ -1169,8 +1169,8 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "HTML",
       "Python",
+      "HTML",
       "Jupyter Notebook"
     ],
     "description": null,
@@ -1187,5 +1187,48 @@
     "homepage": null,
     "created_at": "2023-12-01T10:51:50Z",
     "updated_at": "2025-07-09T10:48:52Z"
+  },
+  {
+    "name": "BEATs",
+    "url": "https://github.com/microsoft/unilm/tree/master/beats",
+    "category": "AI, Machine Learning",
+    "techs": [
+      "Python",
+      "Jupyter Notebook"
+    ],
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "tags": [
+      "beit",
+      "beit-3",
+      "bitnet",
+      "deepnet",
+      "document-ai",
+      "foundation-models",
+      "kosmos",
+      "kosmos-1",
+      "layoutlm",
+      "layoutxlm",
+      "llm",
+      "minilm",
+      "mllm",
+      "multimodal",
+      "nlp",
+      "pre-trained-model",
+      "textdiffuser",
+      "trocr",
+      "unilm",
+      "xlm-e"
+    ],
+    "stars": 21576,
+    "forks": 2643,
+    "issues": 670,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.839885030061837,
+      "Jupyter Notebook": 0.12550284039909396
+    },
+    "homepage": "https://aka.ms/GeneralAI",
+    "created_at": "2019-07-23T04:15:28Z",
+    "updated_at": "2025-07-28T12:10:51Z"
   }
 ]

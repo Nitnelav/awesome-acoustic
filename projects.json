@@ -331,5 +331,10 @@
     "name": "PANN with 1/3 octaves",
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning"
+  },
+  {
+    "name": "BEATs",
+    "url": "https://github.com/microsoft/unilm/tree/master/beats",
+    "category": "AI, Machine Learning"
   }
 ]
