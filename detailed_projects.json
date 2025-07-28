@@ -201,8 +201,8 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "C",
       "Python",
+      "C",
       "C++"
     ],
     "tags": [
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Kotlin",
-      "Groovy",
+      "Android",
       "Java",
-      "Android"
+      "Groovy",
+      "Kotlin"
     ],
     "tags": [
       "android",
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "C++",
       "PostScript",
       "C",
-      "MATLAB"
+      "MATLAB",
+      "C++"
     ],
     "tags": [],
     "stars": 281,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "C",
-      "Python"
+      "Python",
+      "C"
     ],
     "tags": [
       "audio",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "tags": [
       "avian",
@@ -1127,8 +1127,8 @@
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
