@@ -36,8 +36,27 @@
     </div>
   </nav>
   <div class="container">
-    <div class="row" id="projects-list">
-      <!-- Project cards will be injected here -->
+    <div class="row">
+      <div class="col-lg-2">
+        <nav id="category-menu" class="sticky-top navbar-light">
+          <h5 class="d-flex justify-content-between align-items-center">
+            Categories
+            <button class="btn btn-sm btn-outline-secondary d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#category-list" aria-expanded="false" aria-controls="category-list">
+              <i class="fa-solid fa-bars"></i>
+            </button>
+          </h5>
+          <div class="collapse d-lg-block" id="category-list">
+            <ul class="nav nav-pills flex-column">
+              <!-- categories here -->
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="col-lg-10">
+        <div class="row" id="projects-list">
+          <!-- Project cards will be injected here -->
+        </div>
+      </div>
     </div>
   </div>
   <!-- About Modal -->

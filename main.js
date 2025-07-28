@@ -12,7 +12,10 @@ fetch('detailed_projects.json')
 
 function renderProjectsByCategory(list) {
   const container = document.getElementById('projects-list');
+  const categoryMenu = document.querySelector('#category-list ul');
   container.innerHTML = '';
+  categoryMenu.innerHTML = '';
+
   if (!list.length) {
     container.innerHTML = '<div class="col-12"><p class="text-center">No projects found.</p></div>';
     return;
@@ -21,8 +24,16 @@ function renderProjectsByCategory(list) {
   const categories = [...new Set(list.map(p => p.category).filter(Boolean))];
   categories.forEach(category => {
     const catProjects = list.filter(p => p.category === category);
+    const categoryId = category.replace(/\s+/g, '-').toLowerCase();
     // Category header
-    container.innerHTML += `<div class='col-12'><h4 class='mt-4 mb-3'>${category}</h4></div>`;
+    container.innerHTML += `<div class='col-12'><h4 id="${categoryId}" class='mt-4 mb-3'>${category}</h4></div>`;
+    
+    // Add to menu
+    const menuItem = document.createElement('li');
+    menuItem.className = 'nav-item';
+    menuItem.innerHTML = `<a class="nav-link" href="#${categoryId}">${category}</a>`;
+    categoryMenu.appendChild(menuItem);
+
     catProjects.forEach(project => {
       const stats = `<div class=\"d-flex gap-4 justify-content-end align-items-center\" style=\"min-width:110px;\">
         <span title='Stars'><i class='fa-solid fa-star' style='color:#424242;'></i> ${project.stars !== undefined ? project.stars : '-'}</span>
@@ -126,8 +137,20 @@ if (searchInput) {
         const nameMatch = p.name && p.name.toLowerCase().includes(value);
         const descMatch = p.description && p.description.toLowerCase().includes(value);
         const tagsMatch = Array.isArray(p.tags) && p.tags.some(tag => tag.toLowerCase().includes(value));
-        return nameMatch || descMatch || tagsMatch;
+        const categoryMatch = p.category && p.category.toLowerCase().includes(value);
+        return nameMatch || descMatch || tagsMatch || categoryMatch;
       })
     );
   });
 }
+
+// Focus on search with Ctrl+F
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.key === 'f') {
+    event.preventDefault();
+    const searchInput = document.getElementById('search');
+    if (searchInput) {
+      searchInput.focus();
+    }
+  }
+});
