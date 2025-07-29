@@ -68,7 +68,7 @@
     ],
     "stars": 104,
     "forks": 17,
-    "issues": 52,
+    "issues": 53,
     "language": "Python",
     "language_list": {
       "Python": 1.0
@@ -174,7 +174,7 @@
       "room-impulse-response",
       "stft"
     ],
-    "stars": 1631,
+    "stars": 1632,
     "forks": 459,
     "issues": 86,
     "language": "Python",
@@ -183,7 +183,7 @@
     },
     "homepage": "https://pyroomacoustics.readthedocs.io",
     "created_at": "2015-12-24T13:41:25Z",
-    "updated_at": "2025-07-28T03:31:57Z"
+    "updated_at": "2025-07-29T07:47:15Z"
   },
   {
     "name": "Virtual Acoustics",
@@ -201,9 +201,9 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "C",
       "C++",
-      "Python"
+      "Python",
+      "C"
     ],
     "tags": [
       "acoustic",
@@ -267,9 +267,9 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Java",
       "Android",
       "Kotlin",
+      "Java",
       "Groovy"
     ],
     "tags": [
@@ -374,7 +374,7 @@
       "birdsong",
       "deep-learning"
     ],
-    "stars": 1173,
+    "stars": 1175,
     "forks": 204,
     "issues": 68,
     "language": "Python",
@@ -383,7 +383,7 @@
     },
     "homepage": "https://birdnet-team.github.io/BirdNET-Analyzer/",
     "created_at": "2021-09-22T13:29:56Z",
-    "updated_at": "2025-07-28T11:27:09Z"
+    "updated_at": "2025-07-28T21:15:35Z"
   },
   {
     "name": "BirdNET-Pi",
@@ -396,7 +396,7 @@
       "PHP"
     ],
     "tags": [],
-    "stars": 383,
+    "stars": 399,
     "forks": 50,
     "issues": 35,
     "language": "PHP",
@@ -406,7 +406,7 @@
     },
     "homepage": "https://birdnetpi.com",
     "created_at": "2022-04-21T17:25:55Z",
-    "updated_at": "2025-07-28T14:20:36Z"
+    "updated_at": "2025-07-29T07:40:59Z"
   },
   {
     "name": "PAMGuard",
@@ -451,7 +451,7 @@
       "python",
       "urban-sound"
     ],
-    "stars": 344,
+    "stars": 345,
     "forks": 28,
     "issues": 27,
     "language": "Python",
@@ -460,7 +460,7 @@
     },
     "homepage": "https://soundata.readthedocs.io/en/stable",
     "created_at": "2021-03-02T00:42:25Z",
-    "updated_at": "2025-07-09T18:58:18Z"
+    "updated_at": "2025-07-29T06:40:26Z"
   },
   {
     "name": "librosa",
@@ -480,7 +480,7 @@
     ],
     "stars": 7779,
     "forks": 995,
-    "issues": 62,
+    "issues": 60,
     "language": "Python",
     "language_list": {
       "Python": 0.9817831234989817
@@ -507,14 +507,14 @@
     ],
     "stars": 1001,
     "forks": 172,
-    "issues": 89,
+    "issues": 84,
     "language": "Python",
     "language_list": {
       "Python": 0.9376484281243027
     },
     "homepage": "http://friture.org",
     "created_at": "2009-01-07T11:27:41Z",
-    "updated_at": "2025-07-28T15:01:21Z"
+    "updated_at": "2025-07-28T16:46:55Z"
   },
   {
     "name": "tascar",
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "C++",
       "MATLAB",
-      "C",
-      "PostScript"
+      "C++",
+      "PostScript",
+      "C"
     ],
     "tags": [],
     "stars": 281,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "C",
-      "Python"
+      "Python",
+      "C"
     ],
     "tags": [
       "audio",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "tags": [
       "avian",
@@ -1111,7 +1111,7 @@
     ],
     "description": null,
     "tags": [],
-    "stars": 1520,
+    "stars": 1522,
     "forks": 278,
     "issues": 58,
     "language": "Python",
@@ -1120,15 +1120,15 @@
     },
     "homepage": null,
     "created_at": "2019-06-05T15:37:35Z",
-    "updated_at": "2025-07-28T03:59:26Z"
+    "updated_at": "2025-07-29T07:19:55Z"
   },
   {
     "name": "YamNet",
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
@@ -1153,7 +1153,7 @@
     ],
     "description": "Learning audio concepts from natural language supervision",
     "tags": [],
-    "stars": 574,
+    "stars": 576,
     "forks": 41,
     "issues": 14,
     "language": "Python",
@@ -1162,15 +1162,15 @@
     },
     "homepage": "",
     "created_at": "2022-11-02T17:55:31Z",
-    "updated_at": "2025-07-24T01:14:20Z"
+    "updated_at": "2025-07-29T03:37:49Z"
   },
   {
     "name": "PANN with 1/3 octaves",
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
       "Python",
+      "Jupyter Notebook",
       "HTML"
     ],
     "description": null,
@@ -1193,8 +1193,8 @@
     "url": "https://github.com/microsoft/unilm/tree/master/beats",
     "category": "AI, Machine Learning",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "tags": [
@@ -1219,8 +1219,8 @@
       "unilm",
       "xlm-e"
     ],
-    "stars": 21576,
-    "forks": 2643,
+    "stars": 21574,
+    "forks": 2644,
     "issues": 670,
     "language": "Python",
     "language_list": {
@@ -1229,6 +1229,6 @@
     },
     "homepage": "https://aka.ms/GeneralAI",
     "created_at": "2019-07-23T04:15:28Z",
-    "updated_at": "2025-07-28T12:10:51Z"
+    "updated_at": "2025-07-29T07:51:25Z"
   }
 ]
