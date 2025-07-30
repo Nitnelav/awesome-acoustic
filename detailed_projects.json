@@ -201,9 +201,9 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "Python",
+      "C",
       "C++",
-      "C"
+      "Python"
     ],
     "tags": [
       "acoustic",
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Java",
-      "Groovy",
+      "Android",
       "Kotlin",
-      "Android"
+      "Java",
+      "Groovy"
     ],
     "tags": [
       "android",
@@ -391,8 +391,8 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "RaspberryPi",
       "JavaScript",
+      "RaspberryPi",
       "PHP"
     ],
     "tags": [],
@@ -563,9 +563,9 @@
     "category": "Health",
     "techs": [
       "C++",
-      "PostScript",
+      "C",
       "MATLAB",
-      "C"
+      "PostScript"
     ],
     "tags": [],
     "stars": 281,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "Python",
-      "C"
+      "C",
+      "Python"
     ],
     "tags": [
       "audio",
@@ -747,8 +747,8 @@
     "description": "Collection of DCASE related datasets",
     "category": "Databases",
     "techs": [
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "tags": [
       "dcase"
@@ -1037,8 +1037,8 @@
     "url": "https://github.com/FEniCS/dolfinx",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Python",
-      "C++"
+      "C++",
+      "Python"
     ],
     "description": "Next generation FEniCS problem solving environment",
     "tags": [
@@ -1169,9 +1169,9 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "HTML",
+      "Jupyter Notebook",
       "Python",
-      "Jupyter Notebook"
+      "HTML"
     ],
     "description": null,
     "tags": [],
@@ -1230,5 +1230,27 @@
     "homepage": "https://aka.ms/GeneralAI",
     "created_at": "2019-07-23T04:15:28Z",
     "updated_at": "2025-07-30T09:31:18Z"
+  },
+  {
+    "name": "EAVR-v2",
+    "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
+    "category": "Room Acoustics",
+    "techs": [
+      "C#",
+      "ShaderLab"
+    ],
+    "description": null,
+    "tags": [],
+    "stars": 3,
+    "forks": 1,
+    "issues": 3,
+    "language": "C#",
+    "language_list": {
+      "C#": 0.8393734604124482,
+      "ShaderLab": 0.13504197995795555
+    },
+    "homepage": null,
+    "created_at": "2023-03-17T14:54:44Z",
+    "updated_at": "2025-07-01T13:45:55Z"
   }
 ]

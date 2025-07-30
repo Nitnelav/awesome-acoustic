@@ -336,5 +336,10 @@
     "name": "BEATs",
     "url": "https://github.com/microsoft/unilm/tree/master/beats",
     "category": "AI, Machine Learning"
+  },
+  {
+    "name": "EAVR-v2",
+    "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
+    "category": "Room Acoustics"
   }
 ]
