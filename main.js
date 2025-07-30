@@ -26,45 +26,54 @@ function renderProjectsByCategory(list) {
     const catProjects = list.filter(p => p.category === category);
     const categoryId = category.replace(/\s+/g, '-').toLowerCase();
     // Category header
-    container.innerHTML += `<div class='col-12'><h4 id="${categoryId}" class='mt-4 mb-3'>${category}</h4></div>`;
+    const categoryHeader = document.createElement('div');
+    categoryHeader.className = 'col-12 category-header';
+    categoryHeader.innerHTML = `<h4 id="${categoryId}" class='mt-4 mb-3'>${category}</h4>`;
+    container.appendChild(categoryHeader);
     
     // Add to menu
     const menuItem = document.createElement('li');
-    menuItem.className = 'nav-item';
+    menuItem.className = 'nav-item category-menu-item';
+    menuItem.dataset.category = category;
     menuItem.innerHTML = `<a class="nav-link" href="#${categoryId}">${category}</a>`;
     categoryMenu.appendChild(menuItem);
 
     catProjects.forEach(project => {
-      const stats = `<div class=\"d-flex gap-4 justify-content-end align-items-center\" style=\"min-width:110px;\">
+      const stats = `<div class="d-flex gap-4 justify-content-end align-items-center" style="min-width:110px;">
         <span title='Stars'><i class='fa-solid fa-star' style='color:#424242;'></i> ${project.stars !== undefined ? project.stars : '-'}</span>
         <span title='Forks'><i class='fa-solid fa-code-fork' style='color:#424242;'></i> ${project.forks !== undefined ? project.forks : '-'}</span>
         <span title='Issues'><i class='fa-regular fa-circle-dot' style='color:#424242;'></i> ${project.issues !== undefined ? project.issues : '-'}</span>
       </div>`;
       const techs = `<div class='techs text-start'>${getTechIconList(project.techs) || ''}</div>`;
-      const createdAt = project.created_at ? `<span>Created: ${project.created_at.substring(0,4)}</span>` : '';
       const updatedAt = project.updated_at ? `<span>Updated: ${project.updated_at.substring(0,4)}</span>` : '';
-      // const dates = `<div class='dates text-center flex-grow-2'>${createdAt}${updatedAt}</div>`;
       const dates = `<div class='dates text-center flex-grow-2'>${updatedAt}</div>`;
       const tags = Array.isArray(project.tags) && project.tags.length
         ? `<div class='mb-1'>${project.tags.map(tag => `<span class='tag badge bg-secondary me-1 mb-1' style='cursor:pointer;'>${tag}</span>`).join('')}</div>`
         : '';
-      const card = `
-        <div class=\"col-12 mb-4\">
-          <div class=\"card project-card shadow-sm\">
-            <div class=\"card-body\">
-              <h5 class=\"card-title\"><a class=\"link-body-emphasis\" href=\"${project.url}\" target=\"_blank\">${getRepoIcon(project.url)}${project.name}</a></h5>
-              <p class=\"card-text\">${project.description || ''}</p>
+      
+      const projectCardContainer = document.createElement('div');
+      projectCardContainer.className = 'col-12 mb-4 project-container';
+      // Add data attributes for filtering
+      projectCardContainer.dataset.name = project.name || '';
+      projectCardContainer.dataset.description = project.description || '';
+      projectCardContainer.dataset.tags = (project.tags || []).join(' ');
+      projectCardContainer.dataset.category = project.category || '';
+
+      projectCardContainer.innerHTML = `
+          <div class="card project-card shadow-sm">
+            <div class="card-body">
+              <h5 class="card-title"><a class="link-body-emphasis" href="${project.url}" target="_blank">${getRepoIcon(project.url)}${project.name}</a></h5>
+              <p class="card-text">${project.description || ''}</p>
               ${tags}
             </div>
-            <div class=\"card-footer d-flex align-items-center justify-content-between bg-white\">
+            <div class="card-footer d-flex align-items-center justify-content-between bg-white">
               ${techs}
               ${dates}
               ${stats}
             </div>
           </div>
-        </div>
       `;
-      container.innerHTML += card;
+      container.appendChild(projectCardContainer);
     });
   });
   // Add click event to tags to set search filter
@@ -132,15 +141,42 @@ const searchInput = document.getElementById('search');
 if (searchInput) {
   searchInput.addEventListener('input', function() {
     const value = this.value.trim().toLowerCase();
-    // Filter and re-render by category
-    renderProjectsByCategory(projects.filter(p => {
-        const nameMatch = p.name && p.name.toLowerCase().includes(value);
-        const descMatch = p.description && p.description.toLowerCase().includes(value);
-        const tagsMatch = Array.isArray(p.tags) && p.tags.some(tag => tag.toLowerCase().includes(value));
-        const categoryMatch = p.category && p.category.toLowerCase().includes(value);
-        return nameMatch || descMatch || tagsMatch || categoryMatch;
-      })
-    );
+    const projectCards = document.querySelectorAll('.project-container');
+    const categoryHeaders = document.querySelectorAll('.category-header');
+    const categoryMenuItems = document.querySelectorAll('.category-menu-item');
+    let visibleCategories = new Set();
+
+    projectCards.forEach(card => {
+      const nameMatch = card.dataset.name.toLowerCase().includes(value);
+      const descMatch = card.dataset.description.toLowerCase().includes(value);
+      const tagsMatch = card.dataset.tags.toLowerCase().includes(value);
+      const categoryMatch = card.dataset.category.toLowerCase().includes(value);
+      
+      if (nameMatch || descMatch || tagsMatch || categoryMatch) {
+        card.style.display = '';
+        visibleCategories.add(card.dataset.category);
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    categoryHeaders.forEach(header => {
+      const categoryName = header.querySelector('h4').textContent;
+      if (visibleCategories.has(categoryName)) {
+        header.style.display = '';
+      } else {
+        header.style.display = 'none';
+      }
+    });
+
+    categoryMenuItems.forEach(menuItem => {
+      const categoryName = menuItem.dataset.category;
+      if (visibleCategories.has(categoryName)) {
+        menuItem.style.display = '';
+      } else {
+        menuItem.style.display = 'none';
+      }
+    });
   });
 }
 
