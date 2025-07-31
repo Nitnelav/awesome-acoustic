@@ -98,6 +98,8 @@ function getTechIcon(tech) {
     tech_lower = 'cplusplus';
   } else if (tech === 'Jupyter Notebook') {
     tech_lower = 'jupyter';
+  } else if (tech === 'C#') {
+    tech_lower = 'csharp';
   } else if (tech === 'HTML') {
     tech_lower = 'html5';
   } else if (tech === 'CSS') {
