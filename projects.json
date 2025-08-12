@@ -341,5 +341,12 @@
     "name": "EAVR-v2",
     "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
     "category": "Room Acoustics"
+  },
+  {
+    "name": "Chalmers Auralization Toolbox",
+    "url": "https://github.com/AppliedAcousticsChalmers/auralization-toolbox",
+    "description": "Binaural and ambisonic auralization of simulated sound fields",
+    "category": "Room Acoustics",
+    "techs": "MATLAB"
   }
 ]
