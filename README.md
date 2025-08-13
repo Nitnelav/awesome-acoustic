@@ -50,6 +50,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | None |
 | [Diffusion](https://github.com/Building-acoustics-TU-Eindhoven/Diffusion) | This is a diffusion equation model for room acoustics predictions, developed in Python. | Python |
 | [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | None | C# |
+| [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
 
 
 ## Environment
