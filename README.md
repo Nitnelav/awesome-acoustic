@@ -133,6 +133,7 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [Acoucou](https://acoucou.org/) |  |  |
 | [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i) | Jupyter Notebook |
+| [AcousticsML](https://github.com/RAMshades/AcousticsML) | Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications. | Jupyter Notebook |
 
 
 ## AeroAcoustics
