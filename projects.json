@@ -348,5 +348,10 @@
     "description": "Binaural and ambisonic auralization of simulated sound fields",
     "category": "Room Acoustics",
     "techs": "MATLAB"
+  },
+  {
+    "name": "Crowsetta",
+    "url": "https://github.com/vocalpy/crowsetta",
+    "category": "Bioacoustics"
   }
 ]
