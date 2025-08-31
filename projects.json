@@ -353,5 +353,10 @@
     "name": "Crowsetta",
     "url": "https://github.com/vocalpy/crowsetta",
     "category": "Bioacoustics"
+  },
+  {
+    "name": "AcousticsML",
+    "url": "https://github.com/RAMshades/AcousticsML",
+    "category": "Education"
   }
 ]
