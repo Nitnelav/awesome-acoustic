@@ -201,8 +201,8 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "C++",
       "C",
+      "C++",
       "Python"
     ],
     "tags": [
@@ -267,9 +267,9 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Java",
       "Kotlin",
       "Android",
+      "Java",
       "Groovy"
     ],
     "tags": [
@@ -392,8 +392,8 @@
     "category": "Bioacoustics",
     "techs": [
       "PHP",
-      "JavaScript",
-      "RaspberryPi"
+      "RaspberryPi",
+      "JavaScript"
     ],
     "tags": [],
     "stars": 495,
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "C++",
       "PostScript",
-      "C",
-      "MATLAB"
+      "C++",
+      "MATLAB",
+      "C"
     ],
     "tags": [],
     "stars": 287,
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Python",
-      "Pytorch"
+      "Pytorch",
+      "Python"
     ],
     "tags": [
       "animal-communication",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "tags": [
       "avian",
@@ -1127,8 +1127,8 @@
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
@@ -1304,5 +1304,28 @@
     "homepage": "https://crowsetta.readthedocs.io/en/latest/",
     "created_at": "2018-12-01T03:19:31Z",
     "updated_at": "2025-08-08T05:42:08Z"
+  },
+  {
+    "name": "AcousticsML",
+    "url": "https://github.com/RAMshades/AcousticsML",
+    "category": "Education",
+    "techs": [
+      "Jupyter Notebook"
+    ],
+    "description": "Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications.",
+    "tags": [
+      "acoustics",
+      "machine-learning"
+    ],
+    "stars": 49,
+    "forks": 3,
+    "issues": 0,
+    "language": "Jupyter Notebook",
+    "language_list": {
+      "Jupyter Notebook": 0.9997652541757811
+    },
+    "homepage": "",
+    "created_at": "2024-07-31T23:29:35Z",
+    "updated_at": "2025-08-29T12:59:48Z"
   }
 ]
