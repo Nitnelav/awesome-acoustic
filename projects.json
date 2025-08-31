@@ -362,6 +362,7 @@
   {
     "name": "WAPE",
     "url": "https://github.com/Universite-Gustave-Eiffel/WAPE",
+    "description": "Wide Angle Parabolic Equation model with arbitrary Mach number",
     "category": "AeroAcoustics"
   }
 ]
