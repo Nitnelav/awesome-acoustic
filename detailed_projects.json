@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "C",
-      "Python"
+      "Python",
+      "C"
     ],
     "tags": [
       "audio",
@@ -1169,8 +1169,8 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
       "HTML",
+      "Jupyter Notebook",
       "Python"
     ],
     "description": null,
@@ -1193,8 +1193,8 @@
     "url": "https://github.com/microsoft/unilm/tree/master/beats",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "tags": [
@@ -1272,5 +1272,37 @@
     "homepage": "",
     "created_at": "2023-08-25T14:58:17Z",
     "updated_at": "2025-07-02T20:09:28Z"
+  },
+  {
+    "name": "Crowsetta",
+    "url": "https://github.com/vocalpy/crowsetta",
+    "category": "Bioacoustics",
+    "techs": [
+      "Python"
+    ],
+    "description": "A tool to work with any format for annotating animal sounds",
+    "tags": [
+      "animal-communication",
+      "animal-vocalizations",
+      "annotation",
+      "annotation-format",
+      "bioacoustic-analysis",
+      "bioacoustics",
+      "birdsong",
+      "csv",
+      "dataset",
+      "python",
+      "python3"
+    ],
+    "stars": 57,
+    "forks": 4,
+    "issues": 41,
+    "language": "Python",
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "https://crowsetta.readthedocs.io/en/latest/",
+    "created_at": "2018-12-01T03:19:31Z",
+    "updated_at": "2025-08-08T05:42:08Z"
   }
 ]
