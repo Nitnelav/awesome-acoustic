@@ -201,8 +201,8 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "C",
       "C++",
+      "C",
       "Python"
     ],
     "tags": [
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Kotlin",
-      "Groovy",
       "Java",
-      "Android"
+      "Kotlin",
+      "Android",
+      "Groovy"
     ],
     "tags": [
       "android",
@@ -392,8 +392,8 @@
     "category": "Bioacoustics",
     "techs": [
       "PHP",
-      "RaspberryPi",
-      "JavaScript"
+      "JavaScript",
+      "RaspberryPi"
     ],
     "tags": [],
     "stars": 495,
@@ -563,8 +563,8 @@
     "category": "Health",
     "techs": [
       "C++",
-      "C",
       "PostScript",
+      "C",
       "MATLAB"
     ],
     "tags": [],
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "Python",
-      "C"
+      "C",
+      "Python"
     ],
     "tags": [
       "audio",
@@ -747,8 +747,8 @@
     "description": "Collection of DCASE related datasets",
     "category": "Databases",
     "techs": [
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "tags": [
       "dcase"
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Pytorch",
-      "Python"
+      "Python",
+      "Pytorch"
     ],
     "tags": [
       "animal-communication",
@@ -1169,9 +1169,9 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "HTML",
       "Jupyter Notebook",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "description": null,
     "tags": [],
@@ -1193,8 +1193,8 @@
     "url": "https://github.com/microsoft/unilm/tree/master/beats",
     "category": "AI, Machine Learning",
     "techs": [
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "tags": [
@@ -1236,8 +1236,8 @@
     "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
     "category": "Room Acoustics",
     "techs": [
-      "ShaderLab",
-      "C#"
+      "C#",
+      "ShaderLab"
     ],
     "description": null,
     "tags": [],
