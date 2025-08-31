@@ -305,7 +305,9 @@
   {
     "name": "pyOMA2",
     "url": "https://github.com/dagghe/pyOMA2",
-    "category": "FEM, Materials, Vibrations"
+    "description": "Python module for conducting operational modal analysis",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
   },
   {
     "name": "AeroAcoustics.jl",
