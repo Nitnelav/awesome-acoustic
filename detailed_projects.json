@@ -201,8 +201,8 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
-      "C",
       "Python",
+      "C",
       "C++"
     ],
     "tags": [
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Android",
-      "Java",
       "Groovy",
-      "Kotlin"
+      "Kotlin",
+      "Java",
+      "Android"
     ],
     "tags": [
       "android",
@@ -391,12 +391,12 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "JavaScript",
+      "RaspberryPi",
       "PHP",
-      "RaspberryPi"
+      "JavaScript"
     ],
     "tags": [],
-    "stars": 494,
+    "stars": 495,
     "forks": 69,
     "issues": 38,
     "language": "PHP",
@@ -406,7 +406,7 @@
     },
     "homepage": "https://birdnetpi.com",
     "created_at": "2022-04-21T17:25:55Z",
-    "updated_at": "2025-08-31T01:40:44Z"
+    "updated_at": "2025-08-31T18:59:43Z"
   },
   {
     "name": "PAMGuard",
@@ -478,7 +478,7 @@
       "python",
       "scipy"
     ],
-    "stars": 7850,
+    "stars": 7851,
     "forks": 998,
     "issues": 67,
     "language": "Python",
@@ -487,7 +487,7 @@
     },
     "homepage": "https://librosa.org/",
     "created_at": "2012-10-20T14:21:01Z",
-    "updated_at": "2025-08-31T10:03:50Z"
+    "updated_at": "2025-08-31T15:45:26Z"
   },
   {
     "name": "friture",
@@ -505,16 +505,16 @@
       "spectrum",
       "spectrum-analyzer"
     ],
-    "stars": 1016,
+    "stars": 1017,
     "forks": 175,
-    "issues": 85,
+    "issues": 86,
     "language": "Python",
     "language_list": {
-      "Python": 0.9320797195907675
+      "Python": 0.9304684519903049
     },
     "homepage": "http://friture.org",
     "created_at": "2009-01-07T11:27:41Z",
-    "updated_at": "2025-08-31T07:01:53Z"
+    "updated_at": "2025-08-31T18:29:46Z"
   },
   {
     "name": "tascar",
@@ -562,9 +562,9 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "MATLAB",
       "C",
       "PostScript",
+      "MATLAB",
       "C++"
     ],
     "tags": [],
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "C",
-      "Python"
+      "Python",
+      "C"
     ],
     "tags": [
       "audio",
@@ -729,7 +729,7 @@
       "wavelet-analysis",
       "wavelet-transform"
     ],
-    "stars": 3151,
+    "stars": 3152,
     "forks": 144,
     "issues": 16,
     "language": "C",
@@ -739,7 +739,7 @@
     },
     "homepage": "https://audioflux.top",
     "created_at": "2023-01-16T09:53:04Z",
-    "updated_at": "2025-08-31T10:36:44Z"
+    "updated_at": "2025-08-31T17:02:06Z"
   },
   {
     "name": "DCASE",
@@ -854,7 +854,7 @@
       "speech"
     ],
     "stars": 501,
-    "forks": 43,
+    "forks": 44,
     "issues": 3,
     "language": "Shell",
     "language_list": {
@@ -1169,8 +1169,8 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
       "HTML",
+      "Jupyter Notebook",
       "Python"
     ],
     "description": null,
@@ -1193,8 +1193,8 @@
     "url": "https://github.com/microsoft/unilm/tree/master/beats",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "tags": [
@@ -1272,5 +1272,37 @@
     "homepage": "",
     "created_at": "2023-08-25T14:58:17Z",
     "updated_at": "2025-07-02T20:09:28Z"
+  },
+  {
+    "name": "Crowsetta",
+    "url": "https://github.com/vocalpy/crowsetta",
+    "category": "Bioacoustics",
+    "techs": [
+      "Python"
+    ],
+    "description": "A tool to work with any format for annotating animal sounds",
+    "tags": [
+      "animal-communication",
+      "animal-vocalizations",
+      "annotation",
+      "annotation-format",
+      "bioacoustic-analysis",
+      "bioacoustics",
+      "birdsong",
+      "csv",
+      "dataset",
+      "python",
+      "python3"
+    ],
+    "stars": 57,
+    "forks": 4,
+    "issues": 41,
+    "language": "Python",
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "https://crowsetta.readthedocs.io/en/latest/",
+    "created_at": "2018-12-01T03:19:31Z",
+    "updated_at": "2025-08-08T05:42:08Z"
   }
 ]
