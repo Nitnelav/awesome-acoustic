@@ -141,6 +141,7 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl) | A Julia package for Aeroacoustics | Julia |
+| [WAPE](https://github.com/Universite-Gustave-Eiffel/WAPE) | None | MATLAB |
 
 
 ## AI, Machine Learning
