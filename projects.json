@@ -223,6 +223,11 @@
     "techs": ["Pytorch", "Python"]
   },
   {
+    "name": "Crowsetta",
+    "url": "https://github.com/vocalpy/crowsetta",
+    "category": "Bioacoustics"
+  },
+  {
     "name": "warbleR",
     "url": "https://github.com/maRce10/warbleR",
     "description": "streamline acoustic analysis in R",
