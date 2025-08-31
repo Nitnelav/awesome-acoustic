@@ -42,7 +42,7 @@
       "sound-quality",
       "sq-metrics"
     ],
-    "stars": 151,
+    "stars": 152,
     "forks": 45,
     "issues": 19,
     "language": "Python",
@@ -51,7 +51,7 @@
     },
     "homepage": "",
     "created_at": "2020-03-23T07:56:37Z",
-    "updated_at": "2025-08-10T03:09:07Z"
+    "updated_at": "2025-08-25T12:49:03Z"
   },
   {
     "name": "Pyfar",
@@ -66,16 +66,16 @@
       "digital-signal-processing",
       "plotting"
     ],
-    "stars": 105,
+    "stars": 108,
     "forks": 18,
-    "issues": 63,
+    "issues": 64,
     "language": "Python",
     "language_list": {
       "Python": 1.0
     },
     "homepage": "https://pyfar.org",
     "created_at": "2020-10-27T19:13:03Z",
-    "updated_at": "2025-08-12T13:29:06Z"
+    "updated_at": "2025-08-31T02:19:09Z"
   },
   {
     "name": "PyTTA",
@@ -86,7 +86,7 @@
       "Python"
     ],
     "tags": [],
-    "stars": 104,
+    "stars": 106,
     "forks": 35,
     "issues": 11,
     "language": "Python",
@@ -95,7 +95,7 @@
     },
     "homepage": null,
     "created_at": "2018-10-19T21:06:16Z",
-    "updated_at": "2025-08-11T17:40:14Z"
+    "updated_at": "2025-08-18T11:28:37Z"
   },
   {
     "name": "PyOctaveBand",
@@ -117,7 +117,7 @@
       "signal",
       "time-domain"
     ],
-    "stars": 81,
+    "stars": 82,
     "forks": 19,
     "issues": 6,
     "language": "Python",
@@ -126,7 +126,7 @@
     },
     "homepage": "",
     "created_at": "2020-06-28T23:01:25Z",
-    "updated_at": "2025-07-10T10:11:58Z"
+    "updated_at": "2025-08-27T14:13:23Z"
   },
   {
     "name": "Acoular",
@@ -145,16 +145,16 @@
       "microphone-array-processing",
       "signal-processing"
     ],
-    "stars": 564,
-    "forks": 142,
+    "stars": 567,
+    "forks": 143,
     "issues": 48,
     "language": "Python",
     "language_list": {
-      "Python": 0.9889103073607617
+      "Python": 0.988910943414778
     },
     "homepage": "https://www.acoular.org",
     "created_at": "2015-01-23T11:02:57Z",
-    "updated_at": "2025-08-11T16:04:47Z"
+    "updated_at": "2025-08-29T08:58:29Z"
   },
   {
     "name": "Pyroomacoustics",
@@ -174,16 +174,16 @@
       "room-impulse-response",
       "stft"
     ],
-    "stars": 1645,
-    "forks": 462,
-    "issues": 86,
+    "stars": 1659,
+    "forks": 465,
+    "issues": 88,
     "language": "Python",
     "language_list": {
       "Python": 0.8998394065532992
     },
     "homepage": "https://pyroomacoustics.readthedocs.io",
     "created_at": "2015-12-24T13:41:25Z",
-    "updated_at": "2025-08-11T08:39:52Z"
+    "updated_at": "2025-08-30T19:59:26Z"
   },
   {
     "name": "Virtual Acoustics",
@@ -202,8 +202,8 @@
     "category": "Room Acoustics",
     "techs": [
       "C",
-      "C++",
-      "Python"
+      "Python",
+      "C++"
     ],
     "tags": [
       "acoustic",
@@ -213,7 +213,7 @@
       "room-acoustics",
       "sound"
     ],
-    "stars": 256,
+    "stars": 258,
     "forks": 63,
     "issues": 116,
     "language": "C++",
@@ -223,7 +223,7 @@
     },
     "homepage": "https://i-simpa.univ-gustave-eiffel.fr/",
     "created_at": "2014-03-20T09:11:46Z",
-    "updated_at": "2025-08-01T19:53:58Z"
+    "updated_at": "2025-08-22T09:17:13Z"
   },
   {
     "name": "NoiseModelling",
@@ -231,8 +231,8 @@
     "description": "A open-source model to compute noise maps.",
     "category": "Environment",
     "techs": [
-      "Java",
-      "Groovy"
+      "Groovy",
+      "Java"
     ],
     "tags": [
       "acoustics",
@@ -267,8 +267,8 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Java",
       "Android",
+      "Java",
       "Groovy",
       "Kotlin"
     ],
@@ -278,7 +278,7 @@
       "measurements",
       "noise-maps"
     ],
-    "stars": 108,
+    "stars": 109,
     "forks": 48,
     "issues": 69,
     "language": "Java",
@@ -288,7 +288,7 @@
     },
     "homepage": "http://noise-planet.org/fr/noisecapture.html",
     "created_at": "2015-03-25T14:45:36Z",
-    "updated_at": "2025-07-31T10:03:25Z"
+    "updated_at": "2025-08-27T23:31:19Z"
   },
   {
     "name": "OURS",
@@ -296,8 +296,8 @@
     "description": "Dutch calculation method for railway vibrations",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Pascal",
-      "Python"
+      "Python",
+      "Pascal"
     ],
     "tags": [],
     "stars": 5,
@@ -357,7 +357,7 @@
     },
     "homepage": "https://scikit-maad.github.io/",
     "created_at": "2018-09-10T11:04:27Z",
-    "updated_at": "2025-07-10T07:29:13Z"
+    "updated_at": "2025-08-28T14:58:31Z"
   },
   {
     "name": "BirdNET",
@@ -374,16 +374,16 @@
       "birdsong",
       "deep-learning"
     ],
-    "stars": 1204,
-    "forks": 207,
-    "issues": 72,
+    "stars": 1222,
+    "forks": 206,
+    "issues": 68,
     "language": "Python",
     "language_list": {
-      "Python": 0.9937722749078174
+      "Python": 0.9938462913242863
     },
     "homepage": "https://birdnet-team.github.io/BirdNET-Analyzer/",
     "created_at": "2021-09-22T13:29:56Z",
-    "updated_at": "2025-08-12T05:08:25Z"
+    "updated_at": "2025-08-30T15:25:01Z"
   },
   {
     "name": "BirdNET-Pi",
@@ -391,22 +391,22 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "PHP",
       "JavaScript",
+      "PHP",
       "RaspberryPi"
     ],
     "tags": [],
-    "stars": 456,
-    "forks": 63,
+    "stars": 494,
+    "forks": 69,
     "issues": 38,
     "language": "PHP",
     "language_list": {
-      "PHP": 0.597843097198847,
-      "JavaScript": 0.29675429094057715
+      "PHP": 0.5988891418548367,
+      "JavaScript": 0.29608796732407167
     },
     "homepage": "https://birdnetpi.com",
     "created_at": "2022-04-21T17:25:55Z",
-    "updated_at": "2025-08-12T23:30:33Z"
+    "updated_at": "2025-08-31T01:40:44Z"
   },
   {
     "name": "PAMGuard",
@@ -452,7 +452,7 @@
       "urban-sound"
     ],
     "stars": 344,
-    "forks": 28,
+    "forks": 27,
     "issues": 25,
     "language": "Python",
     "language_list": {
@@ -460,7 +460,7 @@
     },
     "homepage": "https://soundata.readthedocs.io/en/stable",
     "created_at": "2021-03-02T00:42:25Z",
-    "updated_at": "2025-08-13T10:05:56Z"
+    "updated_at": "2025-08-15T21:30:08Z"
   },
   {
     "name": "librosa",
@@ -478,16 +478,16 @@
       "python",
       "scipy"
     ],
-    "stars": 7816,
-    "forks": 1000,
-    "issues": 65,
+    "stars": 7850,
+    "forks": 998,
+    "issues": 67,
     "language": "Python",
     "language_list": {
       "Python": 0.9817831234989817
     },
     "homepage": "https://librosa.org/",
     "created_at": "2012-10-20T14:21:01Z",
-    "updated_at": "2025-08-13T09:16:58Z"
+    "updated_at": "2025-08-31T10:03:50Z"
   },
   {
     "name": "friture",
@@ -505,16 +505,16 @@
       "spectrum",
       "spectrum-analyzer"
     ],
-    "stars": 1007,
-    "forks": 172,
-    "issues": 84,
+    "stars": 1016,
+    "forks": 175,
+    "issues": 85,
     "language": "Python",
     "language_list": {
-      "Python": 0.937225185327469
+      "Python": 0.9320797195907675
     },
     "homepage": "http://friture.org",
     "created_at": "2009-01-07T11:27:41Z",
-    "updated_at": "2025-08-11T14:32:28Z"
+    "updated_at": "2025-08-31T07:01:53Z"
   },
   {
     "name": "tascar",
@@ -563,12 +563,12 @@
     "category": "Health",
     "techs": [
       "MATLAB",
-      "C++",
+      "C",
       "PostScript",
-      "C"
+      "C++"
     ],
     "tags": [],
-    "stars": 285,
+    "stars": 287,
     "forks": 83,
     "issues": 0,
     "language": "C",
@@ -580,7 +580,7 @@
     },
     "homepage": "http://www.openmha.org",
     "created_at": "2017-02-01T15:26:03Z",
-    "updated_at": "2025-08-04T22:01:49Z"
+    "updated_at": "2025-08-26T15:32:01Z"
   },
   {
     "name": "Cape4all",
@@ -659,16 +659,16 @@
       "python",
       "signal-processing"
     ],
-    "stars": 6112,
-    "forks": 1221,
-    "issues": 205,
+    "stars": 6120,
+    "forks": 1222,
+    "issues": 206,
     "language": "Python",
     "language_list": {
       "Python": 0.9251199871657182
     },
     "homepage": "",
     "created_at": "2014-08-27T12:43:13Z",
-    "updated_at": "2025-08-13T09:34:49Z"
+    "updated_at": "2025-08-28T07:05:42Z"
   },
   {
     "name": "madmom",
@@ -688,8 +688,8 @@
       "scipy",
       "signal-processing"
     ],
-    "stars": 1470,
-    "forks": 251,
+    "stars": 1484,
+    "forks": 252,
     "issues": 76,
     "language": "Python",
     "language_list": {
@@ -697,7 +697,7 @@
     },
     "homepage": "https://madmom.readthedocs.io",
     "created_at": "2015-09-08T08:19:06Z",
-    "updated_at": "2025-08-12T15:21:01Z"
+    "updated_at": "2025-08-30T19:09:55Z"
   },
   {
     "name": "audioFlux",
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "Python",
-      "C"
+      "C",
+      "Python"
     ],
     "tags": [
       "audio",
@@ -729,9 +729,9 @@
       "wavelet-analysis",
       "wavelet-transform"
     ],
-    "stars": 3132,
-    "forks": 143,
-    "issues": 15,
+    "stars": 3151,
+    "forks": 144,
+    "issues": 16,
     "language": "C",
     "language_list": {
       "C": 0.626851890276798,
@@ -739,7 +739,7 @@
     },
     "homepage": "https://audioflux.top",
     "created_at": "2023-01-16T09:53:04Z",
-    "updated_at": "2025-08-12T16:58:24Z"
+    "updated_at": "2025-08-31T10:36:44Z"
   },
   {
     "name": "DCASE",
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Pytorch",
-      "Python"
+      "Python",
+      "Pytorch"
     ],
     "tags": [
       "animal-communication",
@@ -824,7 +824,7 @@
     },
     "homepage": "https://marce10.github.io/warbleR/",
     "created_at": "2015-07-09T16:49:10Z",
-    "updated_at": "2025-07-30T16:33:28Z"
+    "updated_at": "2025-08-13T15:56:19Z"
   },
   {
     "name": "xeno-canto",
@@ -853,16 +853,16 @@
       "room-impulse-response",
       "speech"
     ],
-    "stars": 495,
-    "forks": 40,
-    "issues": 1,
+    "stars": 501,
+    "forks": 43,
+    "issues": 3,
     "language": "Shell",
     "language_list": {
       "Shell": 1.0
     },
     "homepage": "",
     "created_at": "2021-03-19T20:04:10Z",
-    "updated_at": "2025-08-08T02:04:23Z"
+    "updated_at": "2025-08-28T21:51:50Z"
   },
   {
     "name": "BirdSet",
@@ -870,8 +870,8 @@
     "description": "A benchmark dataset collection for bird sound classification",
     "category": "Databases",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "tags": [
       "avian",
@@ -880,7 +880,7 @@
       "deeplearning"
     ],
     "stars": 52,
-    "forks": 17,
+    "forks": 16,
     "issues": 15,
     "language": "Jupyter Notebook",
     "language_list": {
@@ -914,7 +914,7 @@
     ],
     "stars": 33,
     "forks": 2,
-    "issues": 12,
+    "issues": 13,
     "language": "Python",
     "language_list": {
       "Python": 0.9911900131988595
@@ -957,14 +957,14 @@
     "techs": [],
     "description": "The Community Hub for Open-source Room Acoustics Software (CHORAS)",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "forks": 4,
-    "issues": 1,
+    "issues": 5,
     "language": null,
     "language_list": {},
     "homepage": "",
     "created_at": "2025-02-02T10:43:43Z",
-    "updated_at": "2025-08-08T12:44:14Z"
+    "updated_at": "2025-08-25T14:41:24Z"
   },
   {
     "name": "Diffusion",
@@ -995,7 +995,7 @@
     ],
     "description": "OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization.",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "issues": 12,
     "language": "JavaScript",
@@ -1004,7 +1004,7 @@
     },
     "homepage": "",
     "created_at": "2024-02-27T14:24:11Z",
-    "updated_at": "2025-08-13T11:24:45Z"
+    "updated_at": "2025-08-26T12:29:41Z"
   },
   {
     "name": "Acoucou",
@@ -1021,7 +1021,7 @@
     ],
     "description": "Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i)",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "issues": 0,
     "language": "Jupyter Notebook",
@@ -1030,15 +1030,15 @@
     },
     "homepage": "",
     "created_at": "2021-04-04T22:59:27Z",
-    "updated_at": "2025-07-08T13:37:49Z"
+    "updated_at": "2025-08-26T12:48:39Z"
   },
   {
     "name": "FEniCS",
     "url": "https://github.com/FEniCS/dolfinx",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "C++",
-      "Python"
+      "Python",
+      "C++"
     ],
     "description": "Next generation FEniCS problem solving environment",
     "tags": [
@@ -1047,17 +1047,17 @@
       "parallel-computing",
       "partial-differential-equations"
     ],
-    "stars": 946,
-    "forks": 214,
+    "stars": 952,
+    "forks": 216,
     "issues": 137,
     "language": "C++",
     "language_list": {
-      "C++": 0.5877258225229639,
-      "Python": 0.3883771665116411
+      "C++": 0.588164360195276,
+      "Python": 0.3880746493402625
     },
     "homepage": "https://fenicsproject.org",
     "created_at": "2018-04-05T14:02:41Z",
-    "updated_at": "2025-08-13T10:30:47Z"
+    "updated_at": "2025-08-31T09:47:00Z"
   },
   {
     "name": "pyOMA2",
@@ -1072,7 +1072,7 @@
       "structural-dynamics"
     ],
     "stars": 38,
-    "forks": 15,
+    "forks": 16,
     "issues": 9,
     "language": "Python",
     "language_list": {
@@ -1111,8 +1111,8 @@
     ],
     "description": null,
     "tags": [],
-    "stars": 1537,
-    "forks": 279,
+    "stars": 1556,
+    "forks": 281,
     "issues": 58,
     "language": "Python",
     "language_list": {
@@ -1120,19 +1120,19 @@
     },
     "homepage": null,
     "created_at": "2019-06-05T15:37:35Z",
-    "updated_at": "2025-08-12T07:31:18Z"
+    "updated_at": "2025-08-30T19:29:07Z"
   },
   {
     "name": "YamNet",
     "url": "https://github.com/antonyharfield/tflite-models-audioset-yamnet",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
     "tags": [],
-    "stars": 30,
+    "stars": 31,
     "forks": 12,
     "issues": 2,
     "language": "Jupyter Notebook",
@@ -1142,7 +1142,7 @@
     },
     "homepage": "",
     "created_at": "2020-03-15T13:17:52Z",
-    "updated_at": "2025-06-04T03:20:21Z"
+    "updated_at": "2025-08-28T07:00:26Z"
   },
   {
     "name": "CLAP",
@@ -1153,7 +1153,7 @@
     ],
     "description": "Learning audio concepts from natural language supervision",
     "tags": [],
-    "stars": 582,
+    "stars": 586,
     "forks": 42,
     "issues": 14,
     "language": "Python",
@@ -1162,7 +1162,7 @@
     },
     "homepage": "",
     "created_at": "2022-11-02T17:55:31Z",
-    "updated_at": "2025-08-13T03:22:44Z"
+    "updated_at": "2025-08-25T05:57:38Z"
   },
   {
     "name": "PANN with 1/3 octaves",
@@ -1186,7 +1186,7 @@
     },
     "homepage": null,
     "created_at": "2023-12-01T10:51:50Z",
-    "updated_at": "2025-07-09T10:48:52Z"
+    "updated_at": "2025-08-26T15:17:53Z"
   },
   {
     "name": "BEATs",
@@ -1219,9 +1219,9 @@
       "unilm",
       "xlm-e"
     ],
-    "stars": 21617,
-    "forks": 2650,
-    "issues": 670,
+    "stars": 21682,
+    "forks": 2656,
+    "issues": 671,
     "language": "Python",
     "language_list": {
       "Python": 0.839885030061837,
@@ -1229,7 +1229,7 @@
     },
     "homepage": "https://aka.ms/GeneralAI",
     "created_at": "2019-07-23T04:15:28Z",
-    "updated_at": "2025-08-13T15:16:08Z"
+    "updated_at": "2025-08-31T11:51:22Z"
   },
   {
     "name": "EAVR-v2",
