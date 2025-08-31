@@ -93,6 +93,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [vak](https://github.com/vocalpy/vak) | A neural network framework for researchers studying acoustic communication | Python |
 | [warbleR](https://github.com/maRce10/warbleR) | streamline acoustic analysis in R | R |
 | [Acoupi](https://github.com/acoupi/acoupi) | Python toolkit to implement bioacoustics classifier on embedded systems. | Python |
+| [Crowsetta](https://github.com/vocalpy/crowsetta) | A tool to work with any format for annotating animal sounds | Python |
 
 
 ## Databases
