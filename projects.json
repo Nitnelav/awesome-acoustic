@@ -358,5 +358,10 @@
     "name": "AcousticsML",
     "url": "https://github.com/RAMshades/AcousticsML",
     "category": "Education"
+  },
+  {
+    "name": "WAPE",
+    "url": "https://github.com/Universite-Gustave-Eiffel/WAPE",
+    "category": "AeroAcoustics"
   }
 ]
