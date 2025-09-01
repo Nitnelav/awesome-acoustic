@@ -201,9 +201,9 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
+      "C",
       "Python",
-      "C++",
-      "C"
+      "C++"
     ],
     "tags": [
       "acoustic",
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Kotlin",
       "Java",
       "Android",
-      "Groovy"
+      "Groovy",
+      "Kotlin"
     ],
     "tags": [
       "android",
@@ -391,8 +391,8 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "JavaScript",
       "PHP",
+      "JavaScript",
       "RaspberryPi"
     ],
     "tags": [],
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
+      "MATLAB",
       "PostScript",
       "C",
-      "C++",
-      "MATLAB"
+      "C++"
     ],
     "tags": [],
     "stars": 287,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "Python",
-      "C"
+      "C",
+      "Python"
     ],
     "tags": [
       "audio",
@@ -1169,9 +1169,9 @@
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
     "category": "AI, Machine Learning",
     "techs": [
-      "Jupyter Notebook",
       "HTML",
-      "Python"
+      "Python",
+      "Jupyter Notebook"
     ],
     "description": null,
     "tags": [],
@@ -1236,8 +1236,8 @@
     "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
     "category": "Room Acoustics",
     "techs": [
-      "ShaderLab",
-      "C#"
+      "C#",
+      "ShaderLab"
     ],
     "description": null,
     "tags": [],
