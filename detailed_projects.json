@@ -202,8 +202,8 @@
     "category": "Room Acoustics",
     "techs": [
       "C",
-      "Python",
-      "C++"
+      "C++",
+      "Python"
     ],
     "tags": [
       "acoustic",
@@ -231,8 +231,8 @@
     "description": "A open-source model to compute noise maps.",
     "category": "Environment",
     "techs": [
-      "Java",
-      "Groovy"
+      "Groovy",
+      "Java"
     ],
     "tags": [
       "acoustics",
@@ -267,9 +267,9 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Java",
       "Android",
       "Groovy",
+      "Java",
       "Kotlin"
     ],
     "tags": [
@@ -391,8 +391,8 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "PHP",
       "JavaScript",
+      "PHP",
       "RaspberryPi"
     ],
     "tags": [],
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "MATLAB",
-      "PostScript",
       "C",
-      "C++"
+      "C++",
+      "MATLAB",
+      "PostScript"
     ],
     "tags": [],
     "stars": 287,
@@ -771,8 +771,8 @@
     "description": "A neural network framework for researchers studying acoustic communication",
     "category": "Bioacoustics",
     "techs": [
-      "Pytorch",
-      "Python"
+      "Python",
+      "Pytorch"
     ],
     "tags": [
       "animal-communication",
@@ -1037,8 +1037,8 @@
     "url": "https://github.com/FEniCS/dolfinx",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Python",
-      "C++"
+      "C++",
+      "Python"
     ],
     "description": "Next generation FEniCS problem solving environment",
     "tags": [
@@ -1170,8 +1170,8 @@
     "category": "AI, Machine Learning",
     "techs": [
       "HTML",
-      "Python",
-      "Jupyter Notebook"
+      "Jupyter Notebook",
+      "Python"
     ],
     "description": null,
     "tags": [],
