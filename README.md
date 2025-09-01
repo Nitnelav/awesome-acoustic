@@ -17,6 +17,7 @@ A list of awesome open-source Acoustic packages and resources.
 - [Education](#education)
 - [AeroAcoustics](#aeroacoustics)
 - [AI, Machine Learning](#ai-machine-learning)
+- [Books](#books)
 
 
 ## General Tools
@@ -153,3 +154,11 @@ A list of awesome open-source Acoustic packages and resources.
 | [CLAP](https://github.com/microsoft/CLAP) | Learning audio concepts from natural language supervision | Python |
 | [PANN with 1/3 octaves](https://github.com/modantailleur/paperSoundscapeSourceClassification) | None | HTML |
 | [BEATs](https://github.com/microsoft/unilm/tree/master/beats) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python |
+
+
+## Books
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [Understanding Acoustics](https://library.oapen.org/handle/20.500.12657/42912) | An Experimentalist’s View of Sound and Vibration |  |
+| [Nonlinear Acoustics](https://link.springer.com/book/10.1007/978-3-031-58963-8) | Introductory text on the theory of nonlinear acoustics authored by experts on their respective topics |  |
