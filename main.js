@@ -112,7 +112,12 @@ function getTechIcon(tech) {
     tech_lower = tech.toLowerCase();
   }
   // Instead of checking if the image exists, use onerror fallback in the <img> tag
-  const deviconUrl = `https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/${tech_lower}/${tech_lower}-original.svg`;
+  let deviconUrl = `https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/${tech_lower}/${tech_lower}-original.svg`;
+
+  if (tech_lower === "book") {
+    deviconUrl = "https://www.svgrepo.com/download/528057/book-2.svg";
+  }
+
   // If the image fails to load, it will show the tech text instead
   return `<span style="position:relative;">
     <img height='${size}' width='${size}' src="${deviconUrl}" alt="${tech}" title="${tech}" 
