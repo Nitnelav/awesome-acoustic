@@ -378,5 +378,12 @@
     "description": "Introductory text on the theory of nonlinear acoustics authored by experts on their respective topics",
     "category": "Books",
     "techs": "book"
-  }  
+  },
+  {
+    "name": "ITA Toolbox",
+    "url": "https://www.ita-toolbox.org/",
+    "description": "An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University",
+    "category": "General Tools",
+    "techs": "Matlab"
+  }
 ]

@@ -1049,15 +1049,15 @@
     ],
     "stars": 952,
     "forks": 216,
-    "issues": 139,
+    "issues": 138,
     "language": "C++",
     "language_list": {
-      "C++": 0.5881582893655396,
-      "Python": 0.3880706437675339
+      "C++": 0.5881452808666696,
+      "Python": 0.38808417801925327
     },
     "homepage": "https://fenicsproject.org",
     "created_at": "2018-04-05T14:02:41Z",
-    "updated_at": "2025-08-31T21:55:36Z"
+    "updated_at": "2025-09-01T13:35:22Z"
   },
   {
     "name": "pyOMA2",
@@ -1111,7 +1111,7 @@
     ],
     "description": null,
     "tags": [],
-    "stars": 1556,
+    "stars": 1557,
     "forks": 281,
     "issues": 58,
     "language": "Python",
@@ -1120,7 +1120,7 @@
     },
     "homepage": null,
     "created_at": "2019-06-05T15:37:35Z",
-    "updated_at": "2025-09-01T10:03:11Z"
+    "updated_at": "2025-09-01T13:36:38Z"
   },
   {
     "name": "YamNet",
@@ -1364,6 +1364,15 @@
     "category": "Books",
     "techs": [
       "book"
+    ]
+  },
+  {
+    "name": "ITA Toolbox",
+    "url": "https://www.ita-toolbox.org/",
+    "description": "An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University",
+    "category": "General Tools",
+    "techs": [
+      "Matlab"
     ]
   }
 ]
