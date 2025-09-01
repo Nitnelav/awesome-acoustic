@@ -201,9 +201,9 @@
     "description": "An Open Source software for 3D sound propagation modelling",
     "category": "Room Acoustics",
     "techs": [
+      "Python",
       "C++",
-      "C",
-      "Python"
+      "C"
     ],
     "tags": [
       "acoustic",
@@ -231,8 +231,8 @@
     "description": "A open-source model to compute noise maps.",
     "category": "Environment",
     "techs": [
-      "Groovy",
-      "Java"
+      "Java",
+      "Groovy"
     ],
     "tags": [
       "acoustics",
@@ -267,10 +267,10 @@
     "description": "Android App dedicated to the measurement of environmental noise.",
     "category": "Environment",
     "techs": [
-      "Groovy",
-      "Java",
       "Kotlin",
-      "Android"
+      "Java",
+      "Android",
+      "Groovy"
     ],
     "tags": [
       "android",
@@ -391,8 +391,8 @@
     "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
     "category": "Bioacoustics",
     "techs": [
-      "PHP",
       "JavaScript",
+      "PHP",
       "RaspberryPi"
     ],
     "tags": [],
@@ -562,10 +562,10 @@
     "description": "The open Master Hearing Aid (openMHA)",
     "category": "Health",
     "techs": [
-      "C++",
+      "PostScript",
       "C",
-      "MATLAB",
-      "PostScript"
+      "C++",
+      "MATLAB"
     ],
     "tags": [],
     "stars": 287,
@@ -705,8 +705,8 @@
     "description": "A library for audio and music analysis, feature extraction.",
     "category": "Music",
     "techs": [
-      "C",
-      "Python"
+      "Python",
+      "C"
     ],
     "tags": [
       "audio",
@@ -1037,8 +1037,8 @@
     "url": "https://github.com/FEniCS/dolfinx",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "C++",
-      "Python"
+      "Python",
+      "C++"
     ],
     "description": "Next generation FEniCS problem solving environment",
     "tags": [
@@ -1236,8 +1236,8 @@
     "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
     "category": "Room Acoustics",
     "techs": [
-      "C#",
-      "ShaderLab"
+      "ShaderLab",
+      "C#"
     ],
     "description": null,
     "tags": [],
