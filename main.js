@@ -127,7 +127,6 @@ function getTechIcon(tech) {
 }
 
 function getTechIconList(techs) {
-  console.log(techs);
   if (!techs || !Array.isArray(techs) || !techs.length) return '';
   return techs.map(getTechIcon).join(' ');
 }
