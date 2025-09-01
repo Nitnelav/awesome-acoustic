@@ -290,7 +290,9 @@
   {
     "name": "Acoucou",
     "url": "https://acoucou.org/",
-    "category": "Education"
+    "description": "A platform for learning about acoustics",
+    "category": "Education",
+    "techs": "HTML"
   },
   {
     "name": "SoftwareProfesionalAcustica",
@@ -315,6 +317,7 @@
   {
     "name": "PANN",
     "url": "https://github.com/qiuqiangkong/audioset_tagging_cnn",
+    "description": "Pretrained audio neural networks (PANNs) for audio pattern recognition",
     "category": "AI, Machine Learning"
   },
   {
@@ -330,6 +333,7 @@
   {
     "name": "PANN with 1/3 octaves",
     "url": "https://github.com/modantailleur/paperSoundscapeSourceClassification",
+    "description": "PANN with 1/3 octaves for soundscape source classification",
     "category": "AI, Machine Learning"
   },
   {
@@ -340,6 +344,7 @@
   {
     "name": "EAVR-v2",
     "url": "https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2",
+    "description": "The Eindhoven Acoustic Virtual Reality (EAVR) Toolkit, interactively teach students principles in the field of acoustics, by changing various aspects of the VR environment",
     "category": "Room Acoustics"
   },
   {

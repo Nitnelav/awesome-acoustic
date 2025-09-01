@@ -70,6 +70,8 @@ def main():
 
         data = get_github_repo_data(repo_full_name, GITHUB_API_TOKEN)
         if data:
+            if project.get("description") is not None and data.get("description") is None:
+                data["description"] = project["description"]
             project.update(data)
             language_list = data.get("language_list", {})
             language_list = [lang for lang, _ in sorted(language_list.items(), key=lambda item: item[1], reverse=True)]
