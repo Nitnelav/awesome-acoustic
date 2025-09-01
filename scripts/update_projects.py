@@ -73,7 +73,8 @@ def main():
             project.update(data)
             language_list = data.get("language_list", {})
             language_list = [lang for lang, _ in sorted(language_list.items(), key=lambda item: item[1], reverse=True)]
-            project["techs"] = list(set(project["techs"]) | set(language_list))
+            project["techs"] = sorted(list(set(project["techs"]) | set(language_list)))
+
         detailed_projects.append(project)
 
     with open("detailed_projects.json", "w", encoding="utf-8") as f:
