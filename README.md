@@ -29,6 +29,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [Pyfar](https://github.com/pyfar/pyfar) | python package for acoustics research | Python |
 | [PyTTA](https://github.com/PyTTaMaster/PyTTa) | Python in Technical Acoustics and Vibration | Python |
 | [friture](https://github.com/tlecomte/friture) | Real-time audio visualizations (spectrum, spectrogram, etc.) | Python |
+| [ITA Toolbox](https://www.ita-toolbox.org/) | An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University |  |
 
 
 ## Signal Processing
