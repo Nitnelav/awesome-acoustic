@@ -364,5 +364,19 @@
     "url": "https://github.com/Universite-Gustave-Eiffel/WAPE",
     "description": "Wide Angle Parabolic Equation model with arbitrary Mach number",
     "category": "AeroAcoustics"
-  }
+  },
+  {
+    "name": "Understanding Acoustics",
+    "url": "https://library.oapen.org/handle/20.500.12657/42912",
+    "description": "An Experimentalist’s View of Sound and Vibration",
+    "category": "Books",
+    "techs": "book"
+  },
+  {
+    "name": "Nonlinear Acoustics",
+    "url": "https://link.springer.com/book/10.1007/978-3-031-58963-8",
+    "description": "Introductory text on the theory of nonlinear acoustics authored by experts on their respective topics",
+    "category": "Books",
+    "techs": "book"
+  }  
 ]
