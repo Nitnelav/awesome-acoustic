@@ -51,7 +51,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
 | [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | None |
 | [Diffusion](https://github.com/Building-acoustics-TU-Eindhoven/Diffusion) | This is a diffusion equation model for room acoustics predictions, developed in Python. | Python |
-| [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | None | C# |
+| [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | The Eindhoven Acoustic Virtual Reality (EAVR) Toolkit, interactively teach students principles in the field of acoustics, by changing various aspects of the VR environment | C# |
 | [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
 
 
@@ -133,7 +133,7 @@ A list of awesome open-source Acoustic packages and resources.
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [Acoucou](https://acoucou.org/) |  |  |
+| [Acoucou](https://acoucou.org/) | A platform for learning about acoustics |  |
 | [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i) | Jupyter Notebook |
 | [AcousticsML](https://github.com/RAMshades/AcousticsML) | Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications. | Jupyter Notebook |
 
@@ -143,17 +143,17 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl) | A Julia package for Aeroacoustics | Julia |
-| [WAPE](https://github.com/Universite-Gustave-Eiffel/WAPE) | None | MATLAB |
+| [WAPE](https://github.com/Universite-Gustave-Eiffel/WAPE) | Wide Angle Parabolic Equation model with arbitrary Mach number | MATLAB |
 
 
 ## AI, Machine Learning
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [PANN](https://github.com/qiuqiangkong/audioset_tagging_cnn) | None | Python |
+| [PANN](https://github.com/qiuqiangkong/audioset_tagging_cnn) | Pretrained audio neural networks (PANNs) for audio pattern recognition | Python |
 | [YamNet](https://github.com/antonyharfield/tflite-models-audioset-yamnet) | A TFLite-compatible fork of YAMNet from tensorflow/models | Jupyter Notebook |
 | [CLAP](https://github.com/microsoft/CLAP) | Learning audio concepts from natural language supervision | Python |
-| [PANN with 1/3 octaves](https://github.com/modantailleur/paperSoundscapeSourceClassification) | None | HTML |
+| [PANN with 1/3 octaves](https://github.com/modantailleur/paperSoundscapeSourceClassification) | PANN with 1/3 octaves for soundscape source classification | HTML |
 | [BEATs](https://github.com/microsoft/unilm/tree/master/beats) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python |
 
 
@@ -163,3 +163,7 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [Understanding Acoustics](https://library.oapen.org/handle/20.500.12657/42912) | An Experimentalist’s View of Sound and Vibration |  |
 | [Nonlinear Acoustics](https://link.springer.com/book/10.1007/978-3-031-58963-8) | Introductory text on the theory of nonlinear acoustics authored by experts on their respective topics |  |
+| [Aviation Noise Impact Management](https://link.springer.com/book/10.1007/978-3-030-91194-2) | A view into the state-of-the-art research on aviation noise and related annoyance |  |
+| [Exploring Animal Behavior Through Sound: Volume 1](https://link.springer.com/book/10.1007/978-3-030-97540-1) | Introduces standard terminology, procedures, equipment, and analysis tools for animal bioacoustic studies. |  |
+| [Exploring Animal Behavior Through Sound: Volume 2](https://link.springer.com/book/10.1007/978-3-031-83460-8) | Organized into nine chapters by taxonomy — invertebrates, insects, amphibians, reptiles, fishes, birds, and mammals (subterranean, terrestrial, and marine) — it delves into sound production, sound reception, sound function, and the impacts of noise on these creatures. |  |
+| [Marine Mammal Acoustics in a Noisy Ocean](https://link.springer.com/book/10.1007/978-3-031-77022-7) | Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life |  |
