@@ -390,5 +390,33 @@
     "description": "An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University",
     "category": "General Tools",
     "techs": "Matlab"
+  },
+  {
+    "name": "Aviation Noise Impact Management",
+    "url": "https://link.springer.com/book/10.1007/978-3-030-91194-2",
+    "description": "A view into the state-of-the-art research on aviation noise and related annoyance",
+    "category": "Books",
+    "techs": "book"
+  },
+  {
+    "name": "Exploring Animal Behavior Through Sound: Volume 1",
+    "url": "https://link.springer.com/book/10.1007/978-3-030-97540-1",
+    "description": "Introduces standard terminology, procedures, equipment, and analysis tools for animal bioacoustic studies.",
+    "category": "Books",
+    "techs": "book"
+  },
+  {
+    "name": "Exploring Animal Behavior Through Sound: Volume 2",
+    "url": "https://link.springer.com/book/10.1007/978-3-031-83460-8",
+    "description": "Organized into nine chapters by taxonomy — invertebrates, insects, amphibians, reptiles, fishes, birds, and mammals (subterranean, terrestrial, and marine) — it delves into sound production, sound reception, sound function, and the impacts of noise on these creatures.",
+    "category": "Books",
+    "techs": "book"
+  },
+  {
+    "name": "Marine Mammal Acoustics in a Noisy Ocean",
+    "url": "https://link.springer.com/book/10.1007/978-3-031-77022-7",
+    "description": "Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life",
+    "category": "Books",
+    "techs": "book"
   }
 ]
