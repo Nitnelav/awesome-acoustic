@@ -64,6 +64,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. |  |
 | [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. |  |
 | [Ono Sensor](https://github.com/Universite-Gustave-Eiffel/Rail4Earth) | OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization. | JavaScript |
+| [Sparrowpy](https://github.com/sparrow-acoustics/sparrowpy) | Sound Propagation with Acoustic Radiosity for Realistic Outdoor Worlds | Python |
 
 
 ## FEM, Materials, Vibrations
