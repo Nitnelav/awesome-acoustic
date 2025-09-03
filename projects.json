@@ -418,5 +418,10 @@
     "description": "Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life",
     "category": "Books",
     "techs": "book"
+  },
+  {
+    "name": "Sparrowpy",
+    "url": "https://github.com/sparrow-acoustics/sparrowpy",
+    "category": "Environment"
   }
 ]
