@@ -46,14 +46,14 @@
     "url": "https://github.com/LCAV/pyroomacoustics",
     "description": "Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.",
     "category": "Room Acoustics",
-    "techs": ["C++", "Python"]
+    "techs": "Python"
   },
   {
     "name": "DEISM",
     "url": "https://github.com/audiolabs/DEISM",
     "description": "DEISM is a Python package for room acoustics simulation that incorporates local diffraction effects around audio devices using the image source method.",
     "category": "Room Acoustics",
-    "techs": "Python"
+    "techs": ["C++", "Python"] 
   },
   {
     "name": "Virtual Acoustics",
