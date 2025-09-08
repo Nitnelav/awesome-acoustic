@@ -49,6 +49,13 @@
     "techs": "Python"
   },
   {
+    "name": "DEISM",
+    "url": "https://github.com/audiolabs/DEISM",
+    "description": "DEISM is a Python package for room acoustics simulation that incorporates local diffraction effects around audio devices using the image source method.",
+    "category": "Room Acoustics",
+    "techs": ["C++", "Python"] 
+  },
+  {
     "name": "Virtual Acoustics",
     "url": "https://www.virtualacoustics.org/",
     "description": "creates audible sound from a purely virtual situation",
