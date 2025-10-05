@@ -46,6 +46,7 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
+| [DEISM](https://github.com/audiolabs/DEISM) | Diffraction Enhanced Image source method | C++ |
 | [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation |  |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
@@ -168,3 +169,4 @@ A list of awesome open-source Acoustic packages and resources.
 | [Exploring Animal Behavior Through Sound: Volume 1](https://link.springer.com/book/10.1007/978-3-030-97540-1) | Introduces standard terminology, procedures, equipment, and analysis tools for animal bioacoustic studies. |  |
 | [Exploring Animal Behavior Through Sound: Volume 2](https://link.springer.com/book/10.1007/978-3-031-83460-8) | Organized into nine chapters by taxonomy — invertebrates, insects, amphibians, reptiles, fishes, birds, and mammals (subterranean, terrestrial, and marine) — it delves into sound production, sound reception, sound function, and the impacts of noise on these creatures. |  |
 | [Marine Mammal Acoustics in a Noisy Ocean](https://link.springer.com/book/10.1007/978-3-031-77022-7) | Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life |  |
+| [Beginning DYNA[mics] with code_aster](https://www.jean-pierre-aubry.ouvaton.org/files/Beginning_DYNAmics_with_code_aster1.1.2-20230119.pdf) | A practical introduction to mechanical DYNAmic [misc]ellaneous using code_aster |  |
