@@ -430,5 +430,12 @@
     "name": "Sparrowpy",
     "url": "https://github.com/sparrow-acoustics/sparrowpy",
     "category": "Environment"
+  },
+  {
+    "name": "Beginning DYNA[mics] with code_aster",
+    "url": "https://www.jean-pierre-aubry.ouvaton.org/files/Beginning_DYNAmics_with_code_aster1.1.2-20230119.pdf",
+    "description": "A practical introduction to mechanical DYNAmic [misc]ellaneous using code_aster",
+    "category": "Books",
+    "techs": "book"
   }
 ]
