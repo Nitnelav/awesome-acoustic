@@ -32,6 +32,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [ITA Toolbox](https://www.ita-toolbox.org/) | An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University |  |
 | [k-Wave](https://github.com/ucl-bug/k-wave) | A MATLAB toolbox for the time-domain simulation of acoustic wave fields | MATLAB |
 | [k-Wave-python](https://github.com/waltsims/k-wave-python) | A Python interface to k-Wave GPU accelerated binaries | Python |
+| [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) | Open software for the numerical calculation of head-related transfer functions | C++ |
 
 
 ## Signal Processing
