@@ -887,7 +887,7 @@
       "room-impulse-response",
       "speech"
     ],
-    "stars": 509,
+    "stars": 510,
     "forks": 45,
     "issues": 1,
     "language": "Shell",
@@ -896,7 +896,7 @@
     },
     "homepage": "",
     "created_at": "2021-03-19T20:04:10Z",
-    "updated_at": "2025-10-08T16:19:45Z"
+    "updated_at": "2025-10-11T12:50:55Z"
   },
   {
     "name": "BirdSet",
@@ -1622,5 +1622,39 @@
     "homepage": "",
     "created_at": "2024-11-21T13:12:37Z",
     "updated_at": "2025-09-11T15:51:45Z"
+  },
+  {
+    "name": "ObsPy",
+    "url": "https://github.com/obspy/obspy",
+    "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
+    "category": "General Tools",
+    "techs": [
+      "C",
+      "Python"
+    ],
+    "tags": [
+      "data-center",
+      "earthquakes",
+      "hacktoberfest",
+      "lgplv3",
+      "observatories",
+      "python",
+      "science",
+      "seismology",
+      "signal-processing",
+      "waveforms",
+      "web-services"
+    ],
+    "stars": 1253,
+    "forks": 553,
+    "issues": 312,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.7481585809747376,
+      "C": 0.11566362733902028
+    },
+    "homepage": "https://www.obspy.org",
+    "created_at": "2012-09-08T19:17:46Z",
+    "updated_at": "2025-10-11T05:58:35Z"
   }
 ]
