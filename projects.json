@@ -472,5 +472,12 @@
     "description": "A tool for calculating Head-Related Transfer Functions (HRTFs) from mesh geometries.",
     "category": "General Tools",
     "techs": ["C++", "Python"]
+  },
+  {
+    "name": "acoustic-camera",
+    "url": "https://github.com/rabeaifeanyi/acoustic-camera",
+    "description": "This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of transformer model results for enhanced audio analysis.",
+    "category": "Hardware",
+    "techs": "Python"
   }
 ]
