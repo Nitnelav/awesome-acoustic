@@ -1547,5 +1547,27 @@
     "homepage": null,
     "created_at": "2020-12-14T09:19:01Z",
     "updated_at": "2025-06-19T15:27:49Z"
+  },
+  {
+    "name": "bempp-cl",
+    "url": "https://github.com/bempp/bempp-cl",
+    "description": "A fast Python based just-in-time compiling boundary element library",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "C",
+      "Python"
+    ],
+    "tags": [],
+    "stars": 185,
+    "forks": 45,
+    "issues": 31,
+    "language": "Python",
+    "language_list": {
+      "Python": 0.7603697625912521,
+      "C": 0.22580976627200786
+    },
+    "homepage": "http://www.bempp.com",
+    "created_at": "2019-04-16T18:07:34Z",
+    "updated_at": "2025-10-01T10:29:12Z"
   }
 ]
