@@ -458,5 +458,12 @@
     "description": "Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs).",
     "category": "Signal Processing",
     "techs": "Python"
+  },
+  {
+    "name": "bempp-cl",
+    "url": "https://github.com/bempp/bempp-cl",
+    "description": "A fast Python based just-in-time compiling boundary element library",
+    "category": "FEM, Materials, Vibrations",
+    "techs": ["Python", "C"]
   }
 ]
