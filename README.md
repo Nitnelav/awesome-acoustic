@@ -41,6 +41,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
 | [Acoular](https://github.com/acoular/acoular) | Acoular - Acoustic testing and source mapping software | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
+| [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
 
 
 ## Room Acoustics
