@@ -465,5 +465,12 @@
     "description": "A fast Python based just-in-time compiling boundary element library",
     "category": "FEM, Materials, Vibrations",
     "techs": ["Python", "C"]
+  },
+  {
+    "name": "Mesh2HRTF",
+    "url": "https://github.com/Any2HRTF/Mesh2HRTF",
+    "description": "A tool for calculating Head-Related Transfer Functions (HRTFs) from mesh geometries.",
+    "category": "General Tools",
+    "techs": ["C++", "Python"]
   }
 ]
