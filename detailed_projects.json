@@ -1256,7 +1256,7 @@
       "unilm",
       "xlm-e"
     ],
-    "stars": 21760,
+    "stars": 21761,
     "forks": 2664,
     "issues": 674,
     "language": "Python",
@@ -1266,7 +1266,7 @@
     },
     "homepage": "https://aka.ms/GeneralAI",
     "created_at": "2019-07-23T04:15:28Z",
-    "updated_at": "2025-10-11T11:09:01Z"
+    "updated_at": "2025-10-11T11:49:55Z"
   },
   {
     "name": "EAVR-v2",
