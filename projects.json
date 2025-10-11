@@ -437,5 +437,19 @@
     "description": "A practical introduction to mechanical DYNAmic [misc]ellaneous using code_aster",
     "category": "Books",
     "techs": "book"
+  },
+  {
+    "name": "k-Wave",
+    "url": "https://github.com/ucl-bug/k-wave",
+    "description": "A MATLAB toolbox for the time-domain simulation of acoustic wave fields",
+    "category": "General Tools",
+    "techs": "MATLAB"
+  },
+  {
+    "name": "k-Wave-python",
+    "url": "https://github.com/waltsims/k-wave-python",
+    "description": "A Python implementation of k-Wave for acoustic wave simulation",
+    "category": "General Tools",
+    "techs": "Python"
   }
 ]
