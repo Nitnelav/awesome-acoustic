@@ -18,6 +18,7 @@ A list of awesome open-source Acoustic packages and resources.
 - [AeroAcoustics](#aeroacoustics)
 - [AI, Machine Learning](#ai-machine-learning)
 - [Books](#books)
+- [Hardware](#hardware)
 
 
 ## General Tools
@@ -175,3 +176,10 @@ A list of awesome open-source Acoustic packages and resources.
 | [Exploring Animal Behavior Through Sound: Volume 2](https://link.springer.com/book/10.1007/978-3-031-83460-8) | Organized into nine chapters by taxonomy — invertebrates, insects, amphibians, reptiles, fishes, birds, and mammals (subterranean, terrestrial, and marine) — it delves into sound production, sound reception, sound function, and the impacts of noise on these creatures. |  |
 | [Marine Mammal Acoustics in a Noisy Ocean](https://link.springer.com/book/10.1007/978-3-031-77022-7) | Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life |  |
 | [Beginning DYNA[mics] with code_aster](https://www.jean-pierre-aubry.ouvaton.org/files/Beginning_DYNAmics_with_code_aster1.1.2-20230119.pdf) | A practical introduction to mechanical DYNAmic [misc]ellaneous using code_aster |  |
+
+
+## Hardware
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of transformer model results for enhanced audio analysis. | Python |
