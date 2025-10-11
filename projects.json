@@ -451,5 +451,12 @@
     "description": "A Python implementation of k-Wave for acoustic wave simulation",
     "category": "General Tools",
     "techs": "Python"
+  },
+  {
+    "name": "paderwasn",
+    "url": "https://github.com/fgnt/paderwasn",
+    "description": "Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs).",
+    "category": "Signal Processing",
+    "techs": "Python"
   }
 ]
