@@ -1527,5 +1527,25 @@
     "homepage": "https://k-wave-python.readthedocs.io/en/latest/",
     "created_at": "2022-04-02T15:27:23Z",
     "updated_at": "2025-10-07T08:12:09Z"
+  },
+  {
+    "name": "paderwasn",
+    "url": "https://github.com/fgnt/paderwasn",
+    "description": "Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs).",
+    "category": "Signal Processing",
+    "techs": [
+      "Python"
+    ],
+    "tags": [],
+    "stars": 18,
+    "forks": 7,
+    "issues": 0,
+    "language": "Python",
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": null,
+    "created_at": "2020-12-14T09:19:01Z",
+    "updated_at": "2025-06-19T15:27:49Z"
   }
 ]
