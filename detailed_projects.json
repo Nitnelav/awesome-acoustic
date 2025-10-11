@@ -1569,5 +1569,31 @@
     "homepage": "http://www.bempp.com",
     "created_at": "2019-04-16T18:07:34Z",
     "updated_at": "2025-10-01T10:29:12Z"
+  },
+  {
+    "name": "Mesh2HRTF",
+    "url": "https://github.com/Any2HRTF/Mesh2HRTF",
+    "description": "Open software for the numerical calculation of head-related transfer functions",
+    "category": "General Tools",
+    "techs": [
+      "C",
+      "C++",
+      "MATLAB",
+      "Python"
+    ],
+    "tags": [],
+    "stars": 140,
+    "forks": 17,
+    "issues": 18,
+    "language": "C++",
+    "language_list": {
+      "C++": 0.453424011087393,
+      "Python": 0.26135434196956925,
+      "C": 0.15404998361303307,
+      "MATLAB": 0.1279990311986706
+    },
+    "homepage": null,
+    "created_at": "2022-04-13T13:47:26Z",
+    "updated_at": "2025-10-05T18:55:25Z"
   }
 ]
