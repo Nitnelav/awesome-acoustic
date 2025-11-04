@@ -30,7 +30,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [Pyfar](https://github.com/pyfar/pyfar) | python package for acoustics research | Python |
 | [PyTTA](https://github.com/PyTTaMaster/PyTTa) | Python in Technical Acoustics and Vibration | Python |
 | [friture](https://github.com/tlecomte/friture) | Real-time audio visualizations (spectrum, spectrogram, etc.) | Python |
-| [ITA Toolbox](https://www.ita-toolbox.org/) | An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University |  |
+| [ITA Toolbox](https://www.ita-toolbox.org/) | An open source MATLAB toolbox for acoustics developed by the Institute of Technical Acoustics of the RWTH Aachen University | Matlab |
 | [k-Wave](https://github.com/ucl-bug/k-wave) | A MATLAB toolbox for the time-domain simulation of acoustic wave fields | MATLAB |
 | [k-Wave-python](https://github.com/waltsims/k-wave-python) | A Python interface to k-Wave GPU accelerated binaries | Python |
 | [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) | Open software for the numerical calculation of head-related transfer functions | C++ |
@@ -53,7 +53,7 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
 | [DEISM](https://github.com/audiolabs/DEISM) | Diffraction Enhanced Image source method | C++ |
-| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation |  |
+| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | windows8 |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
 | [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | None |
@@ -68,7 +68,7 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | A open-source model to compute noise maps. | Java |
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Android App dedicated to the measurement of environmental noise. | Java |
-| [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. |  |
+| [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. | C++ |
 | [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. |  |
 | [Ono Sensor](https://github.com/Universite-Gustave-Eiffel/Rail4Earth) | OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization. | JavaScript |
 | [Sparrowpy](https://github.com/sparrow-acoustics/sparrowpy) | Sound Propagation with Acoustic Radiosity for Realistic Outdoor Worlds | Python |
@@ -79,7 +79,7 @@ A list of awesome open-source Acoustic packages and resources.
 | Package | Description | Language |
 |---------|-------------|----------|
 | [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
-| [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. |  |
+| [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. | Fortran |
 | [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment | C++ |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 | [bempp-cl](https://github.com/bempp/bempp-cl) | A fast Python based just-in-time compiling boundary element library | Python |
@@ -144,7 +144,7 @@ A list of awesome open-source Acoustic packages and resources.
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [Acoucou](https://acoucou.org/) | A platform for learning about acoustics |  |
+| [Acoucou](https://acoucou.org/) | A platform for learning about acoustics | HTML |
 | [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i) | Jupyter Notebook |
 | [AcousticsML](https://github.com/RAMshades/AcousticsML) | Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications. | Jupyter Notebook |
 
@@ -172,13 +172,13 @@ A list of awesome open-source Acoustic packages and resources.
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [Understanding Acoustics](https://library.oapen.org/handle/20.500.12657/42912) | An Experimentalist’s View of Sound and Vibration |  |
-| [Nonlinear Acoustics](https://link.springer.com/book/10.1007/978-3-031-58963-8) | Introductory text on the theory of nonlinear acoustics authored by experts on their respective topics |  |
-| [Aviation Noise Impact Management](https://link.springer.com/book/10.1007/978-3-030-91194-2) | A view into the state-of-the-art research on aviation noise and related annoyance |  |
-| [Exploring Animal Behavior Through Sound: Volume 1](https://link.springer.com/book/10.1007/978-3-030-97540-1) | Introduces standard terminology, procedures, equipment, and analysis tools for animal bioacoustic studies. |  |
-| [Exploring Animal Behavior Through Sound: Volume 2](https://link.springer.com/book/10.1007/978-3-031-83460-8) | Organized into nine chapters by taxonomy — invertebrates, insects, amphibians, reptiles, fishes, birds, and mammals (subterranean, terrestrial, and marine) — it delves into sound production, sound reception, sound function, and the impacts of noise on these creatures. |  |
-| [Marine Mammal Acoustics in a Noisy Ocean](https://link.springer.com/book/10.1007/978-3-031-77022-7) | Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life |  |
-| [Beginning DYNA[mics] with code_aster](https://www.jean-pierre-aubry.ouvaton.org/files/Beginning_DYNAmics_with_code_aster1.1.2-20230119.pdf) | A practical introduction to mechanical DYNAmic [misc]ellaneous using code_aster |  |
+| [Understanding Acoustics](https://library.oapen.org/handle/20.500.12657/42912) | An Experimentalist’s View of Sound and Vibration | book |
+| [Nonlinear Acoustics](https://link.springer.com/book/10.1007/978-3-031-58963-8) | Introductory text on the theory of nonlinear acoustics authored by experts on their respective topics | book |
+| [Aviation Noise Impact Management](https://link.springer.com/book/10.1007/978-3-030-91194-2) | A view into the state-of-the-art research on aviation noise and related annoyance | book |
+| [Exploring Animal Behavior Through Sound: Volume 1](https://link.springer.com/book/10.1007/978-3-030-97540-1) | Introduces standard terminology, procedures, equipment, and analysis tools for animal bioacoustic studies. | book |
+| [Exploring Animal Behavior Through Sound: Volume 2](https://link.springer.com/book/10.1007/978-3-031-83460-8) | Organized into nine chapters by taxonomy — invertebrates, insects, amphibians, reptiles, fishes, birds, and mammals (subterranean, terrestrial, and marine) — it delves into sound production, sound reception, sound function, and the impacts of noise on these creatures. | book |
+| [Marine Mammal Acoustics in a Noisy Ocean](https://link.springer.com/book/10.1007/978-3-031-77022-7) | Explores the fundamentals of ocean acoustics, revealing the intricate sources of underwater noise that challenge marine life | book |
+| [Beginning DYNA[mics] with code_aster](https://www.jean-pierre-aubry.ouvaton.org/files/Beginning_DYNAmics_with_code_aster1.1.2-20230119.pdf) | A practical introduction to mechanical DYNAmic [misc]ellaneous using code_aster | book |
 
 
 ## Hardware
