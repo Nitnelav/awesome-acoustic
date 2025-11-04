@@ -83,6 +83,7 @@ A list of awesome open-source Acoustic packages and resources.
 | [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment | C++ |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 | [bempp-cl](https://github.com/bempp/bempp-cl) | A fast Python based just-in-time compiling boundary element library | Python |
+| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) | Vibroacoustic Analysis using the Finite Element Method | Assembly |
 
 
 ## Soundscape
@@ -91,6 +92,7 @@ A list of awesome open-source Acoustic packages and resources.
 |---------|-------------|----------|
 | [Soundscapy](https://github.com/MitchellAcoustics/Soundscapy) | A python library for soundscape assessments | Python |
 | [scikit-maad](https://github.com/scikit-maad/scikit-maad) | Open-source and modular toolbox for quantitative soundscape analysis in Python | Python |
+| [sottek-hearing-model](https://github.com/mlotinga/sottek-hearing-model) | An implementation of the psychoacoustic sound quality metrics from the Sottek Hearing Model defined in ECMA-418-2 | Python |
 
 
 ## Bioacoustics
