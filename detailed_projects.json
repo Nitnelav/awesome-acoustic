@@ -225,10 +225,10 @@
     "description": "creates audible sound from a purely virtual situation",
     "category": "Room Acoustics",
     "techs": [
-      "windows8",
-      "C++"
+      "C++",
+      "windows8"
     ],
-    "language": "windows8"
+    "language": "C++"
   },
   {
     "name": "I-Simpa",
@@ -659,11 +659,11 @@
     "description": "Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics.",
     "category": "FEM, Materials, Vibrations",
     "techs": [
-      "Fortran",
       "Python",
+      "Fortran",
       "C"
     ],
-    "language": "Fortran"
+    "language": "Python"
   },
   {
     "name": "Code_Tympan",
@@ -930,7 +930,11 @@
     "url": "https://gitlab.com/jtagusari/hrisk-noisemodelling",
     "description": "This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise.",
     "category": "Environment",
-    "techs": []
+    "techs": [
+      "Python",
+      "QGIS"
+    ],
+    "language": "Python"
   },
   {
     "name": "Acoupi",
@@ -1658,7 +1662,7 @@
     ],
     "stars": 1261,
     "forks": 553,
-    "issues": 310,
+    "issues": 309,
     "language_list": {
       "Python": 0.7481585809747376,
       "C": 0.11566362733902028
