@@ -486,5 +486,12 @@
     "description": "ObsPy is a Python toolbox for seismology/seismological observatories.",
     "category": "General Tools",
     "techs": "Python"
+  },
+  {
+    "name": "VIBRA",
+    "url": "https://github.com/MOPT-UFSC/VIBRA",
+    "description": "Vibroacoustic Analysis using the Finite Element Method",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
   }
 ]
