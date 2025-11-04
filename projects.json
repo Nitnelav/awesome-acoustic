@@ -60,7 +60,7 @@
     "url": "https://www.virtualacoustics.org/",
     "description": "creates audible sound from a purely virtual situation",
     "category": "Room Acoustics",
-    "techs": ["windows8", "C++"]
+    "techs": ["C++", "windows8"]
   },
   {
     "name": "I-Simpa",
@@ -185,7 +185,7 @@
     "url": "https://gitlab.com/codeaster/src",
     "description": "Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics.",
     "category": "FEM, Materials, Vibrations",
-    "techs": ["Fortran", "Python", "C"]
+    "techs": ["Python", "Fortran", "C"]
   },
   {
     "name": "Code_Tympan",
@@ -266,7 +266,8 @@
     "name": "HRISK",
     "url": "https://gitlab.com/jtagusari/hrisk-noisemodelling",
     "description": "This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise.",
-    "category": "Environment"
+    "category": "Environment",
+    "techs": ["Python", "QGIS"]
   },
   {
     "name": "Acoupi",
