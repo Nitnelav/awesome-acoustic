@@ -55,6 +55,9 @@ def main():
         if isinstance(project["techs"], str):
             project["techs"] = [project["techs"]]
 
+        if project.get("language", None) is None and len(project["techs"]) >= 1:
+            project["language"] = project["techs"][0]
+
         if url and "github.com" in url:
             try:
                 # Extract owner/repo from URL
