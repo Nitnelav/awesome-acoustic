@@ -493,5 +493,12 @@
     "description": "Vibroacoustic Analysis using the Finite Element Method",
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
+  },
+  {
+    "name": "sottek-hearing-model",
+    "url": "https://github.com/mlotinga/sottek-hearing-model",
+    "description": "An implementation of the psychoacoustic sound quality metrics from the Sottek Hearing Model defined in ECMA-418-2",
+    "category": "Soundscape",
+    "techs": "Python"
   }
 ]

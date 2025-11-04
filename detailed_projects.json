@@ -1676,5 +1676,25 @@
     "homepage": "",
     "created_at": "2023-07-05T16:44:00Z",
     "updated_at": "2025-11-03T12:54:12Z"
+  },
+  {
+    "name": "sottek-hearing-model",
+    "url": "https://github.com/mlotinga/sottek-hearing-model",
+    "description": "An implementation of the psychoacoustic sound quality metrics from the Sottek Hearing Model defined in ECMA-418-2",
+    "category": "Soundscape",
+    "techs": [
+      "Python"
+    ],
+    "tags": [],
+    "stars": 8,
+    "forks": 1,
+    "issues": 0,
+    "language": "Python",
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": null,
+    "created_at": "2025-09-03T11:39:39Z",
+    "updated_at": "2025-11-04T06:48:01Z"
   }
 ]
