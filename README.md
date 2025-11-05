@@ -2,6 +2,8 @@
 
 A list of awesome open-source Acoustic packages and resources.
 
+Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
+
 > [!IMPORTANT]
 > Contributions are more than welcome
 - [General Tools](#general-tools)

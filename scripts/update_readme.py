@@ -5,6 +5,8 @@ README_HEADER = '''[![Awesome Acoustics](images/logo_1280x640.png)](https://nitn
 
 A list of awesome open-source Acoustic packages and resources.
 
+Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
+
 > [!IMPORTANT]
 > Contributions are more than welcome
 '''
