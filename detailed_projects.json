@@ -1724,7 +1724,7 @@
     ],
     "language": "Python",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "forks": 13,
     "issues": 33,
     "language_list": {
@@ -1733,6 +1733,6 @@
     },
     "homepage": "https://pyfar.org/",
     "created_at": "2020-09-10T14:58:47Z",
-    "updated_at": "2025-11-05T14:04:38Z"
+    "updated_at": "2025-11-05T14:23:43Z"
   }
 ]
