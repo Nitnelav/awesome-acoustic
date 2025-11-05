@@ -501,5 +501,12 @@
     "description": "An implementation of the psychoacoustic sound quality metrics from the Sottek Hearing Model defined in ECMA-418-2",
     "category": "Soundscape",
     "techs": "Python"
+  },
+  {
+    "name": "pyrato",
+    "url": "https://github.com/pyfar/pyrato",
+    "description": "Python Room Acoustics Tools",
+    "category": "Room Acoustics",
+    "techs": "Python"
   }
 ]

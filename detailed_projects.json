@@ -1712,5 +1712,27 @@
     "homepage": null,
     "created_at": "2025-09-03T11:39:39Z",
     "updated_at": "2025-11-04T06:48:01Z"
+  },
+  {
+    "name": "pyrato",
+    "url": "https://github.com/pyfar/pyrato",
+    "description": "Python Room Acoustics Tools",
+    "category": "Room Acoustics",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 18,
+    "forks": 13,
+    "issues": 33,
+    "language_list": {
+      "Python": 0.7002260423204291,
+      "Jupyter Notebook": 0.299773957679571
+    },
+    "homepage": "https://pyfar.org/",
+    "created_at": "2020-09-10T14:58:47Z",
+    "updated_at": "2025-11-05T14:04:38Z"
   }
 ]
