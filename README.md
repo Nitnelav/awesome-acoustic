@@ -55,13 +55,14 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
 | [DEISM](https://github.com/audiolabs/DEISM) | Diffraction Enhanced Image source method | C++ |
-| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | windows8 |
+| [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | C++ |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
 | [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | None |
 | [Diffusion](https://github.com/Building-acoustics-TU-Eindhoven/Diffusion) | This is a diffusion equation model for room acoustics predictions, developed in Python. | Python |
 | [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | The Eindhoven Acoustic Virtual Reality (EAVR) Toolkit, interactively teach students principles in the field of acoustics, by changing various aspects of the VR environment | C# |
 | [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
+| [pyrato](https://github.com/pyfar/pyrato) | Python Room Acoustics Tools | Python |
 
 
 ## Environment
@@ -71,7 +72,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | A open-source model to compute noise maps. | Java |
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Android App dedicated to the measurement of environmental noise. | Java |
 | [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. | C++ |
-| [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. |  |
+| [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. | Python |
 | [Ono Sensor](https://github.com/Universite-Gustave-Eiffel/Rail4Earth) | OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization. | JavaScript |
 | [Sparrowpy](https://github.com/sparrow-acoustics/sparrowpy) | Sound Propagation with Acoustic Radiosity for Realistic Outdoor Worlds | Python |
 
@@ -81,7 +82,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package | Description | Language |
 |---------|-------------|----------|
 | [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
-| [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. | Fortran |
+| [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. | Python |
 | [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment | C++ |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 | [bempp-cl](https://github.com/bempp/bempp-cl) | A fast Python based just-in-time compiling boundary element library | Python |
