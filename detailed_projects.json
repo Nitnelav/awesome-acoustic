@@ -1765,5 +1765,25 @@
     "homepage": "https://pyrocko.org",
     "created_at": "2010-03-11T08:19:55Z",
     "updated_at": "2025-11-06T14:34:01Z"
+  },
+  {
+    "name": "PyRoomStudio",
+    "url": "https://github.com/PyRoomStudio/PyRoomStudio",
+    "description": "An open-source Python GUI for 3D acoustic simulations",
+    "category": "Room Acoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 32,
+    "forks": 0,
+    "issues": 0,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "",
+    "created_at": "2025-02-13T22:16:39Z",
+    "updated_at": "2025-11-24T14:28:59Z"
   }
 ]

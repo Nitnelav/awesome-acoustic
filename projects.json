@@ -515,5 +515,12 @@
     "description": "A seismology toolkit for Python.",
     "category": "Seismology",
     "techs": "Python"
+  },
+  {
+    "name": "PyRoomStudio",
+    "url": "https://github.com/PyRoomStudio/PyRoomStudio",
+    "description": "An open-source Python GUI for 3D acoustic simulations",
+    "category": "Room Acoustics",
+    "techs": "Python"
   }
 ]
