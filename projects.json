@@ -522,5 +522,12 @@
     "description": "An open-source Python GUI for 3D acoustic simulations",
     "category": "Room Acoustics",
     "techs": "Python"
+  },
+  {
+    "name": "pachyderm",
+    "url": "https://www.orase.org/pachyderm",
+    "description": "A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques",
+    "category": "Room Acoustics",
+    "techs": "C#"
   }
 ]
