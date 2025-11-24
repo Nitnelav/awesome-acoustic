@@ -21,6 +21,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 - [AI, Machine Learning](#ai-machine-learning)
 - [Books](#books)
 - [Hardware](#hardware)
+- [Seismology](#seismology)
 
 
 ## General Tools
@@ -36,7 +37,6 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [k-Wave](https://github.com/ucl-bug/k-wave) | A MATLAB toolbox for the time-domain simulation of acoustic wave fields | MATLAB |
 | [k-Wave-python](https://github.com/waltsims/k-wave-python) | A Python interface to k-Wave GPU accelerated binaries | Python |
 | [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) | Open software for the numerical calculation of head-related transfer functions | C++ |
-| [ObsPy](https://github.com/obspy/obspy) | ObsPy: A Python Toolbox for seismology/seismological observatories. | Python |
 
 
 ## Signal Processing
@@ -54,7 +54,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package | Description | Language |
 |---------|-------------|----------|
 | [Pyroomacoustics](https://github.com/LCAV/pyroomacoustics) | Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. | Python |
-| [DEISM](https://github.com/audiolabs/DEISM) | Diffraction Enhanced Image source method | C++ |
+| [DEISM](https://github.com/audiolabs/DEISM) | Diffraction Enhanced Image Source Method (Python) | C++ |
 | [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | C++ |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
@@ -95,7 +95,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [Soundscapy](https://github.com/MitchellAcoustics/Soundscapy) | A python library for soundscape assessments | Python |
 | [scikit-maad](https://github.com/scikit-maad/scikit-maad) | Open-source and modular toolbox for quantitative soundscape analysis in Python | Python |
-| [sottek-hearing-model](https://github.com/mlotinga/sottek-hearing-model) | An implementation of the psychoacoustic sound quality metrics from the Sottek Hearing Model defined in ECMA-418-2 | Python |
+| [sottek-hearing-model](https://github.com/mlotinga/sottek-hearing-model) | An implementation of the Sottek Hearing Model psychoacoustic sound quality metrics defined in ECMA-418-2. | Python |
 
 
 ## Bioacoustics
@@ -189,3 +189,11 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package | Description | Language |
 |---------|-------------|----------|
 | [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of transformer model results for enhanced audio analysis. | Python |
+
+
+## Seismology
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [ObsPy](https://github.com/obspy/obspy) | ObsPy: A Python Toolbox for seismology/seismological observatories. | Python |
+| [Pyrocko](https://github.com/pyrocko/pyrocko) | An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python. | Python |
