@@ -1785,5 +1785,15 @@
     "homepage": "",
     "created_at": "2025-02-13T22:16:39Z",
     "updated_at": "2025-11-24T14:28:59Z"
+  },
+  {
+    "name": "pachyderm",
+    "url": "https://www.orase.org/pachyderm",
+    "description": "A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques",
+    "category": "Room Acoustics",
+    "techs": [
+      "C#"
+    ],
+    "language": "C#"
   }
 ]
