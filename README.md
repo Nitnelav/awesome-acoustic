@@ -63,6 +63,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | The Eindhoven Acoustic Virtual Reality (EAVR) Toolkit, interactively teach students principles in the field of acoustics, by changing various aspects of the VR environment | C# |
 | [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
 | [pyrato](https://github.com/pyfar/pyrato) | Python Room Acoustics Tools | Python |
+| [PyRoomStudio](https://github.com/PyRoomStudio/PyRoomStudio) | An open-source Python GUI for 3D acoustic simulations | Python |
 
 
 ## Environment
