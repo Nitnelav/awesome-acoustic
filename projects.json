@@ -485,7 +485,7 @@
     "name": "ObsPy",
     "url": "https://github.com/obspy/obspy",
     "description": "ObsPy is a Python toolbox for seismology/seismological observatories.",
-    "category": "General Tools",
+    "category": "Seismology",
     "techs": "Python"
   },
   {
@@ -507,6 +507,13 @@
     "url": "https://github.com/pyfar/pyrato",
     "description": "Python Room Acoustics Tools",
     "category": "Room Acoustics",
+    "techs": "Python"
+  },
+  {
+    "name": "Pyrocko",
+    "url": "https://github.com/pyrocko/pyrocko",
+    "description": "A seismology toolkit for Python.",
+    "category": "Seismology",
     "techs": "Python"
   }
 ]
