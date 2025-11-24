@@ -64,6 +64,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
 | [pyrato](https://github.com/pyfar/pyrato) | Python Room Acoustics Tools | Python |
 | [PyRoomStudio](https://github.com/PyRoomStudio/PyRoomStudio) | An open-source Python GUI for 3D acoustic simulations | Python |
+| [pachyderm](https://www.orase.org/pachyderm) | A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques | C# |
 
 
 ## Environment
