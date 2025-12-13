@@ -53,7 +53,7 @@
     "url": "https://github.com/audiolabs/DEISM",
     "description": "DEISM is a Python package for room acoustics simulation that incorporates local diffraction effects around audio devices using the image source method.",
     "category": "Room Acoustics",
-    "techs": ["C++", "Python"] 
+    "techs": ["C++", "Python"]
   },
   {
     "name": "Virtual Acoustics",
@@ -529,5 +529,12 @@
     "description": "A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques",
     "category": "Room Acoustics",
     "techs": "C#"
+  },
+  {
+    "name": "SQAT",
+    "url": "https://github.com/ggrecow/SQAT",
+    "description": "SQAT is an open-source repository of MATLAB codes containing the implementation of key metrics for quantitative sound quality analysis.",
+    "category": "General Tools",
+    "techs": "MATLAB"
   }
 ]
