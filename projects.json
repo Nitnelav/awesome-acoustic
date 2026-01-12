@@ -495,6 +495,13 @@
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
   },
+    {
+    "name": "pyva",
+    "url": "https://github.com/minipief/pyva",
+    "description": "Statistical energy analysis (SEA) and hybrid methods (hybrid FEM/SEA) in vibroacoustics",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
+  },
   {
     "name": "sottek-hearing-model",
     "url": "https://github.com/mlotinga/sottek-hearing-model",
