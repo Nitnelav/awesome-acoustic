@@ -1864,5 +1864,25 @@
     "homepage": "",
     "created_at": "2022-03-20T22:33:13Z",
     "updated_at": "2025-11-24T23:33:33Z"
+  },
+  {
+    "name": "opensoundscape",
+    "url": "https://github.com/kitzeslab/opensoundscape",
+    "description": "Open source, scalable software for the analysis of bioacoustic recordings",
+    "category": "Bioacoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 194,
+    "forks": 26,
+    "issues": 140,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "http://opensoundscape.org",
+    "created_at": "2018-09-17T20:14:21Z",
+    "updated_at": "2026-01-24T02:12:01Z"
   }
 ]
