@@ -557,5 +557,12 @@
     "description": "Open source, scalable software for the analysis of bioacoustic recordings",
     "category": "Bioacoustics",
     "techs": "Python"
+  },
+  {
+    "name": "pyDMD",
+    "url": "https://github.com/PyDMD/PyDMD",
+    "description": "Dynamic Mode Decomposition (DMD) in Python",
+    "category": "Signal Processing",
+    "techs": "Python"
   }
 ]
