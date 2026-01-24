@@ -564,5 +564,12 @@
     "description": "Dynamic Mode Decomposition (DMD) in Python",
     "category": "Signal Processing",
     "techs": "Python"
+  },
+  {
+    "name": "GSound-SIR",
+    "url": "https://github.com/yongyizang/GSound-SIR",
+    "description": "A Python Room Spatial Impulse Response Ray-Tracing Toolkit",
+    "category": "Room Acoustics",
+    "techs": "C++"
   }
 ]

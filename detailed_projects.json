@@ -889,7 +889,7 @@
       "room-impulse-response",
       "speech"
     ],
-    "stars": 541,
+    "stars": 542,
     "forks": 47,
     "issues": 2,
     "language_list": {
@@ -897,7 +897,7 @@
     },
     "homepage": "",
     "created_at": "2021-03-19T20:04:10Z",
-    "updated_at": "2026-01-22T05:59:33Z"
+    "updated_at": "2026-01-24T16:16:31Z"
   },
   {
     "name": "BirdSet",
@@ -1914,5 +1914,25 @@
     "homepage": "https://pydmd.github.io/PyDMD/",
     "created_at": "2017-06-12T12:33:47Z",
     "updated_at": "2026-01-23T09:57:09Z"
+  },
+  {
+    "name": "GSound-SIR",
+    "url": "https://github.com/yongyizang/GSound-SIR",
+    "description": "A Python Room Spatial Impulse Response Ray-Tracing Toolkit",
+    "category": "Room Acoustics",
+    "techs": [
+      "C++"
+    ],
+    "language": "C++",
+    "tags": [],
+    "stars": 80,
+    "forks": 10,
+    "issues": 0,
+    "language_list": {
+      "C++": 0.9611298300713182
+    },
+    "homepage": null,
+    "created_at": "2025-02-10T05:53:49Z",
+    "updated_at": "2026-01-22T09:08:18Z"
   }
 ]
