@@ -115,6 +115,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [warbleR](https://github.com/maRce10/warbleR) | streamline acoustic analysis in R | R |
 | [Acoupi](https://github.com/acoupi/acoupi) | Python toolkit to implement bioacoustics classifier on embedded systems. | Python |
 | [Crowsetta](https://github.com/vocalpy/crowsetta) | A tool to work with any format for annotating animal sounds | Python |
+| [opensoundscape](https://github.com/kitzeslab/opensoundscape) | Open source, scalable software for the analysis of bioacoustic recordings | Python |
 
 
 ## Databases
