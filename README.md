@@ -48,6 +48,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Acoular](https://github.com/acoular/acoular) | Acoular - Acoustic testing and source mapping software | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 | [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
+| [pyDMD](https://github.com/PyDMD/PyDMD) | Python Dynamic Mode Decomposition | Python |
 
 
 ## Room Acoustics
