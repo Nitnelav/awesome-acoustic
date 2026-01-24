@@ -543,5 +543,12 @@
     "description": "SQAT is an open-source repository of MATLAB codes containing the implementation of key metrics for quantitative sound quality analysis.",
     "category": "General Tools",
     "techs": "MATLAB"
+  },
+  {
+    "name": "optimus",
+    "url": "https://github.com/optimuslib/optimus",
+    "description": "a Python library for solving 3D acoustic wave propagation.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
   }
 ]
