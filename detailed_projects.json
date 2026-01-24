@@ -1843,5 +1843,26 @@
     "homepage": "",
     "created_at": "2023-04-12T15:28:00Z",
     "updated_at": "2026-01-02T05:15:15Z"
+  },
+  {
+    "name": "optimus",
+    "url": "https://github.com/optimuslib/optimus",
+    "description": "The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Jupyter Notebook",
+    "tags": [],
+    "stars": 27,
+    "forks": 9,
+    "issues": 1,
+    "language_list": {
+      "Jupyter Notebook": 0.9663849611816094
+    },
+    "homepage": "",
+    "created_at": "2022-03-20T22:33:13Z",
+    "updated_at": "2025-11-24T23:33:33Z"
   }
 ]
