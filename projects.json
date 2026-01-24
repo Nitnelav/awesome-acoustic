@@ -550,5 +550,12 @@
     "description": "a Python library for solving 3D acoustic wave propagation.",
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
+  },
+  {
+    "name": "opensoundscape",
+    "url": "https://github.com/kitzeslab/opensoundscape",
+    "description": "Open source, scalable software for the analysis of bioacoustic recordings",
+    "category": "Bioacoustics",
+    "techs": "Python"
   }
 ]
