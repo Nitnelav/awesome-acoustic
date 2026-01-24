@@ -90,6 +90,8 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 | [bempp-cl](https://github.com/bempp/bempp-cl) | A fast Python based just-in-time compiling boundary element library | Python |
 | [VIBRA](https://github.com/MOPT-UFSC/VIBRA) | Vibroacoustic Analysis using the Finite Element Method | Assembly |
+| [pyva](https://github.com/minipief/pyva) | Python toolbox for vibroacoustics | Python |
+| [optimus](https://github.com/optimuslib/optimus) | The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation. | Jupyter Notebook |
 
 
 ## Soundscape
