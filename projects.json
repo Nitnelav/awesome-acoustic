@@ -571,5 +571,12 @@
     "description": "A Python Room Spatial Impulse Response Ray-Tracing Toolkit",
     "category": "Room Acoustics",
     "techs": "C++"
+  },
+  {
+    "name": "Sesenta: Open Source Acoustic Camera",
+    "url": "https://github.com/Iari-Lab/fpga_acoustic",
+    "description": "Sesenta is an open-source project for building a tileable acoustic camera using FPGA technology",
+    "category": "Hardware",
+    "techs": "C++"
   }
 ]
