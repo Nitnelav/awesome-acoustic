@@ -37,7 +37,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [k-Wave](https://github.com/ucl-bug/k-wave) | A MATLAB toolbox for the time-domain simulation of acoustic wave fields | MATLAB |
 | [k-Wave-python](https://github.com/waltsims/k-wave-python) | A Python interface to k-Wave GPU accelerated binaries | Python |
 | [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) | Open software for the numerical calculation of head-related transfer functions | C++ |
-| [SQAT](https://github.com/ggrecow/SQAT) | SQAT is an open-source repository of MATLAB codes containing the implementation of key metrics for quantitative sound quality analysis. | AGS Script |
+| [SQAT](https://github.com/ggrecow/SQAT) | SQAT is an open-source repository of MATLAB codes implementing key metrics for sound quality analysis. | AGS Script |
 
 
 ## Signal Processing
@@ -45,7 +45,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package | Description | Language |
 |---------|-------------|----------|
 | [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
-| [Acoular](https://github.com/acoular/acoular) | Acoular - Acoustic testing and source mapping software | Python |
+| [Acoular](https://github.com/acoular/acoular) | Acoustic testing and source mapping software | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 | [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
 | [pyDMD](https://github.com/PyDMD/PyDMD) | Python Dynamic Mode Decomposition | Python |
@@ -60,12 +60,12 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | C++ |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
-| [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | None |
+| [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | Shell |
 | [Diffusion](https://github.com/Building-acoustics-TU-Eindhoven/Diffusion) | This is a diffusion equation model for room acoustics predictions, developed in Python. | Python |
 | [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | The Eindhoven Acoustic Virtual Reality (EAVR) Toolkit, interactively teach students principles in the field of acoustics, by changing various aspects of the VR environment | C# |
 | [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
 | [pyrato](https://github.com/pyfar/pyrato) | Python Room Acoustics Tools | Python |
-| [PyRoomStudio](https://github.com/PyRoomStudio/PyRoomStudio) | An open-source Python GUI for 3D acoustic simulations | Python |
+| [PyRoomStudio](https://github.com/PyRoomStudio/PyRoomStudio) | An open-source application for 3D acoustic simulation | C++ |
 | [pachyderm](https://www.orase.org/pachyderm) | A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques | C# |
 | [GSound-SIR](https://github.com/yongyizang/GSound-SIR) | A Python Room Spatial Impulse Response Ray-Tracing Toolkit | C++ |
 
@@ -74,7 +74,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | A open-source model to compute noise maps. | Java |
+| [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) | An open-source model for calculating noise maps.  | Java |
 | [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) | Android App dedicated to the measurement of environmental noise. | Java |
 | [Code_Tympan](https://gitlab.com/tympan/code_tympan) | Code_TYMPAN is a software developed by EDF R&D to simulate noise in industrial sites. | C++ |
 | [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. | Python |
@@ -91,7 +91,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment | C++ |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 | [bempp-cl](https://github.com/bempp/bempp-cl) | A fast Python based just-in-time compiling boundary element library | Python |
-| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) | Vibroacoustic Analysis using the Finite Element Method | Assembly |
+| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) | Vibroacoustic Analysis using the Finite Element Method | Python |
 | [pyva](https://github.com/minipief/pyva) | Python toolbox for vibroacoustics | Python |
 | [optimus](https://github.com/optimuslib/optimus) | The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation. | Jupyter Notebook |
 
@@ -156,7 +156,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package | Description | Language |
 |---------|-------------|----------|
 | [Acoucou](https://acoucou.org/) | A platform for learning about acoustics | HTML |
-| [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks de la asignatura de Software Profesional en Acústica del Máster de Matemática Industrial (M2i) | Jupyter Notebook |
+| [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks from the course: Software in Acoustics, Master in Industrial Mathematics (M2i) | Jupyter Notebook |
 | [AcousticsML](https://github.com/RAMshades/AcousticsML) | Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications. | Jupyter Notebook |
 
 
@@ -196,7 +196,8 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of transformer model results for enhanced audio analysis. | Python |
+| [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of transformer model. | Python |
+| [Sesenta: Open Source Acoustic Camera](https://github.com/Iari-Lab/fpga_acoustic) | Sesenta is an open-source project for building a tileable acoustic camera using FPGA technology | C++ |
 
 
 ## Seismology
