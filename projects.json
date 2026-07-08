@@ -1,4 +1,10 @@
 [
+    {
+    "name": "RoomTreat Absorption Coefficients",
+    "url": "https://roomtreat.com/data/absorption-coefficients/",
+    "description": "60 building & acoustic materials — octave-band sound absorption coefficients + NRC, sourced, CSV, CC BY 4.0",
+    "category": "Databases"
+  },
   {
     "name": "Acoustic Toolbox",
     "url": "https://github.com/Universite-Gustave-Eiffel/acoustic-toolbox",
