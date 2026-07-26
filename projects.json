@@ -34,9 +34,9 @@
     "techs": "Python"
   },
   {
-    "name": "PyOctaveBand",
-    "url": "https://github.com/jmrplens/PyOctaveBand",
-    "description": "[Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.",
+    "name": "phonometry",
+    "url": "https://github.com/jmrplens/phonometry",
+    "description": "Acoustic measurement, analysis and prediction in Python (formerly PyOctaveBand). Every metric is implemented from the text of its governing standard and checked in CI against that standard's own tolerance tables and worked examples.",
     "category": "Signal Processing",
     "techs": "Python"
   },
