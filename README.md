@@ -44,7 +44,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
+| [phonometry](https://github.com/jmrplens/phonometry) | [Python3] Standard-conformant acoustic measurement toolkit (formerly PyOctaveBand): octave-band filtering, sound level meter quantities, loudness, building, environmental and underwater acoustics, with published conformance checks against the standards. | Python |
 | [Acoular](https://github.com/acoular/acoular) | Acoustic testing and source mapping software | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 | [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
