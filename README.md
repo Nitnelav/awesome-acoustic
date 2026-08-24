@@ -6,6 +6,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 > [!IMPORTANT]
 > Contributions are more than welcome
+- [Databases](#databases)
 - [General Tools](#general-tools)
 - [Signal Processing](#signal-processing)
 - [Room Acoustics](#room-acoustics)
@@ -13,7 +14,6 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 - [FEM, Materials, Vibrations](#fem-materials-vibrations)
 - [Soundscape](#soundscape)
 - [Bioacoustics](#bioacoustics)
-- [Databases](#databases)
 - [Music](#music)
 - [Health](#health)
 - [Education](#education)
@@ -22,6 +22,19 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 - [Books](#books)
 - [Hardware](#hardware)
 - [Seismology](#seismology)
+
+
+## Databases
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [RoomTreat Absorption Coefficients](https://roomtreat.com/data/absorption-coefficients/) | 60 building & acoustic materials — octave-band sound absorption coefficients + NRC, sourced, CSV, CC BY 4.0 |  |
+| [Soundata](https://github.com/soundata/soundata) | Python library for downloading, loading & working with sound datasets | Python |
+| [DCASE](https://github.com/DCASE-REPO/dcase_datalist) | Collection of DCASE related datasets | HTML |
+| [xeno-canto](https://xeno-canto.org/) | A community-driven site for sharing and discovering bird sounds |  |
+| [The International Soundscape Database](https://zenodo.org/records/10672568) | The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China. |  |
+| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them.  | Shell |
+| [BirdSet](https://github.com/DBD-research-group/BirdSet) | A benchmark dataset collection for bird sound classification | Jupyter Notebook |
 
 
 ## General Tools
@@ -44,7 +57,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) | [Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.  | Python |
+| [phonometry](https://github.com/jmrplens/phonometry) | Standards-conformant acoustics library for Python: measurement and metrology, building, environmental and room acoustics, psychoacoustics, electroacoustics, vibration, underwater and aircraft/rotorcraft noise. Every method is implemented from the standard and validated against reference data, with teaching-style docs (formerly PyOctaveBand). | Python |
 | [Acoular](https://github.com/acoular/acoular) | Acoustic testing and source mapping software | Python |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 | [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
@@ -60,7 +73,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Virtual Acoustics](https://www.virtualacoustics.org/) | creates audible sound from a purely virtual situation | C++ |
 | [I-Simpa](https://github.com/Universite-Gustave-Eiffel/I-Simpa) | An Open Source software for 3D sound propagation modelling | C++ |
 | [edg-acoustics](https://github.com/Building-acoustics-TU-Eindhoven/edg-acoustics) | Wave-based room acoustic modeling package with the DG method | Python |
-| [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | Shell |
+| [CHORAS](https://github.com/Building-acoustics-TU-Eindhoven/CHORAS) | The Community Hub for Open-source Room Acoustics Software (CHORAS) | Batchfile |
 | [Diffusion](https://github.com/Building-acoustics-TU-Eindhoven/Diffusion) | This is a diffusion equation model for room acoustics predictions, developed in Python. | Python |
 | [EAVR-v2](https://github.com/Building-acoustics-TU-Eindhoven/EAVR-v2) | The Eindhoven Acoustic Virtual Reality (EAVR) Toolkit, interactively teach students principles in the field of acoustics, by changing various aspects of the VR environment | C# |
 | [Chalmers Auralization Toolbox](https://github.com/AppliedAcousticsChalmers/auralization-toolbox) | The Chalmers Auralization Toolbox | MATLAB |
@@ -68,6 +81,10 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [PyRoomStudio](https://github.com/PyRoomStudio/PyRoomStudio) | An open-source application for 3D acoustic simulation | C++ |
 | [pachyderm](https://www.orase.org/pachyderm) | A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques | C# |
 | [GSound-SIR](https://github.com/yongyizang/GSound-SIR) | A Python Room Spatial Impulse Response Ray-Tracing Toolkit | C++ |
+| [PPFFDTD](https://github.com/Burhanuddin98/PPFFDTD) | Python wrapper for PFFDTD with a non-intrusive reduced order model for CHORAS | Python |
+| [MoD-ART](https://github.com/IoSR-Surrey/MoD-ART) | Build acoustic radiance transfer (ART) models, and analyze them using modal decomposition of acoustic radiance transfer (MoD-ART). | Jupyter Notebook |
+| [misuka](https://github.com/misuka-renderer/misuka) | misuka: A differentiable room acoustic renderer | C++ |
+| [DeepONet for Acoustic Wave Propagation](https://github.com/dtu-act/deeponet-acoustic-wave-prop) | Code for training and inferring acoustic wave propagation in 3D | Python |
 
 
 ## Environment
@@ -88,7 +105,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [OURS](https://github.com/rivm-syso/OURS) | Dutch calculation method for railway vibrations | Pascal |
 | [Code_Aster](https://gitlab.com/codeaster/src) | Code_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. | Python |
-| [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment | C++ |
+| [FEniCS](https://github.com/FEniCS/dolfinx) | Next generation FEniCS problem solving environment for solving finite element problems | C++ |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) | Python module for conducting operational modal analysis | Python |
 | [bempp-cl](https://github.com/bempp/bempp-cl) | A fast Python based just-in-time compiling boundary element library | Python |
 | [VIBRA](https://github.com/MOPT-UFSC/VIBRA) | Vibroacoustic Analysis using the Finite Element Method | Python |
@@ -118,18 +135,6 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Acoupi](https://github.com/acoupi/acoupi) | Python toolkit to implement bioacoustics classifier on embedded systems. | Python |
 | [Crowsetta](https://github.com/vocalpy/crowsetta) | A tool to work with any format for annotating animal sounds | Python |
 | [opensoundscape](https://github.com/kitzeslab/opensoundscape) | Open source, scalable software for the analysis of bioacoustic recordings | Python |
-
-
-## Databases
-
-| Package | Description | Language |
-|---------|-------------|----------|
-| [Soundata](https://github.com/soundata/soundata) | Python library for downloading, loading & working with sound datasets | Python |
-| [DCASE](https://github.com/DCASE-REPO/dcase_datalist) | Collection of DCASE related datasets | HTML |
-| [xeno-canto](https://xeno-canto.org/) | A community-driven site for sharing and discovering bird sounds |  |
-| [The International Soundscape Database](https://zenodo.org/records/10672568) | The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China. |  |
-| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) | A list of publicly available room impulse response datasets and scripts to download them.  | Shell |
-| [BirdSet](https://github.com/DBD-research-group/BirdSet) | A benchmark dataset collection for bird sound classification | Jupyter Notebook |
 
 
 ## Music
@@ -196,7 +201,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package | Description | Language |
 |---------|-------------|----------|
-| [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of transformer model. | Python |
+| [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of a transformer model. | Python |
 | [Sesenta: Open Source Acoustic Camera](https://github.com/Iari-Lab/fpga_acoustic) | Sesenta is an open-source project for building a tileable acoustic camera using FPGA technology | C++ |
 
 
