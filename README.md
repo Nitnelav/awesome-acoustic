@@ -163,6 +163,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Acoucou](https://acoucou.org/) | A platform for learning about acoustics | HTML |
 | [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks from the course: Software in Acoustics, Master in Industrial Mathematics (M2i) | Jupyter Notebook |
 | [AcousticsML](https://github.com/RAMshades/AcousticsML) | Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications. | Jupyter Notebook |
+| [Structure-Borne Sound Lecture](https://github.com/acoular/structure-borne-sound-lecture) | Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin | Jupyter Notebook |
 
 
 ## AeroAcoustics
