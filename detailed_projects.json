@@ -167,7 +167,7 @@
     ],
     "stars": 650,
     "forks": 163,
-    "issues": 52,
+    "issues": 53,
     "language_list": {
       "Python": 0.9891749651927336
     },
@@ -2098,5 +2098,26 @@
     "homepage": "",
     "created_at": "2023-07-24T07:55:52Z",
     "updated_at": "2026-07-29T08:07:06Z"
+  },
+  {
+    "name": "Structure-Borne Sound Lecture",
+    "url": "https://github.com/acoular/structure-borne-sound-lecture",
+    "description": "Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin",
+    "category": "Education",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Jupyter Notebook",
+    "tags": [],
+    "stars": 12,
+    "forks": 6,
+    "issues": 3,
+    "language_list": {
+      "Jupyter Notebook": 0.9965330053626354
+    },
+    "homepage": null,
+    "created_at": "2019-10-08T14:18:05Z",
+    "updated_at": "2026-08-11T13:43:49Z"
   }
 ]
