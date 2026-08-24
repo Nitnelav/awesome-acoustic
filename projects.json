@@ -612,5 +612,12 @@
     "description": "Code for training and inferring acoustic wave propagation in 3D",
     "category": "Room Acoustics",
     "techs": "Python"
+  },
+  {
+    "name": "Structure-Borne Sound Lecture",
+    "url": "https://github.com/acoular/structure-borne-sound-lecture",
+    "description": "Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin",
+    "category": "Education",
+    "techs": "Python"
   }
 ]
