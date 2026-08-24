@@ -584,5 +584,33 @@
     "description": "Sesenta is an open-source project for building a tileable acoustic camera using FPGA technology",
     "category": "Hardware",
     "techs": "C++"
+  },
+  {
+    "name": "PPFFDTD",
+    "url": "https://github.com/Burhanuddin98/PPFFDTD",
+    "description": "Python wrapper for PFFDTD with a non-intrusive reduced order model for CHORAS",
+    "category": "Room Acoustics",
+    "techs": "Python"
+  },
+  {
+    "name": "MoD-ART",
+    "url": "https://github.com/IoSR-Surrey/MoD-ART",
+    "description": "Build acoustic radiance transfer (ART) models, and analyze them using modal decomposition of acoustic radiance transfer (MoD-ART).",
+    "category": "Room Acoustics",
+    "techs": "Python"
+  },
+  {
+    "name": "misuka",
+    "url": "https://github.com/misuka-renderer/misuka",
+    "description": "misuka: A differentiable room acoustic renderer",
+    "category": "Room Acoustics",
+    "techs": ["C++", "Python"]
+  },
+  {
+    "name": "DeepONet for Acoustic Wave Propagation",
+    "url": "https://github.com/dtu-act/deeponet-acoustic-wave-prop",
+    "description": "Code for training and inferring acoustic wave propagation in 3D",
+    "category": "Room Acoustics",
+    "techs": "Python"
   }
 ]
