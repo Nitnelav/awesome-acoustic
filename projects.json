@@ -619,5 +619,68 @@
     "description": "Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin",
     "category": "Education",
     "techs": "Python"
+  },
+  {
+   "name": "acousticTS",
+   "url": "https://github.com/brandynlucca/acousticTS",
+   "description": "Physics-based models and approximations estimating acoustic target strength (TS) of underwater targets",
+   "category": "FEM, Materials, Vibrations",
+   "techs": ["R", "C++", "Fortran"]      
+  },
+  {
+   "name": "AcousticScattering.jl",
+   "url": "https://github.com/brandynlucca/AcousticScattering.jl",
+   "description": "A Julia package for acoustic scattering and target strength calculations using modal-series, Kirchhoff, boundary-element, finite-element, and fundamental-solution methods.",
+   "category": "FEM, Materials, Vibrations",
+   "techs": "Julia"
+  },
+  {
+   "name": "SpheroidalWaves.jl",
+   "url": "https://github.com/brandynlucca/SpheroidalWaves.jl",
+   "description": "Fast, vectorized computation of spheroidal wave functions with native Fortran kernels",
+   "category": "General Tools",
+   "techs": ["Julia", "Fortran"]
+  },
+  {
+   "name": "echoSMs",
+   "url": "https://github.com/ices-tools-dev/echosms",
+   "description": "Making acoustic scattering models available to fisheries and plankton scientists via the world wide web",
+   "category": "FEM, Materials, Vibrations",
+   "techs": "Python"
+  },
+  {
+   "name": "echopype",
+   "url": "https://github.com/echostack-org/echopype",
+   "description": "Enabling interoperability and scalability in ocean sonar data analysis",
+   "category": "Signal Processing",
+   "techs": "Python"
+  }    
+  {
+    "name": "echopype-examples",
+    "url": "https://github.com/echostack-org/echopype-examples",
+    "description": "Echopype example notebooks",
+    "category": "Education",
+    "techs": "Jupyter Notebook"
+  },
+  {
+    "name": "Standard sphere target strength calculator",
+    "url": "https://www.fisheries.noaa.gov/data-tools/standard-sphere-target-strength-calculator",
+    "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of a standard sphere.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "HTML"
+  },
+  {
+    "name": "KRM model",
+    "url": "https://www.fisheries.noaa.gov/data-tools/krm-model",
+    "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of fish with swim bladders using the KRM model.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "HTML"
+  },
+  {
+    "name": "SDWBA model",
+    "url": "https://www.fisheries.noaa.gov/data-tools/sdwba-model",
+    "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of non-bladdered scatterers using the SDWBA model.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "HTML"
   }
 ]
