@@ -624,14 +624,14 @@
    "name": "acousticTS",
    "url": "https://github.com/brandynlucca/acousticTS",
    "description": "Physics-based models and approximations estimating acoustic target strength (TS) of underwater targets",
-   "category": "FEM, Materials, Vibrations",
+   "category": "Underwater Acoustics",
    "techs": ["R", "C++", "Fortran"]      
   },
   {
    "name": "AcousticScattering.jl",
    "url": "https://github.com/brandynlucca/AcousticScattering.jl",
    "description": "A Julia package for acoustic scattering and target strength calculations using modal-series, Kirchhoff, boundary-element, finite-element, and fundamental-solution methods.",
-   "category": "FEM, Materials, Vibrations",
+   "category": "Underwater Acoustics",
    "techs": "Julia"
   },
   {
@@ -645,14 +645,14 @@
    "name": "echoSMs",
    "url": "https://github.com/ices-tools-dev/echosms",
    "description": "Making acoustic scattering models available to fisheries and plankton scientists via the world wide web",
-   "category": "FEM, Materials, Vibrations",
+   "category": "Underwater Acoustics",
    "techs": "Python"
   },
   {
    "name": "echopype",
    "url": "https://github.com/echostack-org/echopype",
    "description": "Enabling interoperability and scalability in ocean sonar data analysis",
-   "category": "Signal Processing",
+   "category": "Underwater Acoustics",
    "techs": "Python"
   }    
   {
@@ -666,21 +666,21 @@
     "name": "Standard sphere target strength calculator",
     "url": "https://www.fisheries.noaa.gov/data-tools/standard-sphere-target-strength-calculator",
     "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of a standard sphere.",
-    "category": "FEM, Materials, Vibrations",
+    "category": "Underwater Acoustics",
     "techs": "HTML"
   },
   {
     "name": "KRM model",
     "url": "https://www.fisheries.noaa.gov/data-tools/krm-model",
     "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of fish with swim bladders using the KRM model.",
-    "category": "FEM, Materials, Vibrations",
+    "category": "Underwater Acoustics",
     "techs": "HTML"
   },
   {
     "name": "SDWBA model",
     "url": "https://www.fisheries.noaa.gov/data-tools/sdwba-model",
     "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of non-bladdered scatterers using the SDWBA model.",
-    "category": "FEM, Materials, Vibrations",
+    "category": "Underwater Acoustics",
     "techs": "HTML"
   }
 ]
