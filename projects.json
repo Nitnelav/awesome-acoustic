@@ -661,26 +661,5 @@
     "description": "Echopype example notebooks",
     "category": "Education",
     "techs": "Jupyter Notebook"
-  },
-  {
-    "name": "Standard sphere target strength calculator",
-    "url": "https://www.fisheries.noaa.gov/data-tools/standard-sphere-target-strength-calculator",
-    "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of a standard sphere.",
-    "category": "Underwater Acoustics",
-    "techs": "HTML"
-  },
-  {
-    "name": "KRM model",
-    "url": "https://www.fisheries.noaa.gov/data-tools/krm-model",
-    "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of fish with swim bladders using the KRM model.",
-    "category": "Underwater Acoustics",
-    "techs": "HTML"
-  },
-  {
-    "name": "SDWBA model",
-    "url": "https://www.fisheries.noaa.gov/data-tools/sdwba-model",
-    "description": "Web app provided by NOAA's Southwest Fisheries Science Center for calculating Target Strength (TS) of non-bladdered scatterers using the SDWBA model.",
-    "category": "Underwater Acoustics",
-    "techs": "HTML"
   }
 ]
