@@ -22,6 +22,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 - [Books](#books)
 - [Hardware](#hardware)
 - [Seismology](#seismology)
+- [Underwater Acoustics](#underwater-acoustics)
 
 
 ## Databases
@@ -50,7 +51,8 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [k-Wave](https://github.com/ucl-bug/k-wave) | A MATLAB toolbox for the time-domain simulation of acoustic wave fields | MATLAB |
 | [k-Wave-python](https://github.com/waltsims/k-wave-python) | A Python interface to k-Wave GPU accelerated binaries | Python |
 | [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) | Open software for the numerical calculation of head-related transfer functions | C++ |
-| [SQAT](https://github.com/ggrecow/SQAT) | SQAT is an open-source repository of MATLAB codes implementing key metrics for sound quality analysis. | AGS Script |
+| [SQAT](https://github.com/ggrecow/SQAT) | SQAT: a sound quality analysis toolbox for MATLAB. Open-source implementations of key psychoacoustic models and a sound level meter, validated against standards and published data, with ready-to-run examples. | AGS Script |
+| [SpheroidalWaves.jl](https://github.com/brandynlucca/SpheroidalWaves.jl) | Fast, vectorized computation of spheroidal wave functions with native Fortran kernels | Julia |
 
 
 ## Signal Processing
@@ -164,6 +166,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [SoftwareProfesionalAcustica](https://github.com/maprieto/SoftwareProfesionalAcustica) | Jupyter notebooks from the course: Software in Acoustics, Master in Industrial Mathematics (M2i) | Jupyter Notebook |
 | [AcousticsML](https://github.com/RAMshades/AcousticsML) | Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications. | Jupyter Notebook |
 | [Structure-Borne Sound Lecture](https://github.com/acoular/structure-borne-sound-lecture) | Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin | Jupyter Notebook |
+| [echopype-examples](https://github.com/echostack-org/echopype-examples) | Echopype example notebooks | Jupyter Notebook |
 
 
 ## AeroAcoustics
@@ -212,3 +215,13 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [ObsPy](https://github.com/obspy/obspy) | ObsPy: A Python Toolbox for seismology/seismological observatories. | Python |
 | [Pyrocko](https://github.com/pyrocko/pyrocko) | An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python. | Python |
+
+
+## Underwater Acoustics
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [acousticTS](https://github.com/brandynlucca/acousticTS) | Physics-based models and approximations estimating acoustic target strength (TS) of underwater targets | R |
+| [AcousticScattering.jl](https://github.com/brandynlucca/AcousticScattering.jl) | A Julia package for acoustic scattering and target strength calculations using modal-series, Kirchhoff, boundary-element, finite-element, and fundamental-solution methods. | Julia |
+| [echoSMs](https://github.com/ices-tools-dev/echosms) | Making acoustic scattering models available to fisheries and plankton scientists via the world wide web | Python |
+| [echopype](https://github.com/echostack-org/echopype) | Enabling interoperability and scalability in ocean sonar data analysis | Python |
