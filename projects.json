@@ -625,7 +625,7 @@
    "url": "https://github.com/brandynlucca/acousticTS",
    "description": "Physics-based models and approximations estimating acoustic target strength (TS) of underwater targets",
    "category": "Underwater Acoustics",
-   "techs": ["R", "C++", "Fortran"]      
+   "techs": ["R", "C++", "Fortran"]
   },
   {
    "name": "AcousticScattering.jl",
@@ -654,7 +654,7 @@
    "description": "Enabling interoperability and scalability in ocean sonar data analysis",
    "category": "Underwater Acoustics",
    "techs": "Python"
-  }    
+  },
   {
     "name": "echopype-examples",
     "url": "https://github.com/echostack-org/echopype-examples",
