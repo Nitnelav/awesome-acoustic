@@ -619,5 +619,47 @@
     "description": "Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin",
     "category": "Education",
     "techs": "Python"
+  },
+  {
+   "name": "acousticTS",
+   "url": "https://github.com/brandynlucca/acousticTS",
+   "description": "Physics-based models and approximations estimating acoustic target strength (TS) of underwater targets",
+   "category": "Underwater Acoustics",
+   "techs": ["R", "C++", "Fortran"]      
+  },
+  {
+   "name": "AcousticScattering.jl",
+   "url": "https://github.com/brandynlucca/AcousticScattering.jl",
+   "description": "A Julia package for acoustic scattering and target strength calculations using modal-series, Kirchhoff, boundary-element, finite-element, and fundamental-solution methods.",
+   "category": "Underwater Acoustics",
+   "techs": "Julia"
+  },
+  {
+   "name": "SpheroidalWaves.jl",
+   "url": "https://github.com/brandynlucca/SpheroidalWaves.jl",
+   "description": "Fast, vectorized computation of spheroidal wave functions with native Fortran kernels",
+   "category": "General Tools",
+   "techs": ["Julia", "Fortran"]
+  },
+  {
+   "name": "echoSMs",
+   "url": "https://github.com/ices-tools-dev/echosms",
+   "description": "Making acoustic scattering models available to fisheries and plankton scientists via the world wide web",
+   "category": "Underwater Acoustics",
+   "techs": "Python"
+  },
+  {
+   "name": "echopype",
+   "url": "https://github.com/echostack-org/echopype",
+   "description": "Enabling interoperability and scalability in ocean sonar data analysis",
+   "category": "Underwater Acoustics",
+   "techs": "Python"
+  }    
+  {
+    "name": "echopype-examples",
+    "url": "https://github.com/echostack-org/echopype-examples",
+    "description": "Echopype example notebooks",
+    "category": "Education",
+    "techs": "Jupyter Notebook"
   }
 ]
