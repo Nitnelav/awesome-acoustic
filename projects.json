@@ -835,5 +835,12 @@
     "url": "https://uwa-channels.github.io/",
     "description": "Library of underwater acoustic communication channel impulse responses recorded during at-sea experiments, with accompanying noise models and tools to apply them to signals",
     "category": "Underwater Acoustics"
+  },
+  {
+    "name": "shroom",
+    "url": "https://github.com/Yhonatangayer/shroom",
+    "description": "Spherical Harmonics ROOM: room acoustics simulation in the Ambisonics domain (image source method, spherical microphone arrays, binaural rendering)",
+    "category": "Room Acoustics",
+    "techs": "Python"
   }
 ]
