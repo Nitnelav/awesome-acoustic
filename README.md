@@ -65,6 +65,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) | An open-source implementation of CLEAN-T acoustic imaging technique | Python |
 | [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
 | [pyDMD](https://github.com/PyDMD/PyDMD) | Python Dynamic Mode Decomposition | Python |
+| [AcouPipe](https://github.com/adku1173/acoupipe) | A library for large-scale microphone array data simulation to solve deep learning tasks | Python |
 
 
 ## Room Acoustics
