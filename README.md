@@ -53,6 +53,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) | Open software for the numerical calculation of head-related transfer functions | C++ |
 | [SQAT](https://github.com/ggrecow/SQAT) | SQAT: a sound quality analysis toolbox for MATLAB. Open-source implementations of key psychoacoustic models and a sound level meter, validated against standards and published data, with ready-to-run examples. | AGS Script |
 | [SpheroidalWaves.jl](https://github.com/brandynlucca/SpheroidalWaves.jl) | Fast, vectorized computation of spheroidal wave functions with native Fortran kernels | Julia |
+| [spectacoular](https://github.com/acoular/spectacoular) | Extension for in-browser GUI applications with Acoular at minimal programming effort | Python |
 
 
 ## Signal Processing
