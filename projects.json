@@ -773,5 +773,12 @@
     "description": "Rolling Noise and Dynamics: time-domain finite-difference simulation framework for coupled wave propagation and rolling noise in railway tracks",
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
+  },
+  {
+    "name": "Triton",
+    "url": "https://github.com/MarineBioAcousticsRC/Triton",
+    "description": "MATLAB software package from Scripps Whale Acoustics Lab to visualise, detect and classify marine sounds in long-term passive acoustic recordings",
+    "category": "Underwater Acoustics",
+    "techs": "MATLAB"
   }
 ]
