@@ -696,5 +696,12 @@
     "description": "bacpipe (BioAcoustic Pipeline) makes deep learning models in bioacoustics accessible",
     "category": "Bioacoustics",
     "techs": "Python"
+  },
+  {
+    "name": "FLOWUnsteady",
+    "url": "https://github.com/byuflowlab/FLOWUnsteady",
+    "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy",
+    "category": "AeroAcoustics",
+    "techs": "Julia"
   }
 ]
