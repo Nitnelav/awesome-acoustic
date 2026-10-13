@@ -724,5 +724,12 @@
     "description": "A unified Python API for major underwater acoustic propagation models",
     "category": "Underwater Acoustics",
     "techs": "Python"
+  },
+  {
+    "name": "auralization_master",
+    "url": "https://github.com/ggrecow/auralization_master",
+    "description": "MATLAB framework for aircraft noise auralization: turns frequency-domain source predictions into time signals and propagates them to ground receivers with ray tracing",
+    "category": "Environment",
+    "techs": "MATLAB"
   }
 ]
