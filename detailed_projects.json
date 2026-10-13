@@ -2311,5 +2311,27 @@
     "homepage": "https://acoular.org/spectacoular/",
     "created_at": "2021-05-20T12:30:34Z",
     "updated_at": "2026-09-09T10:23:45Z"
+  },
+  {
+    "name": "openTorsion",
+    "url": "https://github.com/Aalto-Arotor/openTorsion",
+    "description": "Open source library for creating torsional finite element models",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Jupyter Notebook",
+    "tags": [],
+    "stars": 28,
+    "forks": 11,
+    "issues": 1,
+    "language_list": {
+      "Jupyter Notebook": 0.8452861945899897,
+      "Python": 0.15157085492388683
+    },
+    "homepage": "",
+    "created_at": "2021-06-30T11:11:11Z",
+    "updated_at": "2026-05-25T08:44:45Z"
   }
 ]
