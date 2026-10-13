@@ -710,5 +710,12 @@
     "description": "Python reimplementation of the MUST ultrasound toolbox for synthetic ultrasound image simulation and reconstruction (transducers, delays, B-mode and Doppler beamforming)",
     "category": "Health",
     "techs": "Python"
+  },
+  {
+    "name": "gibbonNetR",
+    "url": "https://github.com/DenaJGibbon/gibbonNetR",
+    "description": "R package to train, evaluate and deploy convolutional neural networks (torch for R) for automated detection in passive acoustic monitoring data",
+    "category": "Bioacoustics",
+    "techs": "R"
   }
 ]
