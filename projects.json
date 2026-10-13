@@ -787,5 +787,12 @@
     "description": "Desktop application to identify bird vocalisations in long audio files using BirdNET or a native model tuned for nocturnal migrants",
     "category": "Bioacoustics",
     "techs": "JavaScript"
+  },
+  {
+    "name": "Rthoptera",
+    "url": "https://github.com/naturewaves/Rthoptera",
+    "description": "Interactive Shiny apps and R functions for standardized analysis and description of insect sounds",
+    "category": "Bioacoustics",
+    "techs": "R"
   }
 ]
