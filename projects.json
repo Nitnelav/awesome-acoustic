@@ -829,5 +829,11 @@
     "description": "Transfer Matrix Method toolbox for the design and prediction of multilayered acoustic treatments (porous layers, air cavities, membranes, perforated panels)",
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
+  },
+  {
+    "name": "Underwater Acoustic Channel Library",
+    "url": "https://uwa-channels.github.io/",
+    "description": "Library of underwater acoustic communication channel impulse responses recorded during at-sea experiments, with accompanying noise models and tools to apply them to signals",
+    "category": "Underwater Acoustics"
   }
 ]
