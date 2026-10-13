@@ -23,6 +23,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 - [Hardware](#hardware)
 - [Seismology](#seismology)
 - [Underwater Acoustics](#underwater-acoustics)
+- [Ultrasound](#ultrasound)
 
 
 ## Databases
@@ -66,6 +67,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [paderwasn](https://github.com/fgnt/paderwasn) | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python |
 | [pyDMD](https://github.com/PyDMD/PyDMD) | Python Dynamic Mode Decomposition | Python |
 | [AcouPipe](https://github.com/adku1173/acoupipe) | A library for large-scale microphone array data simulation to solve deep learning tasks | Python |
+| [BRTLibrary](https://github.com/GrupoDiana/BRTLibrary) | The Binaural Rendering Toolbox (BRT) is a set of software libraries, applications, and definitions aimed as a virtual laboratory for psychoacoustic experimentation. The BRT is developed in the framework of the SONICOM project and includes the algorithms developed in the 3D Tune-In Toolkit in a new open, extensible architecture. | C++ |
 
 
 ## Room Acoustics
@@ -89,6 +91,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [MoD-ART](https://github.com/IoSR-Surrey/MoD-ART) | Build acoustic radiance transfer (ART) models, and analyze them using modal decomposition of acoustic radiance transfer (MoD-ART). | Jupyter Notebook |
 | [misuka](https://github.com/misuka-renderer/misuka) | misuka: A differentiable room acoustic renderer | C++ |
 | [DeepONet for Acoustic Wave Propagation](https://github.com/dtu-act/deeponet-acoustic-wave-prop) | Code for training and inferring acoustic wave propagation in 3D | Python |
+| [shroom](https://github.com/Yhonatangayer/shroom) | Spherical Harmonics ROOM, an open-source Python library for room acoustics simulation using Ambisonics, https://arxiv.org/abs/2603.27342, installable via {pip install pyshroom}. | Python |
 
 
 ## Environment
@@ -101,6 +104,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [HRISK](https://gitlab.com/jtagusari/hrisk-noisemodelling) | This is a QGIS plugin, which implements NoiseModelling and helps estimate the health risks posed by (road traffic) noise. | Python |
 | [Ono Sensor](https://github.com/Universite-Gustave-Eiffel/Rail4Earth) | OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization. | JavaScript |
 | [Sparrowpy](https://github.com/sparrow-acoustics/sparrowpy) | Sound Propagation with Acoustic Radiosity for Realistic Outdoor Worlds | Python |
+| [auralization_master](https://github.com/ggrecow/auralization_master) | Auralization framework for aircraft noise  | MATLAB |
 
 
 ## FEM, Materials, Vibrations
@@ -116,6 +120,9 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [pyva](https://github.com/minipief/pyva) | Python toolbox for vibroacoustics | Python |
 | [optimus](https://github.com/optimuslib/optimus) | The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation. | Jupyter Notebook |
 | [openTorsion](https://github.com/Aalto-Arotor/openTorsion) | Open source library for creating torsional finite element models | Jupyter Notebook |
+| [Rolland](https://github.com/mantelmax/rolland) | Time-domain simulation framework for coupled wave propagation in railway tracks | Python |
+| [ROSS](https://github.com/petrobras/ross) | ROSS is a library written in Python for rotordynamic analysis. | Python |
+| [TMM](https://github.com/rinaldipp/tmm) | Transfer Matrix Method for design and prediction of multilayered acoustic treatments. | Python |
 
 
 ## Soundscape
@@ -140,6 +147,12 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [Acoupi](https://github.com/acoupi/acoupi) | Python toolkit to implement bioacoustics classifier on embedded systems. | Python |
 | [Crowsetta](https://github.com/vocalpy/crowsetta) | A tool to work with any format for annotating animal sounds | Python |
 | [opensoundscape](https://github.com/kitzeslab/opensoundscape) | Open source, scalable software for the analysis of bioacoustic recordings | Python |
+| [bacpipe](https://github.com/bioacoustic-ai/bacpipe) | bacpipe (BioAcoustic Pipeline) makes deep learning models in bioacoustics accessible | Jupyter Notebook |
+| [gibbonNetR](https://github.com/DenaJGibbon/gibbonNetR) | R package to use 'torch for R' for automated detection using convolutional neural nets in passive acoustic monitoring (PAM) data | HTML |
+| [HawkEars](https://github.com/jhuus/HawkEars) | Scan audio recordings and identify birds, amphibians and other classes. | Python |
+| [bioacoustics-model-zoo](https://github.com/kitzeslab/bioacoustics-model-zoo) | Pre-trained models for bioacoustic classification tasks | Python |
+| [Chirpity](https://github.com/Mattk70/Chirpity-Electron) | AI powered audio analyser for bird call visualisation, detection and cataloguing | JavaScript |
+| [Rthoptera](https://github.com/naturewaves/Rthoptera) | Standardized insect bioacoustics in R | R |
 
 
 ## Music
@@ -159,6 +172,8 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [tascar](https://github.com/gisogrimm/tascar/) | toolbox for acoustic scene creation and rendering | C++ |
 | [openMHA](https://github.com/HoerTech-gGmbH/openMHA) | The open Master Hearing Aid (openMHA) | C |
 | [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black | None |
+| [PyMUST](https://github.com/creatis-ULTIM/PyMUST) | Python reimplementation of the MUST ultrasound toolbox for synthetic ultrasound image simulation and reconstruction (transducers, delays, B-mode and Doppler beamforming) | Jupyter Notebook |
+| [Fullwave 2.5](https://github.com/pinton-lab/fullwave25) | Fullwave 2.5: Ultrasound wave propagation simulation with heterogeneous power law attenuation modelling capabilities | Python |
 
 
 ## Education
@@ -178,6 +193,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [AeroAcoustics.jl](https://github.com/1oly/AeroAcoustics.jl) | A Julia package for Aeroacoustics | Julia |
 | [WAPE](https://github.com/Universite-Gustave-Eiffel/WAPE) | Wide Angle Parabolic Equation model with arbitrary Mach number | MATLAB |
+| [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) | An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy | Julia |
 
 
 ## AI, Machine Learning
@@ -210,6 +226,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [acoustic-camera](https://github.com/rabeaifeanyi/acoustic-camera) | This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of a transformer model. | Python |
 | [Sesenta: Open Source Acoustic Camera](https://github.com/Iari-Lab/fpga_acoustic) | Sesenta is an open-source project for building a tileable acoustic camera using FPGA technology | C++ |
+| [QSpeakers](https://github.com/be1/qspeakers) | loudspeaker enclosure designer | C++ |
 
 
 ## Seismology
@@ -218,6 +235,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 |---------|-------------|----------|
 | [ObsPy](https://github.com/obspy/obspy) | ObsPy: A Python Toolbox for seismology/seismological observatories. | Python |
 | [Pyrocko](https://github.com/pyrocko/pyrocko) | An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python. | Python |
+| [Infrapy](https://github.com/LANL-Seismoacoustics/infrapy) | An infrasound array processing toolkit | Jupyter Notebook |
 
 
 ## Underwater Acoustics
@@ -228,3 +246,15 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [AcousticScattering.jl](https://github.com/brandynlucca/AcousticScattering.jl) | A Julia package for acoustic scattering and target strength calculations using modal-series, Kirchhoff, boundary-element, finite-element, and fundamental-solution methods. | Julia |
 | [echoSMs](https://github.com/ices-tools-dev/echosms) | Making acoustic scattering models available to fisheries and plankton scientists via the world wide web | Python |
 | [echopype](https://github.com/echostack-org/echopype) | Enabling interoperability and scalability in ocean sonar data analysis | Python |
+| [uacpy](https://github.com/ErVuL/uacpy) | A unified Python API for major underwater acoustic propagation models and more. | Python |
+| [Triton](https://github.com/MarineBioAcousticsRC/Triton) | :whale: Scripps Whale Acoustics Lab   :earth_americas: Scripps Acoustic Ecology Lab - Triton with remoras in development | MATLAB |
+| [UnderwaterAcoustics.jl](https://github.com/org-arl/UnderwaterAcoustics.jl) | Julia toolbox for underwater acoustic modeling | Julia |
+| [OSEkit](https://github.com/Project-OSmOSE/OSEkit) | OSEkit is an open source suite of tools written in python and dedicated to the management and analysis of data in underwater passive acoustics. | Python |
+| [Underwater Acoustic Channel Library](https://uwa-channels.github.io/) | Library of underwater acoustic communication channel impulse responses recorded during at-sea experiments, with accompanying noise models and tools to apply them to signals |  |
+
+
+## Ultrasound
+
+| Package | Description | Language |
+|---------|-------------|----------|
+| [AcousTools](https://github.com/JoshuaMukherjee/AcousTools) | A Python based library for working with acoustic fields for holography | Python |
