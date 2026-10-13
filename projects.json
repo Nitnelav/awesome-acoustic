@@ -780,5 +780,12 @@
     "description": "MATLAB software package from Scripps Whale Acoustics Lab to visualise, detect and classify marine sounds in long-term passive acoustic recordings",
     "category": "Underwater Acoustics",
     "techs": "MATLAB"
+  },
+  {
+    "name": "Chirpity",
+    "url": "https://github.com/Mattk70/Chirpity-Electron",
+    "description": "Desktop application to identify bird vocalisations in long audio files using BirdNET or a native model tuned for nocturnal migrants",
+    "category": "Bioacoustics",
+    "techs": "JavaScript"
   }
 ]
