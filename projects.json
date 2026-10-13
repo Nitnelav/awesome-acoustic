@@ -731,5 +731,12 @@
     "description": "MATLAB framework for aircraft noise auralization: turns frequency-domain source predictions into time signals and propagates them to ground receivers with ray tracing",
     "category": "Environment",
     "techs": "MATLAB"
+  },
+  {
+    "name": "BRTLibrary",
+    "url": "https://github.com/GrupoDiana/BRTLibrary",
+    "description": "Binaural Rendering Toolbox (BRT): open, extensible C++ libraries for real-time binaural spatialisation, a virtual laboratory for psychoacoustic experimentation",
+    "category": "Signal Processing",
+    "techs": "C++"
   }
 ]
