@@ -682,5 +682,12 @@
     "description": "Toolbox for generating large-scale, configurable microphone array datasets for acoustical source localization and characterization with Acoular",
     "category": "Signal Processing",
     "techs": "Python"
+  },
+  {
+    "name": "QSpeakers",
+    "url": "https://github.com/be1/qspeakers",
+    "description": "Loudspeaker enclosure designer",
+    "category": "Hardware",
+    "techs": "C++"
   }
 ]
