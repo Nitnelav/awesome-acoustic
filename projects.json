@@ -766,5 +766,12 @@
     "description": "Infrasound array processing toolkit (beamforming, detection, association and location) with a Python library, CLI and GUI",
     "category": "Seismology",
     "techs": "Python"
+  },
+  {
+    "name": "Rolland",
+    "url": "https://github.com/mantelmax/rolland",
+    "description": "Rolling Noise and Dynamics: time-domain finite-difference simulation framework for coupled wave propagation and rolling noise in railway tracks",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
   }
 ]
