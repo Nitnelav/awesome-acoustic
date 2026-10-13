@@ -661,5 +661,12 @@
     "description": "Echopype example notebooks",
     "category": "Education",
     "techs": "Jupyter Notebook"
+  },
+  {
+    "name": "spectacoular",
+    "url": "https://github.com/acoular/spectacoular",
+    "description": "Browser GUI applications for Acoular",
+    "category": "General Tools",
+    "techs": "Python"
   }
 ]
