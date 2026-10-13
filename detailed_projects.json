@@ -194,7 +194,7 @@
       "room-impulse-response",
       "stft"
     ],
-    "stars": 1985,
+    "stars": 1984,
     "forks": 498,
     "issues": 25,
     "language_list": {
@@ -202,7 +202,7 @@
     },
     "homepage": "https://pyroomacoustics.readthedocs.io",
     "created_at": "2015-12-24T13:41:25Z",
-    "updated_at": "2026-10-13T01:14:31Z"
+    "updated_at": "2026-10-13T08:34:17Z"
   },
   {
     "name": "DEISM",
@@ -1287,7 +1287,7 @@
       "unilm",
       "xlm-e"
     ],
-    "stars": 22231,
+    "stars": 22232,
     "forks": 2704,
     "issues": 688,
     "language": "Python",
@@ -1297,7 +1297,7 @@
     },
     "homepage": "https://aka.ms/GeneralAI",
     "created_at": "2019-07-23T04:15:28Z",
-    "updated_at": "2026-10-13T04:43:30Z"
+    "updated_at": "2026-10-13T08:31:05Z"
   },
   {
     "name": "EAVR-v2",
@@ -2353,5 +2353,578 @@
     "homepage": "",
     "created_at": "2021-05-10T07:07:40Z",
     "updated_at": "2026-09-22T14:11:16Z"
+  },
+  {
+    "name": "QSpeakers",
+    "url": "https://github.com/be1/qspeakers",
+    "description": "loudspeaker enclosure designer",
+    "category": "Hardware",
+    "techs": [
+      "C++",
+      "OpenSCAD"
+    ],
+    "language": "C++",
+    "tags": [
+      "acoustics",
+      "design",
+      "diy",
+      "loudspeaker",
+      "loudspeaker-enclosure-designer"
+    ],
+    "stars": 55,
+    "forks": 6,
+    "issues": 1,
+    "language_list": {
+      "C++": 0.8364567884589457,
+      "OpenSCAD": 0.11347483580192222
+    },
+    "homepage": "http://brouits.free.fr/qspeakers/",
+    "created_at": "2020-06-01T23:13:08Z",
+    "updated_at": "2026-09-18T16:51:14Z"
+  },
+  {
+    "name": "bacpipe",
+    "url": "https://github.com/bioacoustic-ai/bacpipe",
+    "description": "bacpipe (BioAcoustic Pipeline) makes deep learning models in bioacoustics accessible",
+    "category": "Bioacoustics",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Jupyter Notebook",
+    "tags": [
+      "bioacoustic-ai",
+      "bioacoustics",
+      "computational-bioacoustics",
+      "deep-learning"
+    ],
+    "stars": 75,
+    "forks": 20,
+    "issues": 6,
+    "language_list": {
+      "Jupyter Notebook": 0.7448373654886926,
+      "Python": 0.25516263451130744
+    },
+    "homepage": "https://bacpipe.readthedocs.io",
+    "created_at": "2024-10-18T16:56:58Z",
+    "updated_at": "2026-10-05T20:53:01Z"
+  },
+  {
+    "name": "FLOWUnsteady",
+    "url": "https://github.com/byuflowlab/FLOWUnsteady",
+    "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy",
+    "category": "AeroAcoustics",
+    "techs": [
+      "Julia"
+    ],
+    "language": "Julia",
+    "tags": [
+      "acoustics",
+      "aeroacoustics",
+      "aerodynamics",
+      "aircraft",
+      "cfd",
+      "computational-fluid-dynamics",
+      "rotorcraft",
+      "vortex-methods",
+      "vpm",
+      "vtol",
+      "wind-turbine"
+    ],
+    "stars": 389,
+    "forks": 90,
+    "issues": 46,
+    "language_list": {
+      "Julia": 1.0
+    },
+    "homepage": "https://flow.byu.edu/FLOWUnsteady/",
+    "created_at": "2019-09-30T19:55:38Z",
+    "updated_at": "2026-09-22T20:58:13Z"
+  },
+  {
+    "name": "PyMUST",
+    "url": "https://github.com/creatis-ULTIM/PyMUST",
+    "description": "Python reimplementation of the MUST ultrasound toolbox for synthetic ultrasound image simulation and reconstruction (transducers, delays, B-mode and Doppler beamforming)",
+    "category": "Health",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Jupyter Notebook",
+    "tags": [],
+    "stars": 85,
+    "forks": 25,
+    "issues": 5,
+    "language_list": {
+      "Jupyter Notebook": 0.8173643476337461,
+      "Python": 0.18012362296884082
+    },
+    "homepage": null,
+    "created_at": "2023-04-07T16:33:37Z",
+    "updated_at": "2026-09-29T07:42:24Z"
+  },
+  {
+    "name": "gibbonNetR",
+    "url": "https://github.com/DenaJGibbon/gibbonNetR",
+    "description": "R package to use 'torch for R' for automated detection using convolutional neural nets in passive acoustic monitoring (PAM) data",
+    "category": "Bioacoustics",
+    "techs": [
+      "HTML",
+      "R"
+    ],
+    "language": "HTML",
+    "tags": [],
+    "stars": 2,
+    "forks": 1,
+    "issues": 2,
+    "language_list": {
+      "HTML": 0.9586396127070166
+    },
+    "homepage": "https://denajgibbon.github.io/gibbonNetR/",
+    "created_at": "2023-08-19T13:38:52Z",
+    "updated_at": "2025-06-30T17:12:31Z"
+  },
+  {
+    "name": "uacpy",
+    "url": "https://github.com/ErVuL/uacpy",
+    "description": "A unified Python API for major underwater acoustic propagation models and more.",
+    "category": "Underwater Acoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 47,
+    "forks": 7,
+    "issues": 0,
+    "language_list": {
+      "Python": 0.9886736792316535
+    },
+    "homepage": null,
+    "created_at": "2026-04-20T20:58:01Z",
+    "updated_at": "2026-09-10T11:13:58Z"
+  },
+  {
+    "name": "auralization_master",
+    "url": "https://github.com/ggrecow/auralization_master",
+    "description": "Auralization framework for aircraft noise ",
+    "category": "Environment",
+    "techs": [
+      "MATLAB"
+    ],
+    "language": "MATLAB",
+    "tags": [
+      "acoustics",
+      "aircraft-noise",
+      "auralization",
+      "matlab",
+      "sound-synthesis",
+      "virtual-acoustics"
+    ],
+    "stars": 2,
+    "forks": 0,
+    "issues": 1,
+    "language_list": {
+      "MATLAB": 1.0
+    },
+    "homepage": "",
+    "created_at": "2024-11-20T14:08:28Z",
+    "updated_at": "2026-09-29T06:43:36Z"
+  },
+  {
+    "name": "BRTLibrary",
+    "url": "https://github.com/GrupoDiana/BRTLibrary",
+    "description": "The Binaural Rendering Toolbox (BRT) is a set of software libraries, applications, and definitions aimed as a virtual laboratory for psychoacoustic experimentation. The BRT is developed in the framework of the SONICOM project and includes the algorithms developed in the 3D Tune-In Toolkit in a new open, extensible architecture.",
+    "category": "Signal Processing",
+    "techs": [
+      "C++"
+    ],
+    "language": "C++",
+    "tags": [
+      "3d-audio",
+      "auralization",
+      "binaural",
+      "rendering",
+      "spatial-audio"
+    ],
+    "stars": 69,
+    "forks": 6,
+    "issues": 6,
+    "language_list": {
+      "C++": 0.9981817640547411
+    },
+    "homepage": "https://grupodiana.github.io/BRT-Documentation/library/",
+    "created_at": "2023-06-22T11:23:29Z",
+    "updated_at": "2026-10-08T12:06:44Z"
+  },
+  {
+    "name": "HawkEars",
+    "url": "https://github.com/jhuus/HawkEars",
+    "description": "Scan audio recordings and identify birds, amphibians and other classes.",
+    "category": "Bioacoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "bioacoustics",
+      "bird-audio",
+      "bird-identification",
+      "birdsong",
+      "deep-learning",
+      "ecology",
+      "pytorch",
+      "sound-event-detection"
+    ],
+    "stars": 15,
+    "forks": 0,
+    "issues": 1,
+    "language_list": {
+      "Python": 0.9903717942961678
+    },
+    "homepage": "",
+    "created_at": "2025-12-30T20:16:19Z",
+    "updated_at": "2026-10-05T23:55:02Z"
+  },
+  {
+    "name": "AcousTools",
+    "url": "https://github.com/JoshuaMukherjee/AcousTools",
+    "description": "A Python based library for working with acoustic fields for holography",
+    "category": "Ultrasound",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "acoustics",
+      "holography",
+      "simulation"
+    ],
+    "stars": 16,
+    "forks": 5,
+    "issues": 0,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "",
+    "created_at": "2023-11-30T17:23:04Z",
+    "updated_at": "2026-09-25T15:23:50Z"
+  },
+  {
+    "name": "bioacoustics-model-zoo",
+    "url": "https://github.com/kitzeslab/bioacoustics-model-zoo",
+    "description": "Pre-trained models for bioacoustic classification tasks",
+    "category": "Bioacoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 68,
+    "forks": 14,
+    "issues": 18,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": null,
+    "created_at": "2023-06-06T20:10:30Z",
+    "updated_at": "2026-10-01T06:00:49Z"
+  },
+  {
+    "name": "Infrapy",
+    "url": "https://github.com/LANL-Seismoacoustics/infrapy",
+    "description": "An infrasound array processing toolkit",
+    "category": "Seismology",
+    "techs": [
+      "Jupyter Notebook",
+      "Python"
+    ],
+    "language": "Jupyter Notebook",
+    "tags": [
+      "array",
+      "association",
+      "beamforming",
+      "infrasound",
+      "location",
+      "processing"
+    ],
+    "stars": 54,
+    "forks": 13,
+    "issues": 13,
+    "language_list": {
+      "Jupyter Notebook": 0.718762117130326,
+      "Python": 0.2393079180370407
+    },
+    "homepage": "",
+    "created_at": "2020-03-05T22:02:03Z",
+    "updated_at": "2026-10-08T15:39:47Z"
+  },
+  {
+    "name": "Rolland",
+    "url": "https://github.com/mantelmax/rolland",
+    "description": "Time-domain simulation framework for coupled wave propagation in railway tracks",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "finite-difference-method",
+      "perfectly-matched-layers",
+      "railway-acoustics",
+      "rolling-noise",
+      "time-domain"
+    ],
+    "stars": 12,
+    "forks": 0,
+    "issues": 0,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "https://rolland-rolling-noise-and-dynamics.readthedocs.io",
+    "created_at": "2025-01-07T15:16:07Z",
+    "updated_at": "2026-09-30T10:54:25Z"
+  },
+  {
+    "name": "Triton",
+    "url": "https://github.com/MarineBioAcousticsRC/Triton",
+    "description": ":whale: Scripps Whale Acoustics Lab   :earth_americas: Scripps Acoustic Ecology Lab - Triton with remoras in development",
+    "category": "Underwater Acoustics",
+    "techs": [
+      "MATLAB"
+    ],
+    "language": "MATLAB",
+    "tags": [
+      "acoustics",
+      "audio-processing",
+      "classification",
+      "detection",
+      "machine-learning",
+      "marine-species",
+      "mbarc",
+      "scripps",
+      "sound",
+      "triton",
+      "whale"
+    ],
+    "stars": 64,
+    "forks": 38,
+    "issues": 31,
+    "language_list": {
+      "MATLAB": 0.9068675628345254
+    },
+    "homepage": "",
+    "created_at": "2019-01-22T22:02:35Z",
+    "updated_at": "2026-10-10T03:33:28Z"
+  },
+  {
+    "name": "Chirpity",
+    "url": "https://github.com/Mattk70/Chirpity-Electron",
+    "description": "AI powered audio analyser for bird call visualisation, detection and cataloguing",
+    "category": "Bioacoustics",
+    "techs": [
+      "HTML",
+      "JavaScript"
+    ],
+    "language": "JavaScript",
+    "tags": [
+      "bioacoustic-analysis",
+      "bioacoustics",
+      "birdnet",
+      "birdsong-recognition",
+      "nocmig",
+      "tensorflow",
+      "tensorflowjs"
+    ],
+    "stars": 89,
+    "forks": 4,
+    "issues": 3,
+    "language_list": {
+      "JavaScript": 0.6480288482456896,
+      "HTML": 0.24516569005184835
+    },
+    "homepage": "https://chirpity.mattkirkland.co.uk",
+    "created_at": "2022-01-11T10:10:24Z",
+    "updated_at": "2026-10-11T17:32:14Z"
+  },
+  {
+    "name": "Rthoptera",
+    "url": "https://github.com/naturewaves/Rthoptera",
+    "description": "Standardized insect bioacoustics in R",
+    "category": "Bioacoustics",
+    "techs": [
+      "JavaScript",
+      "R"
+    ],
+    "language": "R",
+    "tags": [],
+    "stars": 5,
+    "forks": 1,
+    "issues": 1,
+    "language_list": {
+      "R": 0.8825652401567845,
+      "JavaScript": 0.10310248968892516
+    },
+    "homepage": "https://naturewaves.github.io/Rthoptera/",
+    "created_at": "2024-09-26T06:35:51Z",
+    "updated_at": "2026-10-05T17:37:24Z"
+  },
+  {
+    "name": "UnderwaterAcoustics.jl",
+    "url": "https://github.com/org-arl/UnderwaterAcoustics.jl",
+    "description": "Julia toolbox for underwater acoustic modeling",
+    "category": "Underwater Acoustics",
+    "techs": [
+      "Julia"
+    ],
+    "language": "Julia",
+    "tags": [],
+    "stars": 91,
+    "forks": 27,
+    "issues": 13,
+    "language_list": {
+      "Julia": 0.9747575400771378
+    },
+    "homepage": "",
+    "created_at": "2020-03-09T03:30:36Z",
+    "updated_at": "2026-10-07T14:11:50Z"
+  },
+  {
+    "name": "ROSS",
+    "url": "https://github.com/petrobras/ross",
+    "description": "ROSS is a library written in Python for rotordynamic analysis.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "JavaScript",
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 209,
+    "forks": 142,
+    "issues": 15,
+    "language_list": {
+      "Python": 0.867829020757354,
+      "JavaScript": 0.11067250205509155
+    },
+    "homepage": "https://ross.readthedocs.io",
+    "created_at": "2018-11-28T18:53:59Z",
+    "updated_at": "2026-10-08T02:33:55Z"
+  },
+  {
+    "name": "Fullwave 2.5",
+    "url": "https://github.com/pinton-lab/fullwave25",
+    "description": "Fullwave 2.5: Ultrasound wave propagation simulation with heterogeneous power law attenuation modelling capabilities",
+    "category": "Health",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "fdtd",
+      "finite-difference",
+      "simulation",
+      "ultrasound"
+    ],
+    "stars": 51,
+    "forks": 10,
+    "issues": 2,
+    "language_list": {
+      "Python": 0.9966997449937731
+    },
+    "homepage": "",
+    "created_at": "2025-10-28T22:40:33Z",
+    "updated_at": "2026-10-12T21:59:56Z"
+  },
+  {
+    "name": "OSEkit",
+    "url": "https://github.com/Project-OSmOSE/OSEkit",
+    "description": "OSEkit is an open source suite of tools written in python and dedicated to the management and analysis of data in underwater passive acoustics.",
+    "category": "Underwater Acoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "acoustic",
+      "data-analysis-python",
+      "fair",
+      "package",
+      "python"
+    ],
+    "stars": 13,
+    "forks": 8,
+    "issues": 13,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "https://osmose.ifremer.fr",
+    "created_at": "2023-01-26T15:45:15Z",
+    "updated_at": "2026-10-13T08:40:55Z"
+  },
+  {
+    "name": "TMM",
+    "url": "https://github.com/rinaldipp/tmm",
+    "description": "Transfer Matrix Method for design and prediction of multilayered acoustic treatments.",
+    "category": "FEM, Materials, Vibrations",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "absorption",
+      "acoustics",
+      "impedance",
+      "room-acoustics",
+      "transfer-matrix-method",
+      "treaments"
+    ],
+    "stars": 27,
+    "forks": 6,
+    "issues": 0,
+    "language_list": {
+      "Python": 1.0
+    },
+    "homepage": "",
+    "created_at": "2021-04-27T16:56:57Z",
+    "updated_at": "2026-09-30T13:17:14Z"
+  },
+  {
+    "name": "Underwater Acoustic Channel Library",
+    "url": "https://uwa-channels.github.io/",
+    "description": "Library of underwater acoustic communication channel impulse responses recorded during at-sea experiments, with accompanying noise models and tools to apply them to signals",
+    "category": "Underwater Acoustics",
+    "techs": []
+  },
+  {
+    "name": "shroom",
+    "url": "https://github.com/Yhonatangayer/shroom",
+    "description": "Spherical Harmonics ROOM, an open-source Python library for room acoustics simulation using Ambisonics, https://arxiv.org/abs/2603.27342, installable via {pip install pyshroom}.",
+    "category": "Room Acoustics",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [
+      "ambisonics",
+      "array",
+      "audio",
+      "hrtf",
+      "image-source-model",
+      "pyroomacoustics",
+      "sphere",
+      "spherical-geometry",
+      "spherical-harmonics",
+      "stft"
+    ],
+    "stars": 27,
+    "forks": 5,
+    "issues": 0,
+    "language_list": {
+      "Python": 0.9828891301084333
+    },
+    "homepage": "",
+    "created_at": "2026-02-23T13:11:12Z",
+    "updated_at": "2026-10-13T02:15:45Z"
   }
 ]
