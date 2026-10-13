@@ -801,5 +801,12 @@
     "description": "Julia toolbox for underwater acoustic propagation modeling with differentiable models, replay channels and an extensible API (usable from Python)",
     "category": "Underwater Acoustics",
     "techs": "Julia"
+  },
+  {
+    "name": "ROSS",
+    "url": "https://github.com/petrobras/ross",
+    "description": "Rotordynamic Open-Source Software: Python library for finite-element rotor modeling and modal, critical speed, unbalance and time response analysis",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
   }
 ]
