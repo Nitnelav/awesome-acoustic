@@ -822,5 +822,12 @@
     "description": "Python toolkit for the management and analysis of underwater passive acoustics data (timeline-based access, preprocessing, spectrograms, LTAS)",
     "category": "Underwater Acoustics",
     "techs": "Python"
+  },
+  {
+    "name": "TMM",
+    "url": "https://github.com/rinaldipp/tmm",
+    "description": "Transfer Matrix Method toolbox for the design and prediction of multilayered acoustic treatments (porous layers, air cavities, membranes, perforated panels)",
+    "category": "FEM, Materials, Vibrations",
+    "techs": "Python"
   }
 ]
