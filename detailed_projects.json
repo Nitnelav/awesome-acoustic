@@ -2333,5 +2333,25 @@
     "homepage": "",
     "created_at": "2021-06-30T11:11:11Z",
     "updated_at": "2026-05-25T08:44:45Z"
+  },
+  {
+    "name": "AcouPipe",
+    "url": "https://github.com/adku1173/acoupipe",
+    "description": "A library for large-scale microphone array data simulation to solve deep learning tasks",
+    "category": "Signal Processing",
+    "techs": [
+      "Python"
+    ],
+    "language": "Python",
+    "tags": [],
+    "stars": 37,
+    "forks": 7,
+    "issues": 21,
+    "language_list": {
+      "Python": 0.979858617594255
+    },
+    "homepage": "",
+    "created_at": "2021-05-10T07:07:40Z",
+    "updated_at": "2026-09-22T14:11:16Z"
   }
 ]
