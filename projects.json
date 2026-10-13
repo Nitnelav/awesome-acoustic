@@ -745,5 +745,12 @@
     "description": "Deep learning application (GUI, CLI and API) to detect and review bird and amphibian sounds in audio recordings",
     "category": "Bioacoustics",
     "techs": "Python"
+  },
+  {
+    "name": "AcousTools",
+    "url": "https://github.com/JoshuaMukherjee/AcousTools",
+    "description": "PyTorch-based toolkit for acoustic holography: simulate, solve, analyse and deploy ultrasound phased-array fields from idea to hardware",
+    "category": "Ultrasound",
+    "techs": "Python"
   }
 ]
