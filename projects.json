@@ -738,5 +738,12 @@
     "description": "Binaural Rendering Toolbox (BRT): open, extensible C++ libraries for real-time binaural spatialisation, a virtual laboratory for psychoacoustic experimentation",
     "category": "Signal Processing",
     "techs": "C++"
+  },
+  {
+    "name": "HawkEars",
+    "url": "https://github.com/jhuus/HawkEars",
+    "description": "Deep learning application (GUI, CLI and API) to detect and review bird and amphibian sounds in audio recordings",
+    "category": "Bioacoustics",
+    "techs": "Python"
   }
 ]
