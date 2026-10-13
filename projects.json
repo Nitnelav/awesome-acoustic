@@ -501,7 +501,7 @@
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
   },
-    {
+  {
     "name": "pyva",
     "url": "https://github.com/minipief/pyva",
     "description": "Statistical energy analysis (SEA) and hybrid methods (hybrid FEM/SEA) in vibroacoustics",
@@ -667,6 +667,13 @@
     "url": "https://github.com/acoular/spectacoular",
     "description": "Browser GUI applications for Acoular",
     "category": "General Tools",
+    "techs": "Python"
+  },
+  {
+    "name": "openTorsion",
+    "url": "https://github.com/Aalto-Arotor/openTorsion",
+    "description": "Open source library for creating torsional finite element models",
+    "category": "FEM, Materials, Vibrations",
     "techs": "Python"
   }
 ]
