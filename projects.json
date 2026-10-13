@@ -703,5 +703,12 @@
     "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy",
     "category": "AeroAcoustics",
     "techs": "Julia"
+  },
+  {
+    "name": "PyMUST",
+    "url": "https://github.com/creatis-ULTIM/PyMUST",
+    "description": "Python reimplementation of the MUST ultrasound toolbox for synthetic ultrasound image simulation and reconstruction (transducers, delays, B-mode and Doppler beamforming)",
+    "category": "Health",
+    "techs": "Python"
   }
 ]
