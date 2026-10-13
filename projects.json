@@ -675,5 +675,12 @@
     "description": "Open source library for creating torsional finite element models",
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
+  },
+  {
+    "name": "AcouPipe",
+    "url": "https://github.com/adku1173/acoupipe",
+    "description": "Toolbox for generating large-scale, configurable microphone array datasets for acoustical source localization and characterization with Acoular",
+    "category": "Signal Processing",
+    "techs": "Python"
   }
 ]
