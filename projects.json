@@ -808,5 +808,12 @@
     "description": "Rotordynamic Open-Source Software: Python library for finite-element rotor modeling and modal, critical speed, unbalance and time response analysis",
     "category": "FEM, Materials, Vibrations",
     "techs": "Python"
+  },
+  {
+    "name": "Fullwave 2.5",
+    "url": "https://github.com/pinton-lab/fullwave25",
+    "description": "GPU-accelerated FDTD ultrasound wave propagation simulator with heterogeneous power-law attenuation for complex biological tissues",
+    "category": "Health",
+    "techs": "Python"
   }
 ]
