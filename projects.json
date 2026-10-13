@@ -717,5 +717,12 @@
     "description": "R package to train, evaluate and deploy convolutional neural networks (torch for R) for automated detection in passive acoustic monitoring data",
     "category": "Bioacoustics",
     "techs": "R"
+  },
+  {
+    "name": "uacpy",
+    "url": "https://github.com/ErVuL/uacpy",
+    "description": "A unified Python API for major underwater acoustic propagation models",
+    "category": "Underwater Acoustics",
+    "techs": "Python"
   }
 ]
