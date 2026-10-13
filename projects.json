@@ -752,5 +752,12 @@
     "description": "PyTorch-based toolkit for acoustic holography: simulate, solve, analyse and deploy ultrasound phased-array fields from idea to hardware",
     "category": "Ultrasound",
     "techs": "Python"
+  },
+  {
+    "name": "bioacoustics-model-zoo",
+    "url": "https://github.com/kitzeslab/bioacoustics-model-zoo",
+    "description": "Pre-trained models (BirdNET, Perch, HawkEars, BirdSet, YAMNet...) for bioacoustic classification tasks behind a single Python API",
+    "category": "Bioacoustics",
+    "techs": "Python"
   }
 ]
