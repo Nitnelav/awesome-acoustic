@@ -794,5 +794,12 @@
     "description": "Interactive Shiny apps and R functions for standardized analysis and description of insect sounds",
     "category": "Bioacoustics",
     "techs": "R"
+  },
+  {
+    "name": "UnderwaterAcoustics.jl",
+    "url": "https://github.com/org-arl/UnderwaterAcoustics.jl",
+    "description": "Julia toolbox for underwater acoustic propagation modeling with differentiable models, replay channels and an extensible API (usable from Python)",
+    "category": "Underwater Acoustics",
+    "techs": "Julia"
   }
 ]
