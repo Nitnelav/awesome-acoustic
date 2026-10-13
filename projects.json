@@ -815,5 +815,12 @@
     "description": "GPU-accelerated FDTD ultrasound wave propagation simulator with heterogeneous power-law attenuation for complex biological tissues",
     "category": "Health",
     "techs": "Python"
+  },
+  {
+    "name": "OSEkit",
+    "url": "https://github.com/Project-OSmOSE/OSEkit",
+    "description": "Python toolkit for the management and analysis of underwater passive acoustics data (timeline-based access, preprocessing, spectrograms, LTAS)",
+    "category": "Underwater Acoustics",
+    "techs": "Python"
   }
 ]
