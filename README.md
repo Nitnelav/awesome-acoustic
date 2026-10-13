@@ -114,6 +114,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [VIBRA](https://github.com/MOPT-UFSC/VIBRA) | Vibroacoustic Analysis using the Finite Element Method | Python |
 | [pyva](https://github.com/minipief/pyva) | Python toolbox for vibroacoustics | Python |
 | [optimus](https://github.com/optimuslib/optimus) | The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation. | Jupyter Notebook |
+| [openTorsion](https://github.com/Aalto-Arotor/openTorsion) | Open source library for creating torsional finite element models | Jupyter Notebook |
 
 
 ## Soundscape
