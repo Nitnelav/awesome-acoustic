@@ -759,5 +759,12 @@
     "description": "Pre-trained models (BirdNET, Perch, HawkEars, BirdSet, YAMNet...) for bioacoustic classification tasks behind a single Python API",
     "category": "Bioacoustics",
     "techs": "Python"
+  },
+  {
+    "name": "Infrapy",
+    "url": "https://github.com/LANL-Seismoacoustics/infrapy",
+    "description": "Infrasound array processing toolkit (beamforming, detection, association and location) with a Python library, CLI and GUI",
+    "category": "Seismology",
+    "techs": "Python"
   }
 ]
