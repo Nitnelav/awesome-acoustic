@@ -842,5 +842,12 @@
     "description": "Spherical Harmonics ROOM: room acoustics simulation in the Ambisonics domain (image source method, spherical microphone arrays, binaural rendering)",
     "category": "Room Acoustics",
     "techs": "Python"
+  },
+  {
+    "name": "Diffuser Generator",
+    "url": "https://github.com/Chronosauros/diffuser-generator",
+    "description": "Browser tool that generates 3D-printable QRD (Schroeder) diffuser tiles sized to your printer bed, with the calculated working frequency range for each tile",
+    "category": "Room Acoustics",
+    "techs": ["JavaScript", "Python"]
   }
 ]
