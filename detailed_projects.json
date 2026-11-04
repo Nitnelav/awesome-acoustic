@@ -76,7 +76,7 @@
     ],
     "stars": 138,
     "forks": 20,
-    "issues": 93,
+    "issues": 94,
     "language_list": {
       "Python": 1.0
     },
@@ -137,7 +137,7 @@
     ],
     "stars": 131,
     "forks": 28,
-    "issues": 5,
+    "issues": 7,
     "language_list": {
       "Python": 0.67077974666068,
       "MDX": 0.23626493131894657
@@ -530,7 +530,7 @@
       "python",
       "scipy"
     ],
-    "stars": 8786,
+    "stars": 8789,
     "forks": 1099,
     "issues": 51,
     "language_list": {
@@ -538,7 +538,7 @@
     },
     "homepage": "https://librosa.org/",
     "created_at": "2012-10-20T14:21:01Z",
-    "updated_at": "2026-11-04T08:08:14Z"
+    "updated_at": "2026-11-04T10:12:06Z"
   },
   {
     "name": "friture",
@@ -566,6 +566,39 @@
     "homepage": "http://friture.org",
     "created_at": "2009-01-07T11:27:41Z",
     "updated_at": "2026-11-01T13:09:34Z"
+  },
+  {
+    "name": "AudioLens",
+    "url": "https://github.com/SimZhou/vscode-audiolens",
+    "description": "Audio inspection & analysis extension for Visual Studio Code",
+    "category": "General Tools",
+    "techs": [
+      "Rust",
+      "TypeScript"
+    ],
+    "language": "TypeScript",
+    "tags": [
+      "audio",
+      "audio-analysis",
+      "audio-processing",
+      "kaldi",
+      "pcm",
+      "remote-development",
+      "spectrogram",
+      "speech-processing",
+      "vscode",
+      "vscode-extension",
+      "waveform"
+    ],
+    "stars": 68,
+    "forks": 11,
+    "issues": 4,
+    "language_list": {
+      "TypeScript": 0.9686937401946022
+    },
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=simzhou.audiolens",
+    "created_at": "2026-05-14T11:40:49Z",
+    "updated_at": "2026-11-03T07:40:33Z"
   },
   {
     "name": "tascar",
@@ -1047,7 +1080,7 @@
     },
     "homepage": "https://building-acoustics-tu-eindhoven.github.io/acousticDE/",
     "created_at": "2023-02-27T15:54:43Z",
-    "updated_at": "2026-11-03T13:24:20Z"
+    "updated_at": "2026-11-04T08:59:33Z"
   },
   {
     "name": "Ono Sensor",
