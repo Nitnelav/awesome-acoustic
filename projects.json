@@ -849,5 +849,18 @@
     "description": "Browser tool that generates 3D-printable QRD (Schroeder) diffuser tiles sized to your printer bed, with the calculated working frequency range for each tile",
     "category": "Room Acoustics",
     "techs": ["JavaScript", "Python"]
+  },
+  {
+    "name": "Underwater-Acoustic-Synthetic-Dataset",
+    "url": "https://huggingface.co/datasets/suniltyagi/underwater-acoustic-synthetic-dataset",
+    "description": "12,000 synthetic 5-second clips at 16 kHz across four vessel classes and ambient ocean noise, generated from first-principle acoustic models, CC BY 4.0, DOI 10.57967/hf/11191",
+    "category": "Databases"
+  },
+  {
+    "name": "Re-identifying vessels from radiated noise",
+    "url": "https://suniltyagi.in/notes/vessel-re-identification/",
+    "description": "Explanatory note on embeddings, galleries and enrolling new ships without retraining, with a runnable NumPy example",
+    "category": "Education",
+    "techs": "Python"
   }
 ]
