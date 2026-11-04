@@ -153,6 +153,16 @@
     "techs": "Python"
   },
   {
+    "name": "AudioLens",
+    "url": "https://github.com/SimZhou/vscode-audiolens",
+    "description": "VS Code extension for audio playback, per-channel waveform and spectrogram inspection.",
+    "category": "General Tools",
+    "techs": [
+      "TypeScript",
+      "Rust"
+    ]
+  },
+  {
     "name": "tascar",
     "url": "https://github.com/gisogrimm/tascar/",
     "description": "toolbox for acoustic scene creation and rendering",
